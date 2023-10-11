@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+cat /home/jackoc/utils/user_id.txt| tr -d '\n' | xclip -selection c

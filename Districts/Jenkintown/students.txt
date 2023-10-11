@@ -1,0 +1,716 @@
+5403	Aiston, Luke Thomas	Luke	Thomas	Aiston	3275448331	0	5	M	09/05/2023	07/01/2024	3276	11/08/2012	E1		5	09/04/2018				P								
+7465	Alexander, Keyon	Keyon		Alexander	3578443441	0	11	M	09/14/2023	07/01/2024	8049	06/15/2007	R4			07/01/2023				FDC								
+6360	Alicea, Angelique Jadalee	Angelique	Jadalee	Alicea	7825151976	0	6	F	09/05/2023	07/01/2024	3276	10/07/2011	E1		4	07/01/2021				R								
+4809	Allen, Adrienne Ceylan	Adrienne	Ceylan	Allen	8966933238	0	7	F	09/05/2023	07/01/2024	8049	07/14/2010	E1		5	09/06/2016				FDC								
+7464	Alvarez, Niaya	Niaya		Alvarez	9212387942	0	11	F	09/05/2023	07/01/2024	8049	10/28/2006	E1		6	07/01/2023				FDC								
+6332	Amadio, Anthony John	Anthony	John	Amadio	5856789334	0	2	M	09/05/2023	07/01/2024	3276	12/31/2015	E1		5	07/01/2021				P								
+5402	Amadio, Clare Rosemary	Clare	Rosemary	Amadio	2498946179	0	5	F	09/05/2023	07/01/2024	3276	06/04/2013	E1		5	09/04/2018				P								
+2929	Amann, Cassidy Clare	Cassidy	Clare	Amann	3026387142	0	10	F	09/05/2023	07/01/2024	8049	08/20/2008	E1		5	09/16/2013				FDC								
+7459	Amann, Scott	Scott		Amann	4553627493	0	5	M	09/05/2023	07/01/2024	3276	07/17/2013	E1		5	07/01/2023				FDC								
+7254	Arehart, Ethan	Ethan		Arehart	5765836658	0	0	M	09/05/2023	07/01/2024	3276	06/26/2018	E1		5	07/01/2023				P								
+6301	Arehart, Jonah Alexander	Jonah	Alexander	Arehart	7816713878	0	2	M	09/05/2023	07/01/2024	3276	03/21/2016	E1		5	07/01/2021				P								
+6976	Arias Rodriguez, April	April		Arias Rodriguez	5661575629	0	8	F	09/05/2023	07/01/2024	8049	11/14/2009	E1		6	09/06/2022				F								
+7351	Arias, Arthur	Arthur		Arias	8214946654	0	0	M	09/05/2023	07/01/2024	3276	04/09/2018	E1		6	07/01/2023				P								
+5509	Ash, Paul Anthony	Paul	Anthony	Ash	1095045148	0	9	M	09/05/2023	07/01/2024	8049	08/18/2009	E1		5	09/04/2018				FDC								
+5001	Auxter, Laney Rose	Laney	Rose	Auxter	5934281291	0	6	F	09/05/2023	07/01/2024	3276	05/22/2012	E1		5	09/05/2017				P								
+4001	Auxter, Lincoln Matthew	Lincoln	Matthew	Auxter	7610396419	0	8	M	09/05/2023	07/01/2024	8049	07/22/2010	E1		5	09/08/2015				P								
+3254	Auxter, Logan Matthew	Logan	Matthew	Auxter	6631221021	0	9	M	09/05/2023	07/01/2024	8049	04/23/2009	E1		5	09/02/2014				P								
+4002	Avila, Vincent Anthony	Vincent	Anthony	Avila	5720858474	0	8	M	09/05/2023	07/01/2024	8049	05/07/2010	E1		6	09/08/2015				FDC								
+2753	Barnett, Elianna Joy	Elianna	Joy	Barnett	2596461676	0	10	F	09/05/2023	07/01/2024	8049	12/12/2007	E1		5	09/03/2013				P								
+4003	Barnett, Katherine May	Katherine	May	Barnett	5189326292	0	8	F	09/05/2023	07/01/2024	8049	05/27/2010	E1		5	09/08/2015				P								
+7153	Barnett, Zuri	Zuri		Barnett	1922760145	0	10	F	09/05/2023	07/01/2024	8049	04/29/2008	E1		3	07/01/2022				FDC								
+2858	Bartlett, Ava Renee	Ava	Renee	Bartlett	5413781385	0	11	F	09/05/2023	07/01/2024	8049	11/03/2006	E1		5	09/03/2013				P								
+3255	Bassil, Nailah Elsa	Nailah	Elsa	Bassil	5626813349	0	9	F	09/05/2023	07/01/2024	8049	10/16/2008	E1		5	09/02/2014				R								
+6109	Bates, Amare	Amare		Bates	1665922575	0	6	M	09/05/2023	07/01/2024	3276	08/04/2012	E1		3	07/01/2020				P								
+7476	Battle, Chase	Chase		Battle	5793943633	0	3	M	09/07/2023	07/01/2024	3276	06/02/2014	E1			07/01/2023				FDC								
+7475	Battle, Tyeir	Tyeir		Battle	8976635191	0	2	M	09/07/2023	07/01/2024	3276	04/24/2016	E1			07/01/2023				FDC								
+6755	Beasley, Lilly	Lilly		Beasley	5936177424	0	5	F	09/05/2023	07/01/2024	3276	07/14/2013	E1		6	03/23/2022				P								
+4701	Beauchamp, Siobhan Marie	Siobhan	Marie	Beauchamp	3236147687	0	7	F	09/05/2023	07/01/2024	8049	02/21/2011	E1		5	09/06/2016				P								
+2519	Beaudoin, Matthew Cortland	Matthew	Cortland	Beaudoin	3748286147	0	12	M	09/05/2023	07/01/2024	8049	09/22/2005	E1		5	09/04/2012				P								
+6153	Bebee, Logan	Logan		Bebee	8383879733	0	4	M	09/05/2023	07/01/2024	3276	05/22/2014	E1		3	11/04/2020				R								
+4702	Beck, Haley Jaimes	Haley	Jaimes	Beck	7939397311	0	7	F	09/05/2023	07/01/2024	8049	07/15/2010	E1		5	09/06/2016				P								
+6905	Beckmann, Aubrey	Aubrey		Beckmann	6833413193	0	1	F	09/05/2023	07/01/2024	3276	05/07/2017	E1		5	07/01/2022				FDC								
+5405	Bell, Madeline Grace	Madeline	Grace	Bell	3742523988	0	5	F	09/05/2023	07/01/2024	3276	06/24/2013	E1		5	09/04/2018				P								
+5136	Bellew, Maeve Maureen	Maeve	Maureen	Bellew	2366312865	0	12	F	09/05/2023	07/01/2024	8049	09/27/2005	E1		5	09/05/2017				P								
+5135	Bellew, Maxwell Vincent	Maxwell	Vincent	Bellew	1582453675	0	10	M	09/05/2023	07/01/2024	8049	12/19/2007	E1		5	09/05/2017				P								
+5735	Beloucif, Gisele	Gisele		Beloucif	3468916116	0	4	F	09/05/2023	07/01/2024	3276	10/10/2013	E1		5	09/03/2019				P								
+2456	Bennett, Alexander Robert	Alexander	Robert	Bennett	2255275899	0	11	M	09/05/2023	07/01/2024	8049	08/16/2007	E1		5	09/04/2012				P								
+5002	Bennett, Cooper Richard	Cooper	Richard	Bennett	3290807096	0	6	M	09/05/2023	07/01/2024	3276	11/03/2011	E1		5	09/05/2017				P								
+6351	Bergman, Ethan Riley	Ethan	Riley	Bergman	5285380189	0	9	M	09/05/2023	07/01/2024	8049	09/18/2008	E1		5	07/01/2021				P								
+5003	Bernstein, Kayla Amelia	Kayla	Amelia	Bernstein	6831493076	0	6	F	09/05/2023	07/01/2024	3276	11/02/2011	E1		5	09/05/2017				P								
+5734	Bernstein, Kyle Jacob	Kyle	Jacob	Bernstein	2191823378	0	4	M	09/05/2023	07/01/2024	3276	05/15/2014	E1		5	09/03/2019				P								
+5952	Biles, Andrew George	Andrew	George	Biles	1166977226	0	3	M	09/05/2023	07/01/2024	3276	02/11/2015	E1		5	07/01/2020				P								
+5004	Biles, Emily Heather	Emily	Heather	Biles	8853957298	0	6	F	09/05/2023	07/01/2024	3276	06/13/2012	E1		5	09/05/2017				P								
+7352	Bittner, Rosalie	Rosalie		Bittner	5664584297	0	1	F	09/05/2023	07/01/2024	3276	08/22/2017	E1		5	07/01/2023				P								
+7353	Bittner, Violet	Violet		Bittner	7755973654	0	2	F	09/05/2023	07/01/2024	3276	10/06/2015	E1		5	07/01/2023				P								
+2916	Blender, Jude Izaak	Jude	Izaak	Blender	2248580185	0	10	M	09/05/2023	07/01/2024	8049	12/18/2007	E1		5	09/03/2013				P								
+7272	Blontz, Samaar	Samaar		Blontz	3674229595	0	0	M	09/05/2023	07/01/2024	3276	10/17/2017	E1		3	07/01/2023				FDC								
+6506	Blontz, Zeke Meng	Zeke	Meng	Blontz	9264871314	0	3	M	09/05/2023	07/01/2024	9999	10/12/2013	E1		2	10/25/2021				FDC								
+6507	Blontz, Zorianna Shu	Zorianna	Shu	Blontz	5879282872	0	6	F	09/05/2023	07/01/2024	3276	07/22/2011	E1		2	10/25/2021				FDC								
+4120	Bolds, Morgan Gianna	Morgan	Gianna	Bolds	2241861804	0	11	F	09/05/2023	07/01/2024	8049	09/22/2006	E1		3	09/08/2015				P								
+4121	Bolds, Tate Alan	Tate	Alan	Bolds	2746299534	0	8	M	09/05/2023	07/01/2024	8049	02/18/2010	E1		3	09/08/2015				P								
+7318	Bolstein, Benjamin Nicholas	Benjamin	Nicholas	Bolstein	8349729171	0	0	M	09/05/2023	07/01/2024	3276	04/12/2018	E1		5	07/01/2023				P								
+4006	Bonenberger, Fiona Murphy	Fiona	Murphy	Bonenberger	2987484267	0	8	F	09/05/2023	07/01/2024	8049	10/14/2009	E1		5	09/08/2015				P								
+4703	Bonenberger, Nora Ann	Nora	Ann	Bonenberger	2178663915	0	7	F	09/05/2023	07/01/2024	8049	05/24/2011	E1		5	09/06/2016				P								
+6322	Botto, Ridley James	Ridley	James	Botto	7126867638	0	2	M	09/05/2023	07/01/2024	3276	08/22/2015	E1		5	07/01/2021				P								
+4007	Bowens, Immanuel Brian	Immanuel	Brian	Bowens	4361417628	0	8	M	09/05/2023	07/01/2024	8049	08/20/2010	E1		3	09/08/2015				FDC								
+3256	Bowens, Jaelie Noelle	Jaelie	Noelle	Bowens	1247600572	0	9	F	09/05/2023	07/01/2024	8049	02/15/2009	E1		3	09/02/2014				FDC								
+5731	Boykins, Skyler Paige	Skyler	Paige	Boykins	5166964748	0	4	F	09/05/2023	07/01/2024	3276	08/11/2014	E1		3	09/03/2019				FDC								
+4504	Boyle, Aubrey Eleanor	Aubrey	Eleanor	Boyle	9979932937	0	10	F	09/05/2023	07/01/2024	8049	02/18/2008	E1		5	03/03/2016				P								
+3416	Boyle, Grace Devlin	Grace	Devlin	Boyle	7543939487	0	9	F	09/05/2023	07/01/2024	8049	05/13/2009	E1		5	09/02/2014				P								
+4503	Boyle, Madeline Rose	Madeline	Rose	Boyle	4131677245	0	8	F	09/05/2023	07/01/2024	8049	06/09/2009	E1		5	03/03/2016				P								
+3420	Boyle, Riley Lynn	Riley	Lynn	Boyle	5277825045	0	10	F	09/05/2023	07/01/2024	8049	04/21/2008	E1		5	09/02/2014				P								
+5543	Branch, Aidan	Aidan		Branch	4514669113	0	5	M	09/05/2023	07/01/2024	9999	05/23/2013	E1			09/04/2018				P								
+6001	Branch, Averi Aliah	Averi	Aliah	Branch	7414372162	0	3	F	09/05/2023	07/01/2024	3276	05/08/2015	E1			07/01/2020				P								
+7322	Branch, Ezra	Ezra		Branch	4926757486	0	0	M	09/05/2023	07/01/2024	3276	09/13/2017	E1		6	07/01/2023				P								
+5005	Branch, Sofia Adriana	Sofia	Adriana	Branch	4373693994	0	6	F	09/05/2023	07/01/2024	3276	12/24/2011	E1		4	09/05/2017				P								
+4818	Brandt, Finneas Katherine	Finneas	Katherine	Brandt	6263813113	0	11	F	09/05/2023	07/01/2024	8049	04/01/2007	E1		5	09/06/2016				P								
+5868	Breen, Brendan Paul	Brendan	Paul	Breen	9553327532	0	9	M	09/05/2023	07/01/2024	8049	08/28/2007	E1		5	09/06/2019				FDC								
+4704	Breen, Haylee Danielle	Haylee	Danielle	Breen	2974946623	0	7	F	09/05/2023	07/01/2024	8049	01/07/2011	E1		5	09/06/2016				P								
+2910	Breen, Shanna Halle	Shanna	Halle	Breen	7002019414	0	12	F	09/05/2023	07/01/2024	8049	07/10/2006	E1		5	09/03/2013				P								
+7467	Brewer, Hailey	Hailey		Brewer	3477129962	0	5	F	09/05/2023	07/01/2024	3276	04/03/2013	E1			07/01/2023				P								
+7466	Brewer, James	James		Brewer	4746264481	0	1	M	09/05/2023	07/01/2024	3276	11/24/2016	E1			07/01/2023				P								
+7302	Bridge, Angeline Vail	Angeline	Vail	Bridge	5363211726	0	0	F	09/05/2023	07/01/2024	3276	01/11/2018	E1		5	07/01/2023				P								
+5757	Bridge, Naomi Elaine	Naomi	Elaine	Bridge	1273122798	0	4	F	09/05/2023	07/01/2024	3276	05/20/2014	E1		5	09/03/2019				P								
+6051	Brien, Aniela Lane	Aniela	Lane	Brien	5873673209	0	6	F	09/05/2023	07/01/2024	3276	03/02/2012	E1		5	07/01/2020				P								
+6052	Brien, Clara Lane	Clara	Lane	Brien	9816645629	0	3	F	09/05/2023	07/01/2024	3276	01/06/2015	E1		5	07/01/2020				P								
+5737	Briley, Marley Brynn	Marley	Brynn	Briley	8992553439	0	4	F	09/05/2023	07/01/2024	3276	05/06/2014	E1		5	09/03/2019				FDC								
+6855	Brinkley, Colette	Colette		Brinkley	1626917744	0	1	F	09/05/2023	07/01/2024	3276	06/24/2016	E1		6	07/01/2022				P								
+4008	Brodie-McKinney, Aidan Josiah	Aidan	Josiah	Brodie-McKinney	3945208394	0	8	M	09/05/2023	07/01/2024	8049	10/12/2009	E1		6	09/08/2015				FDC								
+5964	Brodie-McKinney, Ari J	Ari	J	Brodie-McKinney	4495363557	0	3	F	09/05/2023	07/01/2024	3276	07/02/2015	E1		3	07/01/2020				FDC								
+4705	Brodof, Haedyn Irene	Haedyn	Irene	Brodof	4579643909	0	7	F	09/05/2023	07/01/2024	8049	02/25/2011	E1		5	09/06/2016				P								
+3257	Brokenshire, Eleanor Kathryn	Eleanor	Kathryn	Brokenshire	6746238652	0	9	F	09/05/2023	07/01/2024	8049	03/15/2009	E1		5	09/02/2014				P								
+5006	Brokenshire, James John	James	John	Brokenshire	6421894216	0	6	M	09/05/2023	07/01/2024	3276	01/01/2012	E1		5	09/05/2017				P								
+5988	Brokenshire, William Doyle	William	Doyle	Brokenshire	3422137513	0	3	M	09/05/2023	07/01/2024	3276	11/29/2014	E1		5	07/01/2020				P								
+6108	Brooks, Zaylen	Zaylen		Brooks	9371151846	0	12	M	09/05/2023	07/01/2024	8049	01/23/2006	E1		3	07/01/2020				P								
+6320	Brown, Eliana Brown	Eliana	Brown	Brown	2641584255	0	2	F	09/05/2023	07/01/2024	3276	04/10/2016	E1		3	07/01/2021				P								
+6810	Brown, Milana	Milana		Brown	3422566481	0	1	F	09/05/2023	07/01/2024	3276	12/07/2016	E1		3	07/01/2022				FDC								
+5953	Brown, Xander Titus	Xander	Titus	Brown	6659342575	0	3	M	09/05/2023	07/01/2024	3276	01/15/2015	E1		3	07/01/2020				FDC								
+6352	Brugler, Benjamin Dimitri	Benjamin	Dimitri	Brugler	9372524794	0	6	M	09/05/2023	07/01/2024	3276	07/01/2012	E1		5	07/01/2021				P								
+6353	Brugler, Theodore Gerasimos	Theodore	Gerasimos	Brugler	8164729825	0	2	M	09/05/2023	07/01/2024	3276	10/08/2015	E1		5	07/01/2021				P								
+3302	Brunner, Blake Kathryn	Blake	Kathryn	Brunner	7254530865	0	9	F	09/05/2023	07/01/2024	8049	03/17/2009	E1		5	09/02/2014				FDC								
+5007	Brunner, Max Peter	Max	Peter	Brunner	9522653993	0	6	M	09/05/2023	07/01/2024	3276	09/16/2011	E1		5	09/05/2017				FDC								
+4804	Bruno, Logan Philip	Logan	Philip	Bruno	4829513845	0	7	M	09/05/2023	07/01/2024	8049	03/25/2011	E1		5	09/06/2016				P								
+6012	Bruno, Lucas Richard	Lucas	Richard	Bruno	4414696135	0	3	M	09/05/2023	07/01/2024	3276	07/22/2015	E1		5	07/01/2020				P								
+5541	Bryant, Imani Lynn	Imani	Lynn	Bryant	4824878667	0	5	F	09/05/2023	07/01/2024	3276	03/07/2013	E1		3	09/04/2018				P								
+7314	Burd, John Dixon	John	Dixon	Burd	9146936939	0	0	M	09/05/2023	07/01/2024	3276	11/10/2017	E1		5	07/01/2023				P								
+6314	Burns, Daniel James	Daniel	James	Burns	2162818493	0	2	M	09/05/2023	07/01/2024	3276	05/19/2016	E1		5	07/01/2021				P								
+6302	Burns, Elliott Duffey	Elliott	Duffey	Burns	4488964885	0	2	M	09/05/2023	07/01/2024	3276	12/04/2015	E1		5	07/01/2021				FDC								
+6313	Burns, Margaret Jane	Margaret	Jane	Burns	1563161583	0	2	F	09/05/2023	07/01/2024	3276	05/19/2016	E1		5	07/01/2021				P								
+1902	Byler, John Thomas	John	Thomas	Byler	7070061366	0	12	M	09/05/2023	07/01/2024	8049	02/03/2006	E1		5	09/06/2011				P								
+2457	Callahan, Brenna Marie	Brenna	Marie	Callahan	1217442774	0	11	F	09/05/2023	07/01/2024	8049	08/16/2007	E1		5	09/04/2012				P								
+4009	Callahan, Jack Donald	Jack	Donald	Callahan	3056042674	0	8	M	09/05/2023	07/01/2024	8049	06/16/2010	E1		5	09/08/2015				P								
+1978	Callas, James Louis	James	Louis	Callas	9218562088	0	12	M	09/05/2023	07/01/2024	8049	08/11/2005	E1		5	09/06/2011				P								
+5986	Campana, Benjamin Shaw	Benjamin	Shaw	Campana	2364787769	0	8	M	09/05/2023	07/01/2024	8049	04/25/2010	E1		5	07/01/2020				P								
+5987	Campana, Cameron	Cameron		Campana	6257837464	0	3	M	09/05/2023	07/01/2024	3276	09/25/2014	E1		5	07/01/2020				P								
+4820	Capriotti, Raymond	Raymond		Capriotti	6217591677	0	7	M	09/05/2023	07/01/2024	8049	10/07/2010	E1		5	09/06/2016				P								
+7004	Carminati, Darin	Darin		Carminati	4439313329	0	4	M	09/05/2023	07/01/2024	3276	07/01/2014	E1		6	07/01/2022				P								
+7005	Carminati, Mabel	Mabel		Carminati	1354244141	0	1	F	09/05/2023	07/01/2024	3276	11/05/2016	E1		5	07/01/2022				P								
+5010	Carnavil, Maddison Eve	Maddison	Eve	Carnavil	8667679682	0	6	F	09/05/2023	07/01/2024	3276	04/18/2012	E1		5	09/05/2017				P								
+6903	Carney, Gabrielle Milan	Gabrielle	Milan	Carney	8634642631	0	7	F	09/05/2023	07/01/2024	8049	09/20/2010	E1		3	07/01/2022				P								
+5860	Carter, Autumn Dahlia	Autumn	Dahlia	Carter	5527788192	0	5	F	09/05/2023	07/01/2024	3276	12/08/2012	E1		3	09/03/2019				P								
+6020	Carter, Averie	Averie		Carter	2668711894	0	12	F	09/05/2023	07/01/2024	8049	05/15/2006	E1		3	09/08/2020				P								
+5858	Carter, Ma'eenah	Ma'eenah		Carter	8972662445	0	11	F	09/05/2023	07/01/2024	8049	09/07/2006	E1		3	09/03/2019				P								
+5975	Cella, Breccan Joseph	Breccan	Joseph	Cella	7483436131	0	3	M	09/05/2023	07/01/2024	3276	03/31/2015	E1		5	07/01/2020				P								
+4012	Cella, Luca James	Luca	James	Cella	9741823657	0	8	M	09/05/2023	07/01/2024	8049	06/04/2010	E1		5	09/08/2015				P								
+5008	Cella, Noah Robert	Noah	Robert	Cella	6316484933	0	6	M	09/05/2023	07/01/2024	3276	01/31/2012	E1		5	09/05/2017				P								
+4706	Chachkin, Joseph Maxwell	Joseph	Maxwell	Chachkin	4165595381	0	7	M	09/05/2023	07/01/2024	8049	08/04/2010	E1		5	09/06/2016				P								
+2755	Chachkin, Leila Goldie	Leila	Goldie	Chachkin	7614617371	0	10	F	09/05/2023	07/01/2024	8049	12/04/2007	E1		5	09/03/2013				P								
+1656	Chachkin, Matthew Wolf	Matthew	Wolf	Chachkin	8513789372	0	12	M	09/05/2023	07/01/2024	8049	07/19/2005	E1		5	09/06/2011				P								
+3402	Chambers, Carter Tasch	Carter	Tasch	Chambers	9008960508	0	9	M	09/05/2023	07/01/2024	8049	10/04/2008	E1		6	09/02/2014				P								
+5510	Chapman, Carter James	Carter	James	Chapman	1855320975	0	7	M	09/05/2023	07/01/2024	8049	07/14/2011	E1		3	09/04/2018				P								
+5511	Chapman, Lindsae Ann	Lindsae	Ann	Chapman	2828566323	0	7	F	09/05/2023	07/01/2024	8049	07/14/2011	E1		3	09/04/2018				P								
+5251	Chauhan, Arjun	Arjun		Chauhan	3298982539	0	7	M	09/05/2023	07/01/2024	8049	03/07/2012	E1		2	10/18/2017				P								
+4749	Collins, Claire Grace	Claire	Grace	Collins	3877636691	0	7	F	09/05/2023	07/01/2024	8049	08/24/2011	E1		5	09/06/2016				P								
+3260	Condran, Jane Helena	Jane	Helena	Condran	5759607022	0	9	F	09/05/2023	07/01/2024	8049	07/13/2009	E1		5	09/02/2014				P								
+4708	Connaghan, Declan James	Declan	James	Connaghan	1476023328	0	7	M	09/05/2023	07/01/2024	8049	05/03/2011	E1		5	09/06/2016				P								
+2804	Connaghan, Shane Dylan	Shane	Dylan	Connaghan	3600726781	0	10	M	09/05/2023	07/01/2024	8049	01/05/2008	E1		5	09/03/2013				P								
+2757	Conners, Eleanor KathArine	Eleanor	KathArine	Conners	4539820702	0	10	F	09/05/2023	07/01/2024	8049	07/05/2008	E1		5	09/03/2013				P								
+5406	Conners, Meaghan Elizabeth	Meaghan	Elizabeth	Conners	4090275512	0	5	F	09/05/2023	07/01/2024	3276	09/30/2012	E1		5	09/04/2018				P								
+4709	Conners, Piper Suzanne	Piper	Suzanne	Conners	6544126446	0	7	F	09/05/2023	07/01/2024	8049	11/08/2010	E1		5	09/06/2016				P								
+7267	Connors, Seamus William	Seamus	William	Connors	2185633546	0	0	M	09/05/2023	07/01/2024	3276	05/05/2018	E1		5	07/01/2023				P								
+7463	Conti, Astrid Nicole	Astrid	Nicole	Conti	8992648715	0	0	F	09/05/2023	07/01/2024	3276	07/29/2018	E1		5	07/01/2023				FDC								
+5856	Cooper, Aiden Terron	Aiden	Terron	Cooper	4792536065	0	9	M	09/05/2023	07/01/2024	8049	04/28/2009	E1		3	09/03/2019				FDC								
+5855	Cooper, Ashtyn Renee	Ashtyn	Renee	Cooper	8501503126	0	6	F	09/05/2023	07/01/2024	3276	11/18/2011	E1		3	09/03/2019				FDC								
+6411	Cooper, Erik Christopher	Erik	Christopher	Cooper	7138733437	0	5	M	09/05/2023	07/01/2024	3276	04/29/2012	E1		3	09/10/2021				FDC								
+6504	Cooper, Madison Jade	Madison	Jade	Cooper	3398497578	0	7	F	09/05/2023	07/01/2024	8049	07/10/2011	E1		3	10/18/2021				FDC								
+7008	Cooper, Ny'Lei	Ny'Lei		Cooper	1962585298	0	1	F	09/05/2023	07/01/2024	3276	03/30/2017	E1		3	07/01/2022				FDC								
+6412	Cooper, Sy'nair	Sy'nair		Cooper	5622703727	0	3	M	09/05/2023	07/01/2024	3276	07/10/2014	E1		3	09/10/2021				FDC								
+5407	Costandino, David James	David	James	Costandino	8627394695	0	5	M	09/05/2023	07/01/2024	3276	09/16/2012	E1		5	09/04/2018				P								
+2758	Costandino, Nina Elizabeth	Nina	Elizabeth	Costandino	6495138245	0	10	F	09/05/2023	07/01/2024	8049	08/25/2008	E1		5	09/03/2013				P								
+4711	Costandino, Ruby Rose	Ruby	Rose	Costandino	9322996315	0	7	F	09/05/2023	07/01/2024	8049	10/16/2010	E1		5	09/06/2016				P								
+5954	Costandino, Violet Kay	Violet	Kay	Costandino	8662733441	0	3	F	09/05/2023	07/01/2024	3276	02/17/2015	E1		5	07/01/2020				P								
+7265	Costanzo, Logan Xavier	Logan	Xavier	Costanzo	1878585355	0	0	M	09/05/2023	07/01/2024	3276	02/20/2018	E1		5	07/01/2023				P								
+7201	Costanzo, Luke Italo	Luke	Italo	Costanzo	3248488166	0	1	M	09/05/2023	07/01/2024	3276	12/27/2016	E1		6	07/01/2022				P								
+4712	Cowart, Spencer Elijah	Spencer	Elijah	Cowart	1953451624	0	7	M	09/05/2023	07/01/2024	8049	01/03/2011	E1		5	09/06/2016				P								
+7473	Crossen, Augustine	Augustine		Crossen	2832089658	0	3	M	09/05/2023	07/01/2024	3276	01/03/2015	E1			07/01/2023				FDC								
+6971	Crudden, Nicola	Nicola		Crudden	8493585742	0	2	F	09/05/2023	07/01/2024	3276	08/18/2016	E1		5	07/01/2022				P								
+4855	Cruz, Kayla Marie	Kayla	Marie	Cruz	3706464713	0	10	F	09/05/2023	07/01/2024	8049	06/05/2008	E1		6	11/15/2016				P								
+5866	Cruz, Vanessa Lynn	Vanessa	Lynn	Cruz	5316536339	0	4	F	09/05/2023	07/01/2024	3276	12/23/2013	E1		4	09/04/2019				FDC								
+4806	Currano Allen, Edward Reinhard	Edward	Reinhard	Currano Allen	4556081165	0	7	M	09/05/2023	07/01/2024	8049	11/19/2010	E1		5	09/06/2016				P								
+7315	Currano Allen, Nicholas	Nicholas		Currano Allen	8921547339	0	0	M	09/05/2023	07/01/2024	3276	12/13/2017	E1		5	07/01/2023				P								
+6009	Currano Allen, William John	William	John	Currano Allen	3993793463	0	3	M	09/05/2023	07/01/2024	3276	11/16/2014	E1		5	07/01/2020				P								
+5984	Curtin, Quinn Joseph	Quinn	Joseph	Curtin	9394423486	0	3	M	09/05/2023	07/01/2024	3276	06/09/2015	E1		5	07/01/2020				P								
+5102	Curtin, Zoe Maddox	Zoe	Maddox	Curtin	7198554733	0	6	F	09/05/2023	07/01/2024	3276	07/01/2012	E1		5	09/05/2017				P								
+4901	D'Amore, Alexis Marie	Alexis	Marie	D'Amore	6636700181	0	9	F	09/05/2023	07/01/2024	8049	10/05/2008	E1		5	01/30/2017				FDC								
+4902	D'Amore, Anthony Phillip	Anthony	Phillip	D'Amore	1164049097	0	12	M	09/05/2023	07/01/2024	8049	08/10/2006	E1		5	01/30/2017				FDC								
+2510	D'Arcy-Brooks, Liam James	Liam	James	D'Arcy-Brooks	7240750736	0	11	M	09/05/2023	07/01/2024	8049	12/11/2006	E1		5	09/04/2012				P								
+6002	Daly, Meghan	Meghan		Daly	6478545822	0	3	F	09/05/2023	07/01/2024	3276	01/01/2015	E1		5	07/01/2020				FDC								
+6325	Daniels, Kiran Fox	Kiran	Fox	Daniels	1256256226	0	2	M	09/05/2023	07/01/2024	3276	08/01/2015	E1		6	07/01/2021				P								
+5408	Davenport, Mason Methodi Didier	Mason	Methodi Didier	Davenport	4041345588	0	5	M	09/05/2023	07/01/2024	3276	10/18/2012	E1		3	09/04/2018				P								
+3261	Davis, Benjamin Clark	Benjamin	Clark	Davis	5340018016	0	9	M	09/05/2023	07/01/2024	8049	10/08/2008	E1		5	09/02/2014				P								
+7055	DeCrosta, David	David		DeCrosta	8515284464	0	12	M	09/05/2023	07/01/2024	8049	11/19/2005	E1		5	07/01/2022				P								
+1903	DeFazio, Celia Bess	Celia	Bess	DeFazio	6120989897	0	12	F	09/05/2023	07/01/2024	8049	10/15/2005	E1		5	09/06/2011				P								
+2759	DeFazio, Chloe Derek	Chloe	Derek	DeFazio	7282755094	0	10	F	09/05/2023	07/01/2024	8049	04/25/2008	E1		5	09/03/2013				P								
+4713	DeFazio, Iris Belle	Iris	Belle	DeFazio	5066976884	0	7	F	09/05/2023	07/01/2024	8049	07/03/2011	E1		5	09/06/2016				P								
+5955	Dekhayser, Forest Aiden	Forest	Aiden	Dekhayser	2611743347	0	3	M	09/05/2023	07/01/2024	3276	03/13/2015	E1		5	07/01/2020				P								
+6811	Dekhayser, Reese	Reese		Dekhayser	9119487134	0	1	F	09/05/2023	07/01/2024	3276	06/01/2017	E1		5	07/01/2022				P								
+6953	Delacruz, Avamarie	Avamarie		Delacruz	4817767294	0	1	F	09/05/2023	07/01/2024	3276	11/23/2016	E1		6	07/01/2022				P								
+5501	DeLaCruz, Leonardo Paveli	Leonardo	Paveli	DeLaCruz	3571960823	0	5	M	09/05/2023	07/01/2024	3276	03/31/2013	E1		4	09/04/2018				P								
+5518	DeLawder, Logan Walter	Logan	Walter	DeLawder	1882350308	0	8	M	09/05/2023	07/01/2024	8049	06/04/2010	E1		5	09/04/2018				P								
+5519	DeLawder, Rhys Mason	Rhys	Mason	DeLawder	3667892829	0	8	M	09/05/2023	07/01/2024	8049	06/04/2010	E1		5	09/04/2018				P								
+2857	Depman, Joseph Andrew	Joseph	Andrew	Depman	8498724384	0	12	M	09/05/2023	07/01/2024	8049	05/24/2006	E1		5	09/03/2013				P								
+5009	Devers, Cesare Giorgio	Cesare	Giorgio	Devers	9427931434	0	6	M	09/05/2023	07/01/2024	3276	10/06/2011	E1		5	09/05/2017				P								
+5409	Devers, Luca Amedeo	Luca	Amedeo	Devers	3651821196	0	5	M	09/05/2023	07/01/2024	3276	04/10/2013	E1		5	09/04/2018				P								
+6337	DiBerardinis, Graham Michael	Graham	Michael	DiBerardinis	5752173868	0	2	M	09/05/2023	07/01/2024	3276	01/28/2016	E1		5	07/01/2021				P								
+7308	DiBerardinis, Lauren	Lauren		DiBerardinis	9716722931	0	0	F	09/05/2023	07/01/2024	3276	02/10/2018	E1		5	07/01/2023				P								
+5410	DiCamillo, Gianna Gabriele	Gianna	Gabriele	DiCamillo	7743719251	0	5	F	09/05/2023	07/01/2024	3276	11/10/2012	E1		5	09/04/2018				FDC								
+5011	DiCamillo, James Michael	James	Michael	DiCamillo	9854413411	0	6	M	09/05/2023	07/01/2024	3276	11/09/2011	E1		5	09/05/2017				FDC								
+6956	DiCamillo, John	John		DiCamillo	3177812519	0	1	M	09/05/2023	07/01/2024	3276	10/26/2016	E1		5	07/01/2022				FDC								
+4715	DiCamillo, Thomas Andrew	Thomas	Andrew	DiCamillo	8838247161	0	7	M	09/05/2023	07/01/2024	8049	11/18/2010	E1		5	09/06/2016				FDC								
+3262	Din, Matthew Benjamin	Matthew	Benjamin	Din	9130378419	0	9	M	09/05/2023	07/01/2024	8049	08/21/2009	E1		6	09/02/2014				P								
+5532	Dinkin, Emma Jane	Emma	Jane	Dinkin	3824753677	0	10	F	09/05/2023	07/01/2024	8049	01/24/2008	E1		5	09/04/2018				FDC								
+7455	Dinkin, Lily	Lily		Dinkin	4174141398	0	0	F	09/05/2023	07/01/2024	3276	12/01/2017	E1		5	07/01/2023				FDC								
+7256	DiPiero, Nora	Nora		DiPiero	9339664167	0	0	F	09/05/2023	07/01/2024	3276	06/19/2017	E1		5	07/01/2023				P								
+6309	Diskin, Aiden Patrick	Aiden	Patrick	Diskin	4288403863	0	7	M	09/05/2023	07/01/2024	8049	02/01/2011	E1		5	07/01/2021				P								
+6308	Diskin, Ciaran Scott	Ciaran	Scott	Diskin	7394374262	0	3	M	09/05/2023	07/01/2024	3276	09/10/2014	E1		5	07/01/2021				P								
+5455	DiVito, Aiden Joseph	Aiden	Joseph	DiVito	2861263385	0	5	M	09/05/2023	07/01/2024	3276	03/18/2013	E1		5	09/04/2018				P								
+5972	DiVito, Cameron	Cameron		DiVito	8535281134	0	3	M	09/05/2023	07/01/2024	3276	01/20/2015	E1		5	07/01/2020				P								
+4013	Domanico, Nicholas Francis	Nicholas	Francis	Domanico	4025616173	0	8	M	09/05/2023	07/01/2024	8049	01/05/2010	E1		5	09/08/2015				P								
+7355	Douglas, Adrayanna	Adrayanna		Douglas	8728210581	0	11	F	09/05/2023	07/01/2024	8049	08/06/2007	E1		3	09/05/2023				F								
+6969	Drees, Bayard	Bayard		Drees	6858927743	0	2	M	09/05/2023	07/01/2024	3276	05/18/2015	E1		5	07/01/2022				P								
+6803	Druckenmiller, Aubrey	Aubrey		Druckenmiller	8611259726	0	1	F	09/05/2023	07/01/2024	3276	02/14/2017	E1		5	07/01/2022				P								
+5730	Druckenmiller, Everly Ann	Everly	Ann	Druckenmiller	4055156367	0	4	F	09/05/2023	07/01/2024	3276	02/11/2014	E1		5	09/03/2019				P								
+7276	Drury, Jack	Jack		Drury	1375545213	0	0	M	09/05/2023	07/01/2024	3276	01/23/2018	E1		5	07/01/2023				P								
+7309	Duchner, Romi	Romi		Duchner	2245492455	0	0	F	09/05/2023	07/01/2024	3276	07/26/2018	E1		5	07/01/2023				FDC								
+4052	Duchner, Toshi Amos	Toshi	Amos	Duchner	1816430528	0	8	M	09/05/2023	07/01/2024	8049	09/29/2009	E1		5	09/08/2015				FDC								
+4716	Duffey, Abigail Rose	Abigail	Rose	Duffey	3977691368	0	7	F	09/05/2023	07/01/2024	8049	02/03/2011	E1		5	09/06/2016				FDC								
+5956	Duffey, Brendan Oisin	Brendan	Oisin	Duffey	4198583463	0	3	M	09/05/2023	07/01/2024	3276	04/18/2015	E1		5	07/01/2020				FDC								
+7273	Duffey, Darragh	Darragh		Duffey	5287149182	0	0	M	09/05/2023	07/01/2024	3276	05/27/2018	E1		5	07/01/2023				FDC								
+2458	Duffey, Grayson Oran	Grayson	Oran	Duffey	8059970569	0	11	M	09/05/2023	07/01/2024	8049	12/29/2006	E1		5	09/04/2012				P								
+4014	Duffey, Greta June	Greta	June	Duffey	1612686214	0	8	F	09/05/2023	07/01/2024	8049	06/07/2009	E1		5	09/08/2015				P								
+6324	Duffey, Kaia Mae	Kaia	Mae	Duffey	2311811827	0	2	F	09/05/2023	07/01/2024	3276	01/20/2016	E1		5	07/01/2021				P								
+5411	Duffey, Nola Eden	Nola	Eden	Duffey	3597877125	0	5	F	09/05/2023	07/01/2024	3276	11/24/2012	E1		5	09/04/2018				P								
+4717	Duffey, Violet Jane	Violet	Jane	Duffey	1275928595	0	7	F	09/05/2023	07/01/2024	8049	09/06/2010	E1		5	09/06/2016				FDC								
+5412	Duffey, Vivian Rose	Vivian	Rose	Duffey	9672205775	0	5	F	09/05/2023	07/01/2024	3276	07/23/2013	E1		5	09/04/2018				FDC								
+5452	Dvalishvili, Margo	Margo		Dvalishvili	3567752669	0	5	F	09/05/2023	07/01/2024	3276	06/27/2013	E1		5	09/04/2018				FDC								
+4404	Dvalishvili, Nicholaus	Nicholaus		Dvalishvili	6614495429	0	11	M	09/05/2023	07/01/2024	8049	05/25/2007	E1		5	09/04/2018				FDC								
+6970	Ecker, Matthew	Matthew		Ecker	2922852156	0	9	M	09/05/2023	07/01/2024	8049	01/17/2009	E1		5	07/01/2022				P								
+7303	Edelman, Natalie	Natalie		Edelman	4656679852	0	0	F	09/05/2023	07/01/2024	3276	04/12/2018	E1		5	07/01/2023				FDC								
+6373	Els, Ondine Elin	Ondine	Elin	Els	1155134451	0	2	F	09/05/2023	07/01/2024	3276	06/15/2016	E1		5	07/01/2021				P								
+7279	Els, Tristan Etienne	Tristan	Etienne	Els	2884392173	0	0	M	09/05/2023	07/01/2024	3276	11/12/2017	E1		5	07/01/2023				P								
+6509	Espaillat, Leonardo Enrique	Leonardo	Enrique	Espaillat	7218395252	0	5	M	09/05/2023	07/01/2024	3276	11/05/2012	E1		4	11/01/2021				FDC								
+6853	Evans, Charles Irving	Charles	Irving	Evans	4277371175	0	1	M	09/05/2023	07/01/2024	3276	05/22/2017	E1		5	07/01/2022				P								
+5957	Evans, Cora Anna	Cora Anna		Evans	8963381129	0	3	F	09/05/2023	07/01/2024	3276	03/23/2015	E1		5	07/01/2020				P								
+5413	Evans, June Rose	June	Rose	Evans	2002796386	0	5	F	09/05/2023	07/01/2024	3276	04/08/2013	E1		5	09/04/2018				P								
+6306	Falese, Elizabeth Grace	Elizabeth	Grace	Falese	2296633595	0	2	F	09/05/2023	07/01/2024	3276	08/03/2016	E1		5	07/01/2021				P								
+2476	Farrington, Preston Dorian	Preston	Dorian	Farrington	5692547686	0	11	M	09/05/2023	07/01/2024	8049	07/30/2006	E1		5	09/04/2012				P								
+4058	Farroukh, Essam Ahmed	Essam	Ahmed	Farroukh	5904151918	0	11	M	09/05/2023	07/01/2024	8049	01/23/2007	E1		5	09/08/2015				P								
+5807	Feaster, Estelle Pilar	Estelle	Pilar	Feaster	2995695603	0	9	F	09/05/2023	07/01/2024	8049	04/14/2009	E1		5	09/03/2019				P								
+5806	Feaster, William Ellsworth	William	Ellsworth	Feaster	2136349546	0	5	M	09/05/2023	07/01/2024	3276	05/15/2013	E1		5	09/03/2019				P								
+6008	Feierman-Bonislawski, Ezra	Ezra		Feierman-Bonislawski	3632581746	0	3	M	09/05/2023	07/01/2024	3276	05/01/2015	E1		5	07/01/2020				P								
+6106	Feierman-Bonislawski, Nathaniel	Nathaniel		Feierman-Bonislawski	3341884653	0	3	M	09/05/2023	07/01/2024	9999	05/01/2015	E1		5	07/01/2020				P								
+5414	Feierman-Bonislawski, Noah Martin	Noah	Martin	Feierman-Bonislawski	6068293491	0	5	M	09/05/2023	07/01/2024	3276	03/04/2013	E1		5	09/04/2018				P								
+7321	Fierson, James	James		Fierson	8347688192	0	0	M	09/05/2023	07/01/2024	3276	06/06/2018	E1		5	07/01/2023				P								
+6011	Fierson, Sean	Sean		Fierson	5984408651	0	3	M	09/05/2023	07/01/2024	3276	05/19/2015	E1		5	07/01/2020				P								
+6503	Fitzpatrick, Christopher Joseph	Christopher	Joseph	Fitzpatrick	6312128458	0	11	M	09/05/2023	07/01/2024	8049	10/03/2007	E1		5	10/04/2021				FDC								
+6502	Fitzpatrick, Reece M	Reece	M	Fitzpatrick	7154246286	0	11	M	09/05/2023	07/01/2024	9999	01/26/2006	E1		5	07/01/2021				P								
+7305	Fleck, Harper	Harper		Fleck	9811494924	0	0	F	09/05/2023	07/01/2024	3276	10/26/2017	E1		5	07/01/2023				P								
+5958	Forster, Colby Jack	Colby	Jack	Forster	6615272636	0	3	M	09/05/2023	07/01/2024	3276	04/27/2015	E1		5	07/01/2020				FDC								
+7311	Forster, MacKenzie	MacKenzie		Forster	5234747166	0	0	F	09/05/2023	07/01/2024	3276	10/07/2017	E1		5	07/01/2023				FDC								
+7274	Fox, Claire	Claire		Fox	9184843446	0	0	F	09/05/2023	07/01/2024	3276	02/20/2018	E1		5	07/01/2023				P								
+6333	Fox, Leo Easton	Leo	Easton	Fox	2478998599	0	2	M	09/05/2023	07/01/2024	3276	07/25/2016	E1		6	07/01/2021				P								
+6201	Fox, Winifred Ann	Winifred	Ann	Fox	7936514651	0	3	F	09/05/2023	07/01/2024	3276	10/20/2014	E1		5	02/09/2021				P								
+5863	Franznick, John Dylan	John	Dylan	Franznick	5716378943	0	9	M	09/05/2023	07/01/2024	8049	12/02/2008	E1		5	09/03/2019				P								
+5864	Franznick, Juliette	Juliette		Franznick	6414557684	0	7	F	09/05/2023	07/01/2024	8049	11/04/2010	E1		5	09/03/2019				P								
+7277	Fredericks-Gouge, Ari	Ari		Fredericks-Gouge	8356945453	0	0	M	09/05/2023	07/01/2024	3276	06/10/2017	E1		5	07/01/2023				P								
+5999	Fredericks-Gouge, Asa Joseph	Asa	Joseph	Fredericks-Gouge	4542483959	0	3	M	09/05/2023	07/01/2024	3276	06/10/2015	E1		5	07/01/2020				P								
+5415	Freeman, Elsie Nicole	Elsie	Nicole	Freeman	6209454941	0	5	F	09/05/2023	07/01/2024	3276	09/19/2012	E1		5	09/04/2018				P								
+5857	Frink, Faith Makayla	Faith	Makayla	Frink	5184820329	0	6	F	09/05/2023	07/01/2024	3276	03/08/2012	E1		3	09/03/2019				P								
+6954	Fuelleborn, Anne	Anne		Fuelleborn	8958112123	0	1	F	09/05/2023	07/01/2024	3276	07/25/2016	E1		5	07/01/2022				P								
+4015	Fuelleborn, Henry Andrew	Henry	Andrew	Fuelleborn	8850811667	0	8	M	09/05/2023	07/01/2024	8049	06/10/2010	E1		5	09/08/2015				P								
+5012	Fuelleborn, Thomas Walker	Thomas	Walker	Fuelleborn	5488395997	0	6	M	09/05/2023	07/01/2024	3276	05/12/2012	E1		5	09/05/2017				P								
+1921	Gabrielsen, Madeline Mirei	Madeline	Mirei	Gabrielsen	2937318088	0	12	F	09/05/2023	07/01/2024	8049	09/08/2005	E1		6	09/06/2011				P								
+6955	Gabrielsen, Miria	Miria		Gabrielsen	2632691346	0	1	F	09/05/2023	07/01/2024	3276	08/02/2016	E1		6	07/01/2022				P								
+4016	Gabrielsen, Seiken Sascha	Seiken	Sascha	Gabrielsen	1651506973	0	8	M	09/05/2023	07/01/2024	8049	05/20/2010	E1		6	09/08/2015				P								
+5129	Gaio, Jonas	Jonas		Gaio	7287149478	0	11	M	09/05/2023	07/01/2024	8049	01/23/2007	E1		5	09/05/2017				P								
+6321	Galbraith, Eve Sierra	Eve	Sierra	Galbraith	9886379626	0	2	F	09/05/2023	07/01/2024	3276	08/08/2016	E1		5	07/01/2021				P								
+5728	Galbraith, Shane Michael	Shane	Michael	Galbraith	4882182955	0	4	M	09/05/2023	07/01/2024	3276	09/16/2013	E1		5	09/03/2019				P								
+6652	Gallagher, James A	James	A	Gallagher	5523885436	0	1	M	09/05/2023	07/01/2024	3276	12/02/2016	E1		5	07/01/2022				P								
+5753	Gallagher, Michael Francis	Michael	Francis	Gallagher	7256185391	0	4	M	09/05/2023	07/01/2024	3276	03/31/2014	E1		5	09/03/2019				P								
+2468	Gans, Lily Isabel	Lily	Isabel	Gans	2896727388	0	11	F	09/05/2023	07/01/2024	8049	08/24/2007	E1		5	09/04/2012				P								
+4719	Gavioli, Alexandra Sophia	Alexandra	Sophia	Gavioli	5375491257	0	6	F	09/05/2023	07/01/2024	3276	06/22/2011	E1		5	09/06/2016				P								
+4801	Gavioli, James Anthony	James	Anthony	Gavioli	3805133294	0	6	M	09/05/2023	07/01/2024	3276	06/22/2011	E1		5	09/06/2016				P								
+2760	Gehan, Delaney Mae	Delaney	Mae	Gehan	1024734943	0	10	F	09/05/2023	07/01/2024	8049	10/21/2007	E1		5	09/03/2013				P								
+2461	Gehan, Jeanmarie Elizabeth	Jeanmarie	Elizabeth	Gehan	7798469869	0	11	F	09/05/2023	07/01/2024	8049	10/01/2006	E1		5	09/04/2012				P								
+4017	Gehan, Seamus Patrick	Seamus	Patrick	Gehan	3322150429	0	8	M	09/05/2023	07/01/2024	8049	09/22/2009	E1		5	09/08/2015				P								
+6363	Ghrist, Eleanor Beatrix	Eleanor	Beatrix	Ghrist	7995358415	0	11	F	09/05/2023	07/01/2024	8049	02/25/2007	E1		5	07/01/2021				P								
+1905	Giammanco, Samantha A	Samantha	A	Giammanco	9001483682	0	12	F	09/05/2023	07/01/2024	8049	03/18/2006	E1		5	09/06/2011				P								
+7457	Gil, Angela	Angela		Gil	4173944675	0	4	F	09/05/2023	07/01/2024	3276	09/01/2013	E1		6	07/01/2023				P								
+5981	Gonzalez de Echavarri, Elena	Elena		Gonzalez de Echavarri	2563466253	0	3	F	09/05/2023	07/01/2024	3276	01/04/2015	E1		4	07/01/2020				P								
+5013	Gonzalez de Echavarri, Olivia	Olivia		Gonzalez de Echavarri	1171165188	0	6	F	09/05/2023	07/01/2024	3276	11/07/2011	E1		4	09/05/2017				P								
+6152	Gordy, Amir	Amir		Gordy	9810273622	0	9	M	09/05/2023	07/01/2024	8049	12/05/2008	E1		3	11/04/2020				R								
+5014	Granieri, Olivia Isobel	Olivia	Isobel	Granieri	5767939225	0	5	F	09/05/2023	07/01/2024	3276	07/28/2012	E1		5	09/05/2017				FDC								
+4802	Granieri, William Joseph	William	Joseph	Granieri	2789259771	0	6	M	09/05/2023	07/01/2024	3276	07/20/2011	E1		5	09/06/2016				FDC								
+5016	Grasmeder, Charlotte Jane	Charlotte	Jane	Grasmeder	3482262764	0	6	F	09/05/2023	07/01/2024	3276	06/29/2012	E1		5	09/05/2017				P								
+4018	Grasmeder, Grace Alice	Grace	Alice	Grasmeder	8462563518	0	8	F	09/05/2023	07/01/2024	8049	11/06/2009	E1		5	09/08/2015				P								
+5122	Gravely, Madisyn	Madisyn		Gravely	7467484488	0	6	F	09/05/2023	07/01/2024	3276	07/26/2012	E1		3	09/05/2017				FDC								
+5754	Graves, Charles O'Neill	Charles	O'Neill	Graves	1266359869	0	4	M	09/05/2023	07/01/2024	3276	08/21/2014	E1		5	09/03/2019				P								
+4720	Graves, Luke Oliver	Luke	Oliver	Graves	3757556879	0	7	M	09/05/2023	07/01/2024	8049	02/02/2011	E1		5	09/06/2016				P								
+5015	Graves, Theodore Anderson	Theodore	Anderson	Graves	9391185495	0	6	M	09/05/2023	07/01/2024	3276	06/21/2012	E1		5	09/05/2017				P								
+6331	Graziani, Belle Sophia	Belle	Sophia	Graziani	7523435637	0	2	F	09/05/2023	07/01/2024	3276	08/03/2016	E1		4	07/01/2021				P								
+5726	Graziani, Luna Ava	Luna	Ava	Graziani	6216158228	0	4	F	09/05/2023	07/01/2024	3276	07/16/2014	E1		4	09/03/2019				P								
+4019	Griffin, Scarlett Veronica	Scarlett	Veronica	Griffin	2479703355	0	8	F	09/05/2023	07/01/2024	8049	06/17/2010	E1		5	09/08/2015				FDC								
+5725	Grimshaw, Wesley James	Wesley	James	Grimshaw	2582959294	0	3	M	09/05/2023	07/01/2024	3276	06/22/2014	E1		5	09/03/2019				P								
+7471	Grosik, Isaac	Isaac		Grosik	8268964758	0	3	M	09/05/2023	07/01/2024	3276	11/20/2014	E1			07/01/2023				FDC								
+5520	Guerrero, Rocco	Rocco		Guerrero	3946744702	0	5	M	09/05/2023	07/01/2024	3276	04/23/2013	E1		4	09/04/2018				P								
+5521	Guerrero, Salvador	Salvador		Guerrero	5933104582	0	7	M	09/05/2023	07/01/2024	8049	08/10/2010	E1		4	09/04/2018				P								
+4840	Gunn, Joseph	Joseph		Gunn	9119480326	0	10	M	09/05/2023	07/01/2024	8049	04/20/2008	E1		5	09/06/2016				P								
+5139	Gunn, Lucy	Lucy		Gunn	5982726613	0	6	F	09/05/2023	07/01/2024	3276	01/27/2012	E1		5	09/05/2017				F								
+4839	Gunn, Tiger	Tiger		Gunn	2877137074	0	8	M	09/05/2023	07/01/2024	8049	07/10/2009	E1		5	09/06/2016				F								
+4020	Hackett, Phineas James Casper	Phineas	James Casper	Hackett	3004303256	0	8	M	10/10/2023	07/01/2024	8049	03/09/2010	R11		5	09/08/2015				P								
+1906	Hackett, Winnie Marie	Winnie	Marie	Hackett	3801913244	0	12	F	09/05/2023	07/01/2024	8049	09/07/2005	E1		5	09/06/2011				P								
+1907	Hackett, Xavier William	Xavier	William	Hackett	7841049056	0	12	M	09/05/2023	07/01/2024	8049	09/07/2005	E1		5	09/06/2011				P								
+6316	Halisi Stevens, Nia Elyse	Nia	Elyse	Halisi Stevens	3439499367	0	2	F	09/05/2023	07/01/2024	3276	09/18/2015	E1		3	07/01/2021				FDC								
+7468	Hartt, Forest	Forest		Hartt	2956905376	0	10	M	09/05/2023	07/01/2024	8049	12/16/2007	E1		6	07/01/2023				P								
+2474	Hatcher, Laila Sade	Laila	Sade	Hatcher	2201272778	0	11	F	09/05/2023	07/01/2024	8049	10/06/2006	E1		3	09/04/2012				FDC								
+7470	Hawkins, Caleb	Caleb		Hawkins	2015027939	0	5	M	09/05/2023	07/01/2024	3276	03/09/2013	E1			07/01/2023				FDC								
+7469	Hawkins, Kendal	Kendal		Hawkins	9267095064	0	3	F	09/05/2023	07/01/2024	3276	12/08/2014	E1			07/01/2023				FDC								
+6101	Heard, Aiden Michael Robert	Aiden	Michael Robert	Heard	9910993147	0	5	M	09/05/2023	07/01/2024	3276	06/18/2013	E1		1	07/01/2020				F								
+6103	Heard, Jayden Josiah Alexander	Jayden	Josiah Alexander	Heard	6163586964	0	3	M	09/05/2023	07/01/2024	3276	06/08/2014	E1		1	07/01/2020				FDC								
+5764	Heller, Bristol Lee	Bristol	Lee	Heller	4889372172	0	5	F	09/05/2023	07/01/2024	3276	04/01/2013	E1		5	09/03/2019				P								
+5763	Heller, Lucas Makai	Lucas	Makai	Heller	1957594225	0	8	M	09/05/2023	07/01/2024	8049	07/01/2010	E1		5	09/03/2019				P								
+2603	Heller, Maddox Ethan	Maddox	Ethan	Heller	4471705563	0	11	M	09/05/2023	07/01/2024	8049	07/23/2007	E1		5	12/19/2012				P								
+5985	Higgins, Finnegan Christopher	Finnegan	Christopher	Higgins	5968954736	0	3	M	09/05/2023	07/01/2024	3276	10/21/2014	E1		5	07/01/2020				P								
+6406	Higgins, Sloane Elizabeth	Sloane	Elizabeth	Higgins	8195773753	0	2	F	09/05/2023	07/01/2024	3276	11/19/2015	E1		5	07/01/2021				P								
+7460	Higley, Luna	Luna		Higley	2135924237	0	2	F	09/05/2023	07/01/2024	3276	11/04/2015	E1		5	07/01/2023				P								
+7461	Higley, Oliver	Oliver		Higley	9897416889	0	6	M	09/05/2023	07/01/2024	3276	09/19/2011	E1		5	07/01/2023				P								
+4721	Horowitz, Paula Miriam	Paula	Miriam	Horowitz	7290671678	0	7	F	09/05/2023	07/01/2024	8049	03/22/2011	E1		6	09/06/2016				P								
+7257	Hu, Florence	Florence		Hu	3151316638	0	0	F	09/05/2023	07/01/2024	3276	05/07/2018	E1		2	07/01/2023				P								
+5980	Hudson, Bridget Leigh	Bridget	Leigh	Hudson	6686751626	0	3	F	09/05/2023	07/01/2024	3276	06/03/2015	E1		4	07/01/2020				P								
+5853	Hudson, Claire Anne	Claire	Anne	Hudson	6969249433	0	5	F	09/05/2023	07/01/2024	3276	07/07/2013	E1		5	09/03/2019				P								
+7259	Hudson, Ella	Ella		Hudson	3998644881	0	0	F	09/05/2023	07/01/2024	3276	10/31/2017	E1		5	07/01/2023				P								
+5967	Hudson, Hannah Lorraine	Hannah	Lorraine	Hudson	9926324452	0	3	F	09/05/2023	07/01/2024	3276	08/30/2015	E1		5	07/01/2020				P								
+6338	Hunt, Fiona Annette	Fiona	Annette	Hunt	1232868965	0	2	F	09/05/2023	07/01/2024	3276	12/05/2015	E1		5	07/01/2021				P								
+5724	Hunt, Neave Theresa	Neave	Theresa	Hunt	8331458117	0	4	F	09/05/2023	07/01/2024	3276	03/28/2014	E1		5	09/03/2019				P								
+5506	Hunt, Siobhan Eileen	Siobhan	Eileen	Hunt	6733289547	0	6	F	09/05/2023	07/01/2024	3276	11/22/2011	E1		5	09/04/2018				P								
+5997	Igoe, Brooke Gail	Brooke	Gail	Igoe	2446599451	0	3	F	09/05/2023	07/01/2024	3276	05/07/2015	E1		5	07/01/2020				P								
+7275	Igoe, Ezra	Ezra		Igoe	8745367868	0	0	M	09/05/2023	07/01/2024	3276	01/19/2018	E1		5	07/01/2023				P								
+5123	Ilsley, Clark Severe	Clark	Severe	Ilsley	1911718185	0	6	M	09/05/2023	07/01/2024	3276	02/18/2012	E1		5	09/05/2017				P								
+5124	Ilsley, Clay Rose-Sinclair	Clay	Rose-Sinclair	Ilsley	9812943854	0	10	F	09/05/2023	07/01/2024	8049	05/29/2008	E1		5	09/05/2017				P								
+5125	Ilsley, Sawyer McKenna-Shae	Sawyer	McKenna-Shae	Ilsley	4546637861	0	9	F	09/05/2023	07/01/2024	8049	08/07/2009	E1		5	09/05/2017				P								
+2762	Irwin, Amelie Rose	Amelie	Rose	Irwin	5439339698	0	10	F	09/05/2023	07/01/2024	8049	05/22/2007	E1		5	09/03/2013				P								
+2763	Irwin, Perry Jacob	Perry	Jacob	Irwin	5344890702	0	9	M	09/05/2023	07/01/2024	8049	08/13/2008	E1		5	09/03/2013				P								
+2792	Jackson, Judah Mikhael	Judah	Mikhael	Jackson	1869698894	0	10	M	09/05/2023	07/01/2024	8049	07/20/2008	E1		6	09/03/2013				FDC								
+5969	Jackson, Lilja Phuong	Lilja	Phuong	Jackson	3179688688	0	3	F	09/05/2023	07/01/2024	3276	08/11/2015	E1		6	07/01/2020				P								
+5851	Jackson, Owen DG	Owen	DG	Jackson	8665858482	0	7	M	09/05/2023	07/01/2024	8049	03/24/2011	E1		2	09/03/2019				P								
+1964	Jackson, Yisriel Kareem	Yisriel	Kareem	Jackson	7974640545	0	12	M	09/05/2023	07/01/2024	8049	03/19/2006	E1		6	09/06/2011				FDC								
+5723	Javsicas, Daniel Milum	Daniel	Milum	Javsicas	6350594363	0	4	M	09/05/2023	07/01/2024	3276	07/17/2013	E1		5	09/03/2019				P								
+4722	Javsicas, John David	John David		Javsicas	7683073644	0	7	M	09/05/2023	07/01/2024	8049	08/04/2010	E1		5	09/06/2016				P								
+6812	Jazdzewski, Bridget	Bridget		Jazdzewski	6516973539	0	1	F	09/05/2023	07/01/2024	3276	10/16/2016	E1		5	07/01/2022				P								
+7458	Jefferson-Rich, Serenity	Serenity		Jefferson-Rich	4366551136	0	6	F	09/05/2023	07/01/2024	3276	02/18/2012	E1		3	07/01/2023				FDC								
+5995	Jenkinson, Tyler James	Tyler	James	Jenkinson	1932288139	0	3	M	09/05/2023	07/01/2024	3276	07/02/2015	E1		5	07/01/2020				P								
+6973	Jenkinson, Victoria	Victoria		Jenkinson	6187225953	0	1	F	09/05/2023	07/01/2024	3276	12/02/2016	E1		5	07/01/2022				P								
+5134	Johnson, Aniya Ah'Jae	Aniya	Ah'Jae	Johnson	7439930371	0	11	F	09/05/2023	07/01/2024	8049	12/17/2006	E1		3	09/05/2017				FDC								
+6312	Juliani, Kingsley Grace	Kingsley	Grace	Juliani	6573387872	0	2	F	09/05/2023	07/01/2024	3276	10/22/2015	E1		5	07/01/2021				P								
+5722	Juliani, Mason Kennedy	Mason	Kennedy	Juliani	5538552853	0	4	M	09/05/2023	07/01/2024	3276	05/23/2014	E1		5	09/03/2019				P								
+5017	Juliani, Tucker Christopher Brian	Tucker	Christopher Brian	Juliani	9020190725	0	6	M	09/05/2023	07/01/2024	3276	10/29/2011	E1		5	09/05/2017				P								
+5352	Kahn, Ryan Noah	Ryan	Noah	Kahn	2866386949	0	8	M	09/05/2023	07/01/2024	8049	12/26/2009	E1		5	02/19/2018				FDC								
+7002	Kashiwagi, Eliana	Eliana		Kashiwagi	8422169711	0	5	F	09/05/2023	07/01/2024	3276	12/15/2012	E1		6	07/01/2022				P								
+7001	Kashiwagi, Samuel	Samuel		Kashiwagi	2579651292	0	2	M	09/05/2023	07/01/2024	3276	03/08/2016	E1		6	07/01/2022				P								
+5974	Kayser, Jack Henry	Jack	Henry	Kayser	1920161678	0	3	M	09/05/2023	07/01/2024	3276	01/24/2015	E1		5	07/01/2020				P								
+5053	Keenan, Jolene Rose	Jolene	Rose	Keenan	5337241672	0	6	F	09/05/2023	07/01/2024	3276	03/17/2012	E1		5	09/05/2017				P								
+2915	Keim, Carolyn Brianna	Carolyn	Brianna	Keim	8801984014	0	12	F	09/05/2023	07/01/2024	8049	12/03/2005	E1		5	09/03/2013				P								
+6852	Kelley, Prudence	Prudence		Kelley	9422317584	0	1	F	09/05/2023	07/01/2024	3276	04/18/2017	E1		5	07/01/2022				P								
+6655	Kendall, Ava Sabine	Ava	Sabine	Kendall	4168795683	0	1	F	09/05/2023	07/01/2024	3276	04/30/2017	E1		5	07/01/2022				P								
+3279	Kergides, Joseph Andreas	Joseph	Andreas	Kergides	5410618386	0	9	M	09/05/2023	07/01/2024	8049	01/12/2009	E1		5	09/02/2014				FDC								
+3103	Khan, Khayyam Ali	Khayyam	Ali	Khan	2744769886	0	11	M	09/05/2023	07/01/2024	8049	08/04/2007	E1		2	11/25/2013				P								
+5738	Kilcoyne, Aidan Emery	Aidan	Emery	Kilcoyne	4855147362	0	4	M	09/05/2023	07/01/2024	3276	12/08/2013	E1		5	09/03/2019				P								
+5970	Kilcoyne, Violet	Violet		Kilcoyne	7645637595	0	3	F	09/05/2023	07/01/2024	3276	08/28/2015	E1		5	07/01/2020				P								
+5417	Kilkenny, Gabrielle Siena	Gabrielle	Siena	Kilkenny	1437334938	0	5	F	09/05/2023	07/01/2024	3276	02/20/2013	E1		5	09/04/2018				P								
+6328	Kimball, Hank Michael	Hank	Michael	Kimball	7341522399	0	2	M	09/05/2023	07/01/2024	3276	11/13/2015	E1		5	07/01/2021				P								
+5018	Kimball, Nora Jane	Nora	Jane	Kimball	7879892214	0	6	F	09/05/2023	07/01/2024	3276	10/21/2011	E1		5	09/05/2017				P								
+3428	Kimball, Simon Eugene	Simon	Eugene	Kimball	1529601533	0	10	M	09/05/2023	07/01/2024	8049	01/25/2008	E1		5	09/02/2014				P								
+5989	Kobryn Ludwig, Xavier	Xavier		Kobryn Ludwig	7583944937	0	3	M	09/05/2023	07/01/2024	3276	12/05/2014	E1		5	07/01/2020				P								
+6018	Kohlhepp, Eloise Blue	Eloise	Blue	Kohlhepp	7548392273	0	3	F	09/05/2023	07/01/2024	3276	05/24/2014	E1		6	07/01/2020				FDC								
+5019	Kohlhepp, Timothy Wolfgang	Timothy	Wolfgang	Kohlhepp	4947716738	0	5	M	09/05/2023	07/01/2024	3276	07/26/2012	E1		6	09/05/2017				FDC								
+7284	Korzeniowski, Ava	Ava		Korzeniowski	3795136865	0	0	F	09/05/2023	07/01/2024	3276	03/09/2018	E1		5	07/01/2023				P								
+6957	Korzeniowski, Joseph	Joseph		Korzeniowski	7969133525	0	7	M	09/05/2023	07/01/2024	8049	03/22/2011	E1		5	07/01/2022				P								
+6958	Korzeniowski, Lily	Lily		Korzeniowski	8915789989	0	1	F	09/05/2023	07/01/2024	3276	10/03/2016	E1		5	07/01/2022				P								
+2501	Kotasenski, Dawn Marie	Dawn	Marie	Kotasenski	8879593803	0	11	F	09/05/2023	07/01/2024	8049	10/26/2006	E1		5	09/04/2012				RDC								
+2462	Kowalchuk, Paulina Mae	Paulina	Mae	Kowalchuk	1532757654	0	11	F	09/05/2023	07/01/2024	8049	04/01/2007	E1		5	09/04/2012				P								
+7269	Kripa, Brodi Besmir	Brodi	Besmir	Kripa	2788591799	0	4	M	09/05/2023	07/01/2024	3276	01/31/2014	E1		5	07/01/2022				P								
+5720	Kumaratne, Cora Banhi	Cora	Banhi	Kumaratne	1286749344	0	4	F	09/05/2023	07/01/2024	3276	09/17/2013	E1		2	09/03/2019				P								
+5994	Kumaratne, Stanley Michael	Stanley	Michael	Kumaratne	9446676622	0	3	M	09/05/2023	07/01/2024	3276	03/30/2015	E1		2	07/01/2020				P								
+1913	Kutzler, Delaney Shane	Delaney	Shane	Kutzler	8963752976	0	12	F	09/05/2023	07/01/2024	8049	10/28/2005	E1		5	09/06/2011				R								
+5515	Kutzler, Hayden Reilly	Hayden	Reilly	Kutzler	7489428785	0	8	F	09/05/2023	07/01/2024	8049	05/07/2009	E1		5	09/04/2018				R								
+5418	Kutzler, Piper Cannon	Piper	Cannon	Kutzler	6617921216	0	5	F	09/05/2023	07/01/2024	3276	10/24/2012	E1		5	09/04/2018				R								
+5993	Lafferty-Marquez, Alma Brigid	Alma	Brigid	Lafferty-Marquez	2667885171	0	3	F	09/05/2023	07/01/2024	3276	02/06/2015	E1		6	07/01/2020				P								
+5432	Lafferty-Marquez, Pablo James	Pablo	James	Lafferty-Marquez	8336938745	0	5	M	09/05/2023	07/01/2024	3276	01/23/2013	E1		6	09/04/2018				P								
+5719	Lamplugh, Elizabeth Grace	Elizabeth	Grace	Lamplugh	6677113426	0	4	F	09/05/2023	07/01/2024	3276	07/31/2014	E1		5	09/03/2019				P								
+5718	Landy, Brayden Michael	Brayden	Michael	Landy	5369818282	0	4	M	09/05/2023	07/01/2024	3276	01/06/2014	E1		5	09/03/2019				P								
+6808	Landy, Madison	Madison		Landy	2615825186	0	1	F	09/05/2023	07/01/2024	3276	09/20/2016	E1		5	07/01/2022				P								
+5453	Lee-Houwen, Xavier	Xavier		Lee-Houwen	5495095413	0	5	M	09/05/2023	07/01/2024	3276	10/07/2012	E1		6	09/04/2018				P								
+5419	Leech, Amelia Paige	Amelia	Paige	Leech	1646229592	0	4	F	09/05/2023	07/01/2024	3276	10/03/2012	E1		5	09/03/2019				FDC								
+2464	Leech, Cynthia Emma	Cynthia	Emma	Leech	9288205217	0	11	F	09/05/2023	07/01/2024	8049	11/23/2006	E1		5	09/04/2012				FDC								
+4023	Leech, Jocelyn Ryann	Jocelyn	Ryann	Leech	5852747351	0	8	F	09/05/2023	07/01/2024	8049	11/13/2009	E1		5	09/08/2015				FDC								
+5802	Leichter, Liam John	Liam	John	Leichter	1234593831	0	6	M	09/05/2023	07/01/2024	3276	11/21/2011	E1		5	09/03/2019				P								
+6965	Lemons, Calliope	Calliope		Lemons	8617977647	0	2	F	09/05/2023	07/01/2024	3276	09/11/2015	E1		5	07/01/2022				P								
+6966	Lemons, Icarus	Icarus		Lemons	6992473115	0	5	M	09/05/2023	07/01/2024	3276	11/28/2012	E1		5	07/01/2022				P								
+6204	Leonetti, Cole Michael	Cole	Michael	Leonetti	9911273024	0	5	M	09/05/2023	07/01/2024	3276	06/16/2013	E1		5	01/25/2021				F								
+5717	Lerman, Leo Martinez	Leo	Martinez	Lerman	1619826739	0	4	M	09/05/2023	07/01/2024	3276	10/15/2013	E1		4	09/03/2019				P								
+6305	Lerman, Milena Rae	Milena	Rae	Lerman	9385428535	0	2	F	09/05/2023	07/01/2024	3276	01/14/2016	E1		5	07/01/2021				P								
+6751	Levandoski, Bodhi	Bodhi		Levandoski	8956586829	0	1	M	09/05/2023	07/01/2024	3276	07/20/2017	E1		5	07/01/2022				P								
+5966	Levandoski, Lee	Lee		Levandoski	7366718297	0	3	M	09/05/2023	07/01/2024	3276	10/13/2014	E1		5	07/01/2020				P								
+6007	Levin, Henry Giles	Henry	Giles	Levin	3426472112	0	3	M	09/05/2023	07/01/2024	3276	12/30/2014	E1		5	07/01/2020				P								
+6801	Levin, Theodore Isaac	Theodore	Isaac	Levin	5371443126	0	1	M	09/05/2023	07/01/2024	3276	07/04/2017	E1		5	07/01/2022				P								
+2767	Levy, Caitlyn Patricia	Caitlyn	Patricia	Levy	5369902003	0	10	F	09/05/2023	07/01/2024	8049	09/14/2007	E1		5	09/03/2013				P								
+5716	Licciardello, Carys Eve	Carys	Eve	Licciardello	4122717612	0	4	F	09/05/2023	07/01/2024	3276	10/01/2013	E1		5	09/03/2019				P								
+5715	Licciardello, Dominick John	Dominick	John	Licciardello	6491884759	0	4	M	09/05/2023	07/01/2024	3276	10/01/2013	E1		5	09/03/2019				P								
+5522	Lockette, Nicolena Josephine	Nicolena	Josephine	Lockette	3897745399	0	5	F	09/05/2023	07/01/2024	3276	03/23/2013	E1		6	09/04/2018				RDC								
+4024	Lommer, Elisabeth Finley	Elisabeth	Finley	Lommer	1784817821	0	8	F	09/05/2023	07/01/2024	8049	01/20/2010	E1		5	09/08/2015				P								
+5420	Lommer, Katharina Finley	Katharina	Finley	Lommer	9119767692	0	5	F	09/05/2023	07/01/2024	3276	03/05/2013	E1		5	09/04/2018				P								
+6409	Long, Adelaide Maria	Adelaide	Maria	Long	6967579231	0	2	F	09/05/2023	07/01/2024	3276	07/31/2015	E1		5	07/01/2021				P								
+5714	Long, Walter Clayton Nemo	Walter	Clayton Nemo	Long	2656867428	0	4	M	09/05/2023	07/01/2024	3276	06/16/2013	E1		5	09/03/2019				P								
+5503	Loomis, Audrey Christine	Audrey	Christine	Loomis	3873383098	0	10	F	09/05/2023	07/01/2024	8049	07/09/2008	E1		5	09/04/2018				P								
+5504	Loomis, Kaitlyn Margaret	Kaitlyn	Margaret	Loomis	7788254711	0	12	F	09/05/2023	07/01/2024	8049	10/22/2005	E1		5	09/04/2018				P								
+5133	Lounsbury, Lucas William	Lucas	William	Lounsbury	6701910149	0	9	M	09/05/2023	07/01/2024	8049	01/12/2009	E1		5	09/05/2017				FDC								
+5109	Luby, Cecily Anne	Cecily	Anne	Luby	8922617284	0	11	F	09/05/2023	07/01/2024	8049	01/25/2007	E1		5	09/05/2017				P								
+4025	Luig, Peter Leo	Peter	Leo	Luig	8714237881	0	7	M	09/05/2023	07/01/2024	8049	08/09/2010	E1		5	09/08/2015				P								
+1925	Luig, Savannah Katherine	Savannah	Katherine	Luig	3160613364	0	12	F	09/05/2023	07/01/2024	8049	03/13/2006	E1		5	09/06/2011				P								
+2768	Luig, Scarlet Elle	Scarlet	Elle	Luig	4478789622	0	10	F	09/05/2023	07/01/2024	8049	12/10/2007	E1		5	09/03/2013				P								
+3266	Lynch, Alexis Faith	Alexis	Faith	Lynch	4271839647	0	9	F	09/05/2023	07/01/2024	8049	09/20/2008	E1		5	09/02/2014				P								
+5977	Lynch, Edward	Edward		Lynch	4267893675	0	3	M	09/05/2023	07/01/2024	3276	03/06/2015	E1		5	07/01/2020				P								
+4724	Lynch, Gabrielle Hope	Gabrielle	Hope	Lynch	7134471225	0	7	F	09/05/2023	07/01/2024	8049	05/01/2011	E1		5	09/06/2016				P								
+6854	Lyons, Bridget	Bridget		Lyons	1527635244	0	1	F	09/05/2023	07/01/2024	3276	04/04/2017	E1		5	07/01/2022				P								
+4026	Madden, Maggie Rose	Maggie	Rose	Madden	1546388524	0	8	F	09/05/2023	07/01/2024	8049	10/16/2009	E1		5	09/08/2015				P								
+3419	Madison, Antoine Leon	Antoine	Leon	Madison	9987983359	0	9	M	09/05/2023	07/01/2024	8049	09/22/2008	E1		3	09/02/2014				P								
+7283	Madonna, Savannah	Savannah		Madonna	9413226431	0	0	F	09/05/2023	07/01/2024	3276	01/09/2018	E1		5	07/01/2023				P								
+4116	Malone, Heath Jameson	Heath	Jameson	Malone	1293985236	0	7	M	09/05/2023	07/01/2024	8049	06/15/2010	E1		5	09/08/2015				P								
+6967	Manfredi, Emma	Emma		Manfredi	2194955976	0	1	F	09/05/2023	07/01/2024	3276	07/26/2017	E1		5	07/01/2022				P								
+6318	Manfredi, Reed Michael	Reed	Michael	Manfredi	6722951294	0	2	M	09/05/2023	07/01/2024	3276	03/11/2016	E1		5	07/01/2021				P								
+2473	Mangan, Ailish Kochakan	Ailish	Kochakan	Mangan	9961353625	0	11	F	09/05/2023	07/01/2024	8049	10/23/2006	E1		6	09/04/2012				FDC								
+6410	Markey, Ryan Matthew	Ryan	Matthew	Markey	5484137373	0	5	M	09/05/2023	07/01/2024	3276	11/15/2012	E1		5	07/01/2021				FDC								
+7354	Marquez, Aliviany	Aliviany		Marquez	6426786195	0	0	F	09/05/2023	07/01/2024	3276	03/15/2018	E1		6	07/01/2023				FDC								
+6978	Marquez, Annalise	Annalise		Marquez	2314988264	0	1	F	09/05/2023	07/01/2024	3276	03/13/2017	E1		6	07/01/2022				FDC								
+6326	Marrow, Sabri Darance	Sabri	Darance	Marrow	8645329263	0	2	M	09/05/2023	07/01/2024	3276	12/18/2015	E1		3	07/01/2021				FDC								
+5965	Marsala, Calvin Paul	Calvin	Paul	Marsala	6577138672	0	3	M	09/05/2023	07/01/2024	3276	05/27/2015	E1		6	07/01/2020				P								
+5421	Marsala, Quentin Robert	Quentin	Robert	Marsala	9443826569	0	5	M	09/05/2023	07/01/2024	3276	05/13/2013	E1		6	09/04/2018				P								
+6407	Marshall, Adrian Paul	Adrian	Paul	Marshall	5148281588	0	4	M	09/05/2023	07/01/2024	3276	08/20/2014	E1		4	07/01/2021				FDC								
+6408	Marshall, Joseph Raul	Joseph	Raul	Marshall	2144228671	0	4	M	09/05/2023	07/01/2024	3276	08/20/2014	E1		4	07/01/2021				FDC								
+4807	Martin, Aubrey Anna	Aubrey	Anna	Martin	9727748236	0	7	F	09/05/2023	07/01/2024	8049	10/13/2010	E1		5	09/06/2016				P								
+6315	Martin, Kelsey James	Kelsey	James	Martin	7695879584	0	2	F	09/05/2023	07/01/2024	3276	10/20/2015	E1		5	07/01/2021				P								
+5422	Martin, Molly Kathleen	Molly	Kathleen	Martin	3686527782	0	5	F	09/05/2023	07/01/2024	3276	10/02/2012	E1		5	09/04/2018				P								
+7474	Mascaro-James, Isa	Isa		Mascaro-James	8295040812	0	8	F	09/05/2023	07/01/2024	8049	06/15/2009	E1			07/01/2023				FDC								
+2769	Massaro, Vincent Michael	Vincent	Michael	Massaro	7620459103	0	10	M	09/05/2023	07/01/2024	8049	03/10/2008	E1		5	09/03/2013				P								
+2472	McCall, Evan Molly	Evan	Molly	McCall	5235536673	0	11	F	09/05/2023	07/01/2024	8049	07/27/2007	E1		5	09/04/2012				P								
+5423	McCandlish, Eloise Marie	Eloise	Marie	McCandlish	6834024832	0	5	F	09/05/2023	07/01/2024	3276	01/04/2013	E1		5	09/04/2018				P								
+5983	McCandlish, Henry Kluber	Henry	Kluber	McCandlish	4557137156	0	3	M	09/05/2023	07/01/2024	3276	04/15/2015	E1		5	07/01/2020				P								
+4725	McCandlish, Owen Black	Owen	Black	McCandlish	3426032023	0	7	M	09/05/2023	07/01/2024	8049	10/16/2010	E1		5	09/06/2016				P								
+6651	McCarthy, Gia	Gia		McCarthy	8649329241	0	4	F	09/05/2023	07/01/2024	3276	05/06/2014	E1		6	01/11/2022				FDC								
+5110	McClea, Aurora	Aurora		McClea	9841523523	0	7	F	09/05/2023	07/01/2024	8049	12/25/2010	E1		5	09/05/2017				P								
+5021	McCloskey, Lucas James	Lucas	James	McCloskey	7089168689	0	6	M	09/05/2023	07/01/2024	3276	01/26/2012	E1		4	09/05/2017				P								
+6303	McCloskey, Nicholas Paul	Nicholas	Paul	McCloskey	5347757329	0	2	M	09/05/2023	07/01/2024	3276	05/27/2016	E1		6	07/01/2021				P								
+5713	McDaid, Ian Elijah	Ian	Elijah	McDaid	1942138466	0	4	M	09/05/2023	07/01/2024	3276	01/04/2014	E1		5	09/03/2019				FDC								
+7462	McDonald, Bethany	Bethany		McDonald	6375273188	0	11	F	09/05/2023	07/01/2024	8049	02/17/2007	E1		5	07/01/2023				P								
+6552	McDonald, Maleah	Maleah		McDonald	1416492712	0	7	F	09/05/2023	07/01/2024	8049	05/04/2011	E1		6	11/10/2021				FDC								
+6553	McDonald, Nyla	Nyla		McDonald	8146346871	0	8	F	09/05/2023	07/01/2024	8049	09/15/2009	E1		6	11/10/2021				FDC								
+6202	McGann, Isla Iris	Isla	Iris	McGann	6269727189	0	3	F	09/05/2023	07/01/2024	3276	09/30/2014	E1		5	01/14/2021				P								
+6203	McGann, Louisa Lavender	Louisa	Lavender	McGann	3662806258	0	7	F	09/05/2023	07/01/2024	8049	05/11/2011	E1		5	01/14/2021				P								
+6335	McGann, Vera Violet	Vera	Violet	McGann	2959966139	0	2	F	09/05/2023	07/01/2024	3276	08/16/2016	E1		5	07/01/2021				P								
+1967	McGettigan, Kathryn Grace	Kathryn	Grace	McGettigan	7288692175	0	12	F	09/05/2023	07/01/2024	8049	07/19/2006	E1		5	09/06/2011				P								
+4027	McHugh, Mairead Caroline	Mairead	Caroline	McHugh	5924969274	0	8	F	09/05/2023	07/01/2024	8049	03/19/2010	E1		5	09/08/2015				P								
+5020	McIntyre, Ella Elizabeth	Ella	Elizabeth	McIntyre	2827289377	0	6	F	09/05/2023	07/01/2024	3276	08/13/2012	E1		5	09/05/2017				P								
+5755	McIntyre, Grace Lillian	Grace	Lillian	McIntyre	8415544855	0	4	F	09/05/2023	07/01/2024	3276	06/20/2014	E1		5	09/03/2019				P								
+4823	McIntyre, Liam Anthony	Liam	Anthony	McIntyre	7528305642	0	8	M	09/05/2023	07/01/2024	8049	05/28/2010	E1		5	09/06/2016				P								
+3267	McKenna, Isabel Margolit	Isabel	Margolit	McKenna	4534605978	0	9	F	09/05/2023	07/01/2024	8049	05/16/2009	E1		6	09/02/2014				FDC								
+4059	McKenna, Jade	Jade		McKenna	5394007918	0	11	F	09/05/2023	07/01/2024	8049	01/18/2006	E1		5	09/08/2015				P								
+2465	McKenna, Luke Benjamin	Luke	Benjamin	McKenna	4378498626	0	11	M	09/05/2023	07/01/2024	8049	05/25/2007	E1		5	09/04/2012				FDC								
+5505	McLaughlin, Clara Mae	Clara	Mae	McLaughlin	6791486414	0	5	F	09/05/2023	07/01/2024	3276	05/22/2013	E1		5	09/04/2018				P								
+7278	McLaughlin, James Edward	James	Edward	McLaughlin	2851811665	0	0	M	09/05/2023	07/01/2024	3276	01/18/2018	E1		5	07/01/2023				P								
+6358	McLaughlin, Juliet Zara	Juliet	Zara	McLaughlin	5115769964	0	2	F	09/05/2023	07/01/2024	3276	02/12/2016	E1		5	07/01/2021				P								
+4028	McLaughlin, Sadie Adele	Sadie	Adele	McLaughlin	5273236347	0	8	F	09/05/2023	07/01/2024	8049	08/31/2010	E1		5	09/08/2015				P								
+6603	McNally, Leyton Michael	Leyton	Michael	McNally	1452164819	0	6	M	09/05/2023	07/01/2024	3276	08/31/2011	E1		5	01/18/2022				FDC								
+4726	McSherry, Evlin Elizabeth	Evlin	Elizabeth	McSherry	9129960258	0	7	F	09/05/2023	07/01/2024	8049	10/07/2010	E1		5	09/06/2016				P								
+6405	Merrick, Milah Elyse	Milah	Elyse	Merrick	9835364532	0	12	F	09/05/2023	07/01/2024	8049	09/18/2006	E1		6	07/01/2021				P								
+6904	Meserole, Anna	Anna		Meserole	2478123215	0	1	F	09/05/2023	07/01/2024	3276	07/26/2017	E1		5	07/01/2022				P								
+5973	Meserole, Emily Marie	Emily	Marie	Meserole	4629548831	0	2	F	09/05/2023	07/01/2024	3276	08/18/2015	E1		5	07/01/2021				P								
+4824	Metellus, Marc Anthony Delande	Marc	Anthony Delande	Metellus	4316173839	0	12	M	09/05/2023	07/01/2024	8049	09/22/2005	E1		3	09/06/2016				P								
+5424	Metellus, Nathan Louis	Nathan	Louis	Metellus	8181786254	0	5	M	09/05/2023	07/01/2024	3276	04/09/2013	E1		3	09/04/2018				P								
+6354	Meyers, Ellory Rose	Ellory	Rose	Meyers	3176526474	0	7	F	09/05/2023	07/01/2024	8049	10/17/2010	E1		5	07/01/2021				P								
+6355	Meyers, Emerson Ian	Emerson	Ian	Meyers	4174825823	0	4	M	09/05/2023	07/01/2024	3276	04/23/2014	E1		5	07/01/2021				P								
+7260	Meznaric, Nikola	Nikola		Meznaric	1986477177	0	0	M	09/05/2023	07/01/2024	3276	09/13/2017	E1		5	07/01/2023				P								
+2771	Miller, Amelia Jane	Amelia	Jane	Miller	5734682187	0	10	F	09/05/2023	07/01/2024	8049	11/28/2007	E1		5	09/03/2013				P								
+6809	Miller, Castor	Castor		Miller	4293612475	0	1	M	09/05/2023	07/01/2024	3276	07/24/2016	E1		5	07/01/2022				P								
+1927	Miller, Jacob William	Jacob	William	Miller	4909470085	0	12	M	09/05/2023	07/01/2024	8049	06/20/2006	E1		5	09/06/2011				P								
+5427	Miller, Lucas	Lucas		Miller	1753283299	0	5	M	09/05/2023	07/01/2024	3276	12/24/2012	E1		5	09/04/2018				P								
+5429	Miller, Sadie Quinn	Sadie	Quinn	Miller	8747537728	0	5	F	09/05/2023	07/01/2024	3276	09/27/2012	E1		5	09/04/2018				P								
+4029	Mixon, Benjamin Eli	Benjamin	Eli	Mixon	9480252066	0	8	M	09/05/2023	07/01/2024	8049	10/24/2009	E1		5	09/08/2015				P								
+7307	Moll, Rose	Rose		Moll	5527793382	0	0	F	09/05/2023	07/01/2024	3276	06/26/2018	E1		5	07/01/2023				P								
+1928	Montroy, Anna Charlotte	Anna	Charlotte	Montroy	1499489331	0	12	F	09/05/2023	07/01/2024	8049	12/23/2005	E1		5	09/06/2011				P								
+4030	Montroy, Margaret Niamh	Margaret	Niamh	Montroy	9005205296	0	8	F	09/05/2023	07/01/2024	8049	02/07/2010	E1		5	09/08/2015				P								
+4252	Moodley, James Shunmugan	James	Shunmugan	Moodley	9813258365	0	9	M	09/05/2023	07/01/2024	8049	01/17/2008	E1		6	01/28/2019				FDC								
+6656	Moores, Leif Everett	Leif	Everett	Moores	9337228645	0	1	M	09/05/2023	07/01/2024	3276	05/02/2017	E1		5	07/01/2022				P								
+5990	Moran, Quinn Thomas	Quinn	Thomas	Moran	5988606695	0	3	M	09/05/2023	07/01/2024	3276	05/16/2015	E1		5	07/01/2020				P								
+6367	Morett, Nettie Eleanor	Nettie	Eleanor	Morett	4363575816	0	2	F	09/05/2023	07/01/2024	3276	06/07/2016	E1		6	07/01/2021				FDC								
+4710	Morett, Portia Elizabeth	Portia	Elizabeth	Morett	9026483759	0	6	F	09/05/2023	07/01/2024	3276	05/22/2011	E1		3	09/06/2016				FDC								
+2524	Morrin, Savanna Rose	Savanna	Rose	Morrin	2257781465	0	12	F	09/05/2023	07/01/2024	8049	10/04/2005	E1		5	09/04/2012				P								
+7280	Muldoon, Finnegan	Finnegan		Muldoon	2381562249	0	0	M	09/05/2023	07/01/2024	3276	05/22/2018	E1		5	07/01/2023				P								
+6972	Muldoon, Isabella	Isabella		Muldoon	3915667498	0	2	F	09/05/2023	07/01/2024	3276	08/17/2016	E1		5	07/01/2022				P								
+5712	Munchback, Kaci Marie	Kaci	Marie	Munchback	5592141491	0	4	F	09/05/2023	07/01/2024	3276	07/17/2014	E1		5	07/01/2019				FDC								
+6974	Munchback, Karter	Karter		Munchback	3229872142	0	1	M	09/05/2023	07/01/2024	3276	09/15/2016	E1		5	07/01/2022				FDC								
+4104	Munson, Natalie Grace	Natalie	Grace	Munson	1580901824	0	12	F	09/05/2023	07/01/2024	8049	08/17/2005	E1		5	09/08/2015				P								
+2772	Neblett, Randall Michael	Randall	Michael	Neblett	5913497244	0	10	M	09/05/2023	07/01/2024	8049	11/13/2007	E1		5	09/03/2013				P								
+1929	Neidich, Marta Lily	Marta	Lily	Neidich	1026894352	0	12	F	09/05/2023	07/01/2024	8049	05/15/2006	E1		5	09/06/2011				P								
+6004	Nelson, Arabelle Marie Elizabeth	Arabelle	Marie Elizabeth	Nelson	4334784755	0	6	F	09/05/2023	07/01/2024	3276	01/29/2012	E1		3	07/01/2020				P								
+6005	Nelson, Roosevelt Terrence	Roosevelt	Terrence	Nelson	3673848224	0	4	M	09/05/2023	07/01/2024	3276	04/10/2014	E1		3	07/01/2020				P								
+3417	Newman, Colin Lee	Colin	Lee	Newman	8618910503	0	9	M	09/05/2023	07/01/2024	8049	06/29/2009	E1		5	09/02/2014				FDC								
+2466	Newman, Galadriel Lorien	Galadriel	Lorien	Newman	8249102282	0	11	F	09/05/2023	07/01/2024	8049	07/11/2006	E1		5	09/04/2012				P								
+4031	Newman, Starry Ella	Starry	Ella	Newman	6442636542	0	8	F	09/05/2023	07/01/2024	8049	09/19/2009	E1		5	09/08/2015				P								
+6962	Newton, Kathryn	Kathryn		Newton	3151957919	0	4	F	09/05/2023	07/01/2024	3276	12/25/2013	E1		5	07/01/2022				P								
+6964	Newton, Laura	Laura		Newton	9176639231	0	6	F	09/05/2023	07/01/2024	3276	02/26/2012	E1		5	07/01/2022				P								
+6963	Newton, Robert	Robert		Newton	4375798726	0	8	M	09/05/2023	07/01/2024	8049	01/19/2010	E1		5	07/01/2022				P								
+7304	Nicol, Laney	Laney		Nicol	6528492115	0	0	F	09/05/2023	07/01/2024	3276	11/12/2017	E1		5	07/01/2023				P								
+3412	Notte, Tristan Robert	Tristan	Robert	Notte	5297681278	0	9	M	09/05/2023	07/01/2024	8049	06/25/2009	E1		5	09/02/2014				FDC								
+4032	O'Brien, Emerson Quinn	Emerson	Quinn	O'Brien	3582128962	0	8	F	09/05/2023	07/01/2024	8049	06/28/2010	E1		5	09/08/2015				P								
+3268	O'Brien, Sarah Rose	Sarah	Rose	O'Brien	4437320565	0	9	F	09/05/2023	07/01/2024	8049	10/14/2008	E1		5	09/02/2014				P								
+7251	O'Brien, Tristan	Tristan		O'Brien	6576937814	0	0	M	09/05/2023	07/01/2024	3276	08/19/2017	E1		5	07/01/2023				P								
+5430	O'Donovan, Liam Garret	Liam	Garret	O'Donovan	8116722042	0	5	M	09/05/2023	07/01/2024	3276	03/29/2013	E1		5	09/04/2018				P								
+5516	O'Neal, Jasmine Paige	Jasmine	Paige	O'Neal	1271373319	0	5	F	09/05/2023	07/01/2024	3276	05/13/2013	E1		3	09/04/2018				P								
+4034	O'Neal, Jayme Alexander	Jayme	Alexander	O'Neal	4229544286	0	7	M	09/05/2023	07/01/2024	8049	08/27/2010	E1		3	09/08/2015				P								
+5115	O'Neal, Julius Aidan	Julius	Aidan	O'Neal	2843556481	0	6	M	09/05/2023	07/01/2024	3276	03/02/2012	E1		3	09/05/2017				P								
+7268	O'Neill, Grace Marie	Grace	Marie	O'Neill	9676394513	0	9	F	09/05/2023	07/01/2024	8049	07/23/2009	E1		5	07/01/2023				P								
+4727	O'Neill, Hardy Leo	Hardy	Leo	O'Neill	3391844124	0	7	M	09/05/2023	07/01/2024	8049	04/07/2011	E1		5	09/06/2016				P								
+6975	O'Neill, Imogen	Imogen		O'Neill	5897346445	0	1	F	09/05/2023	07/01/2024	3276	07/08/2016	E1		5	07/01/2022				P								
+5976	O'Neill, Madison	Madison		O'Neill	6611637753	0	3	F	09/05/2023	07/01/2024	3276	09/11/2014	E1		5	07/01/2020				P								
+6402	O'Neill, Maisie Marie	Maisie	Marie	O'Neill	1227267371	0	3	F	09/05/2023	07/01/2024	3276	12/12/2014	E1		5	07/01/2021				P								
+6752	O'Neill, Reagan Marie	Reagan	Marie	O'Neill	2863698486	0	1	F	09/05/2023	07/01/2024	3276	05/19/2017	E1		5	07/01/2022				P								
+5769	O'Neill, Winifred O'Hara	Winifred	O'Hara	O'Neill	1896393942	0	5	F	09/05/2023	07/01/2024	3276	01/16/2013	E1		5	09/03/2019				P								
+7320	Osborne, Cara	Cara		Osborne	9151792281	0	0	F	09/05/2023	07/01/2024	3276	06/20/2018	E1		5	07/01/2023				P								
+5804	Osborne, Fiona Jane	Fiona	Jane	Osborne	8127197297	0	7	F	09/05/2023	07/01/2024	8049	06/05/2011	E1		5	09/03/2019				P								
+6010	Osborne, Mairead Joyce	Mairead	Joyce	Osborne	9882628117	0	3	F	09/05/2023	07/01/2024	3276	03/30/2015	E1		5	07/01/2020				P								
+5759	Osborne, Mary Kate Kain	Mary Kate	Kain	Osborne	6477683369	0	4	F	09/05/2023	07/01/2024	3276	12/29/2013	E1		5	09/03/2019				P								
+1930	Ottaviano, Gabrielle Ann	Gabrielle	Ann	Ottaviano	2117224709	0	12	F	09/05/2023	07/01/2024	8049	01/23/2006	E1		5	09/06/2011				P								
+7319	Pagan, Jayson Robert	Jayson	Robert	Pagan	3719457575	0	0	M	09/05/2023	07/01/2024	3276	06/16/2017	E1		6	07/01/2023				FDC								
+7317	Pagan, Nathaniel	Nathaniel		Pagan	4273853671	0	4	M	09/05/2023	07/01/2024	3276	12/13/2013	E1		6	07/01/2022				FDC								
+6323	Pancoe, Adeline Jane	Adeline	Jane	Pancoe	9528466435	0	2	F	09/05/2023	07/01/2024	3276	02/22/2016	E1		5	07/01/2021				P								
+5431	Pancoe, Charles Daniel	Charles	Daniel	Pancoe	9728753438	0	5	M	09/05/2023	07/01/2024	3276	10/07/2012	E1		5	09/04/2018				P								
+7271	Parker, Alice Jane	Alice	Jane	Parker	6861353361	0	0	F	09/05/2023	07/01/2024	3276	11/20/2017	E1		5	07/01/2023				P								
+4060	Patterson, Jayden Lee	Jayden	Lee	Patterson	3189744645	0	11	M	09/05/2023	07/01/2024	8049	05/20/2007	E1		6	09/08/2015				FDC								
+4061	Patterson, Jesse Malik Lee	Jesse	Malik Lee	Patterson	2662915048	0	12	M	09/05/2023	07/01/2024	8049	02/26/2006	E1		6	09/08/2015				FDC								
+6372	Pearson, Christopher Michael	Christopher	Michael	Pearson	9169569193	0	2	M	09/05/2023	07/01/2024	3276	02/21/2016	E1		3	07/01/2021				FDC								
+6155	Peluso, Cassidy	Cassidy		Peluso	4842683848	0	7	F	09/05/2023	07/01/2024	8049	09/19/2010	E1		6	11/09/2020				P								
+6368	Peterson, Jasmine Sky	Jasmine	Sky	Peterson	5114551132	0	2	F	09/05/2023	07/01/2024	3276	08/26/2016	E1		6	07/01/2021				P								
+4810	Pezzella, Kai Ethan	Kai	Ethan	Pezzella	3400272442	0	11	M	09/05/2023	07/01/2024	8049	04/10/2007	E1		6	09/06/2016				P								
+4811	Pezzella, Thalia Marie	Thalia	Marie	Pezzella	1385426438	0	8	F	09/05/2023	07/01/2024	8049	09/03/2010	E1		6	09/06/2016				P								
+5711	Phillips, Frederick Allen	Frederick	Allen	Phillips	7563513213	0	4	M	09/05/2023	07/01/2024	3276	02/01/2014	E1		5	09/03/2019				P								
+6102	Pirrone, Dominic Matthew	Dominic	Matthew	Pirrone	1985494345	0	3	M	09/05/2023	07/01/2024	3276	11/14/2014	E1		5	07/01/2020				P								
+5996	Pizer, Cecily Wren	Cecily	Wren	Pizer	8766926378	0	3	F	09/05/2023	07/01/2024	3276	12/11/2014	E1		5	07/01/2020				P								
+5433	Pizer, Josephine Lula	Josephine	Lula	Pizer	6698152587	0	5	F	09/05/2023	07/01/2024	3276	11/27/2012	E1		5	09/04/2018				P								
+3272	Pizer, Talia Faye	Talia	Faye	Pizer	3013504145	0	9	F	09/05/2023	07/01/2024	8049	09/26/2008	E1		5	09/02/2014				P								
+4108	Plange, Angilee Ama	Angilee	Ama	Plange	4988562069	0	9	F	09/05/2023	07/01/2024	8049	09/10/2008	E1		3	09/08/2015				FDC								
+6901	Plichter, Matilda	Matilda		Plichter	9929735356	0	1	F	09/05/2023	07/01/2024	3276	07/06/2017	E1		5	07/01/2022				P								
+4036	Poirot, Chase Murray	Chase	Murray	Poirot	2689219808	0	8	M	09/05/2023	07/01/2024	8049	04/29/2010	E1		5	09/08/2015				P								
+6802	Politis, Jeanette	Jeanette		Politis	4119721574	0	1	F	09/05/2023	07/01/2024	3276	03/20/2017	E1		5	07/01/2022				P								
+3752	Porter, Seth Ellis	Seth	Ellis	Porter	7813090772	0	11	M	09/05/2023	07/01/2024	8049	06/28/2007	E1		3	01/29/2015				FDC								
+5022	Posecznick, Roxanna Chanmi	Roxanna	Chanmi	Posecznick	1945367784	0	6	F	09/05/2023	07/01/2024	3276	06/18/2012	E1		6	09/05/2017				P								
+7255	Presley, Caleb	Caleb		Presley	4398149236	0	0	M	09/05/2023	07/01/2024	3276	05/29/2018	E1		6	07/01/2023				P								
+5434	Ramirez, Leonardo Robert	Leonardo	Robert	Ramirez	2283063264	0	5	M	09/05/2023	07/01/2024	3276	01/14/2013	E1		4	09/04/2018				P								
+4813	Ramirez, Meadow Jane	Meadow	Jane	Ramirez	7345792099	0	10	F	09/05/2023	07/01/2024	8049	05/25/2008	E1		4	09/06/2016				P								
+4037	Ranson, Colin James	Colin	James	Ranson	3681719144	0	8	M	09/05/2023	07/01/2024	8049	08/29/2010	E1		5	09/08/2015				P								
+5991	Ranson, Elizabeth	Elizabeth		Ranson	2427566969	0	3	F	09/05/2023	07/01/2024	3276	05/01/2015	E1		5	07/01/2020				P								
+7456	Ray, Harley	Harley		Ray	6721604361	0	8	F	09/05/2023	07/01/2024	8049	06/13/2010	E1		6	07/01/2023				F								
+6304	Reed, Cassie Marie	Cassie	Marie	Reed	6136762994	0	2	F	09/05/2023	07/01/2024	3276	12/30/2015	E1		5	07/01/2021				P								
+7263	Reed, Sarah Anne	Sarah	Anne	Reed	4894151847	0	0	F	09/05/2023	07/01/2024	3276	12/31/2017	E1		5	07/01/2023				P								
+5437	Regan, Benjamin Joseph	Benjamin	Joseph	Regan	5871420478	0	5	M	09/05/2023	07/01/2024	3276	06/18/2013	E1		5	09/04/2018				P								
+6330	Regan, Jude Ambrose	Jude	Ambrose	Regan	7438644944	0	2	M	09/05/2023	07/01/2024	3276	02/23/2016	E1		5	07/01/2021				P								
+5959	Remich, Goldie Ann	Goldie	Ann	Remich	3532576546	0	3	F	09/05/2023	07/01/2024	3276	08/08/2015	E1		5	07/01/2020				P								
+5447	Remich, Ruby Jay	Ruby	Jay	Remich	3092574869	0	5	F	09/05/2023	07/01/2024	3276	05/13/2013	E1		5	09/04/2018				P								
+6251	Reyes, Julianna Rose	Julianna	Rose	Reyes	7553989614	0	11	F	09/05/2023	07/01/2024	8049	03/04/2007	E1		6	03/22/2021				P								
+2912	Ridenour, Audrey Marie	Audrey	Marie	Ridenour	2886487589	0	12	F	09/05/2023	07/01/2024	8049	06/07/2006	E1		5	09/03/2013				P								
+5435	Ritter, Lewis William	Lewis	William	Ritter	3172941752	0	5	M	09/05/2023	07/01/2024	3276	03/07/2013	E1		6	09/04/2018				P								
+4729	Ritter, Wesley Tao	Wesley	Tao	Ritter	7594577264	0	7	M	09/05/2023	07/01/2024	8049	06/05/2011	E1		6	09/06/2016				P								
+4118	Rivera, Alaysia Lynne	Alaysia	Lynne	Rivera	3106147504	0	8	F	09/05/2023	07/01/2024	8049	06/30/2010	E1		6	09/08/2015				FDC								
+4117	Rivera, Angel David	Angel	David	Rivera	2635391491	0	10	M	09/05/2023	07/01/2024	8049	04/29/2008	E1		6	09/08/2015				FDC								
+2752	Robinson, Arena Lee	Arena	Lee	Robinson	4780059542	0	10	F	09/05/2023	07/01/2024	8049	10/18/2007	E1		3	09/03/2013				F								
+4038	Rocco, Finn	Finn		Rocco	6672299017	0	8	M	09/05/2023	07/01/2024	8049	04/04/2010	E1		5	09/08/2015				P								
+2777	Rocco, Luke	Luke		Rocco	7276454428	0	10	M	09/05/2023	07/01/2024	8049	11/28/2007	E1		5	09/03/2013				P								
+1638	Rocco, Sean	Sean		Rocco	2176614267	0	12	M	09/05/2023	07/01/2024	8049	06/30/2005	E1		5	09/07/2010				P								
+5709	Rosenzweig, Charles Ian	Charles	Ian	Rosenzweig	1344985483	0	4	M	09/05/2023	07/01/2024	3276	04/18/2014	E1		5	09/03/2019				P								
+4730	Rosenzweig, Lane Sidney	Lane	Sidney	Rosenzweig	3236133244	0	7	F	09/05/2023	07/01/2024	8049	03/08/2011	E1		5	09/06/2016				P								
+5979	Ross, Isabella Ray	Isabella	Ray	Ross	9289969598	0	3	F	09/05/2023	07/01/2024	3276	10/02/2014	E1		5	07/01/2020				P								
+5801	Ross, Olivia Jay	Olivia	Jay	Ross	2913464742	0	6	F	09/05/2023	07/01/2024	3276	07/12/2012	E1		5	09/03/2019				P								
+2778	Roush, Chelseyann Elizabeth	Chelseyann	Elizabeth	Roush	9968370797	0	10	F	09/05/2023	07/01/2024	8049	01/02/2008	E1		5	09/03/2013				P								
+5024	Ryan, Kieran Daniel	Kieran	Daniel	Ryan	9267228633	0	6	M	09/05/2023	07/01/2024	3276	09/13/2011	E1		5	09/05/2017				P								
+5708	Ryan, Maris Olivia	Maris	Olivia	Ryan	9855266811	0	4	F	09/05/2023	07/01/2024	3276	08/30/2013	E1		5	09/03/2019				P								
+5025	Saldutti, Matthew Connor	Matthew	Connor	Saldutti	8311756597	0	6	M	09/05/2023	07/01/2024	3276	04/18/2012	E1		5	09/05/2017				P								
+7454	Samuels, Kenya	Kenya		Samuels	7345475247	0	9	F	09/05/2023	07/01/2024	8049	12/13/2008	E1		6	07/01/2023				P								
+4731	Sanchez, Mason Anthony	Mason	Anthony	Sanchez	5762516792	0	7	M	09/05/2023	07/01/2024	8049	01/27/2011	E1		6	09/06/2016				P								
+6356	Santee, Claire Elizabeth	Claire	Elizabeth	Santee	3882273178	0	2	F	09/05/2023	07/01/2024	3276	10/31/2015	E1		5	07/01/2021				P								
+2779	Santee, Lillian Grace	Lillian	Grace	Santee	7744363647	0	10	F	09/05/2023	07/01/2024	8049	10/10/2007	E1		5	09/03/2013				P								
+6374	Saunders, Branden Tyler	Branden	Tyler	Saunders	2408271363	0	10	M	09/05/2023	07/01/2024	8049	10/26/2007	E1		3	07/01/2021				P								
+5960	Schaefmayer, Zaphod De Mar	Zaphod	De Mar	Schaefmayer	2811687319	0	3	M	09/05/2023	07/01/2024	3276	10/26/2014	E1		5	07/01/2020				FDC								
+5971	Schippers, Cecilia	Cecilia		Schippers	4896583736	0	3	F	09/05/2023	07/01/2024	3276	05/31/2015	E1		6	07/01/2020				FDC								
+7313	Schippers, Elliot	Elliot		Schippers	8226695694	0	0	M	09/05/2023	07/01/2024	3276	07/06/2018	E1		6	07/01/2023				P								
+5026	Schippers, Sebastian Petrillo	Sebastian	Petrillo	Schippers	8976288998	0	6	M	09/05/2023	07/01/2024	3276	06/01/2012	E1		6	09/05/2017				F								
+2781	Schloth, Alana Victoria	Alana	Victoria	Schloth	9416514179	0	10	F	09/05/2023	07/01/2024	8049	10/01/2007	E1		5	09/03/2013				P								
+4732	Schloth, Eliza Caroline	Eliza	Caroline	Schloth	9780020446	0	7	F	09/05/2023	07/01/2024	8049	04/26/2011	E1		5	09/06/2016				P								
+1931	Schloth, Peter Jeremy	Peter	Jeremy	Schloth	7145025809	0	12	M	09/05/2023	07/01/2024	8049	06/30/2005	E1		5	09/06/2011				P								
+7253	Schmucker, George	George		Schmucker	9747263556	0	0	M	09/05/2023	07/01/2024	3276	09/14/2017	E1		5	07/01/2023				P								
+5107	Scholl, Martin David	Martin	David	Scholl	3714227377	0	12	M	09/05/2023	07/01/2024	8049	05/18/2005	E1		6	09/05/2017				P								
+5103	Scholl, Parker Midland	Parker	Midland	Scholl	3002197491	0	11	F	09/05/2023	07/01/2024	8049	12/10/2006	E1		6	09/05/2017				P								
+4733	Schott, Simon Pardo	Simon	Pardo	Schott	5194379846	0	7	M	09/05/2023	07/01/2024	8049	09/23/2010	E1		4	09/06/2016				P								
+3275	Scott, Jesse Caleb Ponce	Jesse	Caleb Ponce	Scott	9978061797	0	9	M	09/05/2023	07/01/2024	8049	11/01/2008	E1		3	09/02/2014				P								
+5028	Segal, Ella Marsh	Ella	Marsh	Segal	4408284335	0	6	F	09/05/2023	07/01/2024	3276	12/19/2011	E1		5	09/05/2017				P								
+5736	Segal, Molly Ryan	Molly	Ryan	Segal	2154090095	0	4	F	09/05/2023	07/01/2024	3276	02/20/2014	E1		5	09/03/2019				P								
+7316	Segal, Quinn	Quinn		Segal	3542414212	0	0	F	09/05/2023	07/01/2024	3276	12/21/2017	E1		5	07/01/2023				P								
+5029	Seibold-Leaf, Julian Alexander	Julian	Alexander	Seibold-Leaf	8219971924	0	6	M	09/05/2023	07/01/2024	3276	05/10/2012	E1		5	09/05/2017				P								
+5534	Shakoor, Caze Rakim	Caze	Rakim	Shakoor	1528963687	0	4	M	09/05/2023	07/01/2024	3276	04/29/2013	E1		3	09/04/2018				FDC								
+3426	Shakoor, Chaze Rene'e	Chaze	Rene'e	Shakoor	8247690705	0	11	F	09/05/2023	07/01/2024	8049	01/06/2007	E1		3	09/02/2014				FDC								
+4858	Shaughnessy, Liam David	Liam	David	Shaughnessy	2332616683	0	7	M	09/05/2023	07/01/2024	8049	07/29/2011	E1		5	11/28/2016				P								
+6371	Shejbal, Alexander	Alexander		Shejbal	8877575549	0	2	M	09/05/2023	07/01/2024	3276	09/18/2015	E1		5	07/01/2021				FDC								
+5517	Shejbal, Anton Christian	Anton	Christian	Shejbal	1373352981	0	6	M	09/05/2023	07/01/2024	3276	09/16/2011	E1		5	09/04/2018				FDC								
+5114	Shields, Clementine Rose	Clementine	Rose	Shields	8978841066	0	8	F	09/05/2023	07/01/2024	8049	08/15/2010	E1		5	09/05/2017				P								
+1932	Shields, James Robert	James	Robert	Shields	1402112874	0	12	M	09/05/2023	07/01/2024	8049	05/23/2006	E1		5	09/06/2011				P								
+6319	Shields, Juno Mae	Juno	Mae	Shields	3181928372	0	2	F	09/05/2023	07/01/2024	3276	12/28/2015	E1		5	07/01/2021				P								
+5436	Shields, Smith Daniel	Smith	Daniel	Shields	7716763954	0	5	M	09/05/2023	07/01/2024	3276	07/29/2013	E1		5	09/04/2018				P								
+4734	Silverman, Alexandra Helen Hanson	Alexandra	Helen Hanson	Silverman	3834044628	0	7	F	09/05/2023	07/01/2024	8049	01/11/2011	E1		5	09/06/2016				P								
+3277	Silverman, Leo Richard Hanson	Leo	Richard Hanson	Silverman	2110150742	0	9	M	09/05/2023	07/01/2024	8049	10/17/2008	E1		5	09/02/2014				P								
+7401	Skrypai, Anastasia	Anastasia		Skrypai	6443647688	0	6	F	09/05/2023	07/01/2024	3276	02/16/2012	E1		5	07/01/2023				FDC								
+7451	Skrypai, Mykyta	Mykyta		Skrypai	7811311992	0	6	M	09/05/2023	07/01/2024	3276	02/16/2012	E1		5	07/01/2023				FDC								
+7356	Skywalker, Luke	Luke		Skywalker	11036	0	11	M	09/05/2023	07/01/2024	8049	09/22/2005	E4		5	0/0/0				P								
+4851	Slobodrian, Maxine Vincia	Maxine	Vincia	Slobodrian	6582239147	0	12	F	09/05/2023	07/01/2024	8049	07/13/2006	E1		5	10/31/2016				FDC								
+5523	Smith Kowalewski, Sydney Mai Elizabeth	Sydney	Mai Elizabeth	Smith Kowalewski	7513356459	0	8	F	09/05/2023	07/01/2024	8049	08/05/2010	E1		5	09/04/2018				P								
+7051	Smith, Caiya	Caiya		Smith	9452865873	0	8	F	09/05/2023	07/01/2024	8049	10/12/2009	E1		6	07/01/2022				FDC								
+7052	Smith, Calin	Calin		Smith	1262494931	0	7	M	09/05/2023	07/01/2024	8049	05/19/2011	E1		6	07/01/2022				FDC								
+1934	Smith, Catherine Anne	Catherine	Anne	Smith	5757835249	0	12	F	09/05/2023	07/01/2024	8049	08/04/2006	E1		5	09/06/2011				P								
+7452	Smith, Riley	Riley		Smith	7387181756	0	0	F	09/05/2023	07/01/2024	3276	07/28/2018	E1		3	07/01/2023				FDC								
+7453	Smith, Sarah	Sarah		Smith	4794994982	0	4	F	09/05/2023	07/01/2024	3276	04/24/2014	E1		3	07/01/2023				FDC								
+6551	Snead, Ashtin Noah	Ashtin	Noah	Snead	8149136266	0	2	M	09/05/2023	07/01/2024	3276	05/23/2016	E1		6	11/05/2021				FDC								
+6508	Snead, Chase Ethan	Chase	Ethan	Snead	4143746956	0	3	M	09/05/2023	07/01/2024	3276	08/01/2014	E1		6	11/01/2021				FDC								
+1935	Sobolewski, Nicholas James	Nicholas	James	Sobolewski	9117382629	0	12	M	09/05/2023	07/01/2024	8049	04/26/2006	E1		5	09/06/2011				P								
+4736	Soltysiak, William Phillip	William	Phillip	Soltysiak	8083892211	0	6	M	09/05/2023	07/01/2024	3276	08/26/2011	E1		5	09/06/2016				P								
+5968	Spilner, Evelyn Mae	Evelyn	Mae	Spilner	6462399481	0	3	F	09/05/2023	07/01/2024	3276	12/02/2014	E1		2	07/01/2020				P								
+5031	Spilner, Henry Alexander	Henry	Alexander	Spilner	2493181778	0	6	M	09/05/2023	07/01/2024	3276	05/10/2012	E1		5	09/05/2017				P								
+1936	Spindler, Kate Olivia	Kate	Olivia	Spindler	9863862231	0	12	F	09/05/2023	07/01/2024	8049	03/30/2006	E1		5	09/06/2011				P								
+5992	Sprague, Eliza Jayne	Eliza	Jayne	Sprague	5761312719	0	3	F	09/05/2023	07/01/2024	3276	12/26/2014	E1		5	07/01/2020				P								
+1760	Spring, Declan	Declan		Spring	7612190095	0	12	M	09/05/2023	07/01/2024	9999	04/25/2005	E4		5	09/07/2010				FDC								
+6336	Stachowicz, Clara Lynn	Clara	Lynn	Stachowicz	3713736731	0	2	F	09/05/2023	07/01/2024	3276	07/10/2016	E1		5	07/01/2021				P								
+3278	Stadanlick, Corrina Marie	Corrina	Marie	Stadanlick	9005407492	0	9	F	09/05/2023	07/01/2024	8049	01/27/2009	E1		5	09/02/2014				P								
+2861	Stadanlick, Theodore Edward	Theodore	Edward	Stadanlick	2103156145	0	12	M	09/05/2023	07/01/2024	8049	04/14/2006	E1		5	09/03/2013				P								
+5767	Stellwagon, Jeremy Alan	Jeremy	Alan	Stellwagon	1800316194	0	11	M	09/05/2023	07/01/2024	8049	09/29/2006	E1		5	09/03/2019				P								
+2469	Steuber, Mason William	Mason	William	Steuber	9544270345	0	11	M	09/05/2023	07/01/2024	8049	04/17/2007	E1		5	09/04/2012				F								
+3651	Stevens, Luca Forrest	Luca	Forrest	Stevens	9988283474	0	11	M	09/05/2023	07/01/2024	8049	04/05/2007	E1		5	11/21/2014				P								
+6902	Stevenson, Melanie Rose	Melanie	Rose	Stevenson	9775853249	0	1	F	09/05/2023	07/01/2024	3276	12/17/2016	E1		5	07/01/2022				F								
+2917	Stewart, Ryan William	Ryan	William	Stewart	9625545646	0	10	M	09/05/2023	07/01/2024	8049	10/26/2007	E1		5	09/03/2013				P								
+6805	Sturgis, Kaylie	Kaylie		Sturgis	1935753428	0	1	F	09/05/2023	07/01/2024	3276	07/28/2017	E1		5	07/01/2022				FDC								
+6804	Sturgis, Kylie	Kylie		Sturgis	4264483565	0	1	F	09/05/2023	07/01/2024	3276	07/28/2017	E1		5	07/01/2022				FDC								
+7006	Sulima, Serenity	Serenity		Sulima	9342123937	0	6	F	09/05/2023	07/01/2024	3276	04/05/2012	E1		5	07/01/2022				F								
+2783	Sulock, Nicholas Joseph	Nicholas	Joseph	Sulock	2200651511	0	10	M	09/05/2023	07/01/2024	8049	06/02/2008	E1		5	09/03/2013				P								
+3422	Sweeney, Logan William	Logan	William	Sweeney	6196564951	0	12	M	09/05/2023	07/01/2024	8049	07/22/2006	E1		5	09/02/2014				P								
+4739	Sweeney, Morgan Scarlett	Morgan	Scarlett	Sweeney	7962941308	0	7	F	09/05/2023	07/01/2024	8049	10/02/2010	E1		5	09/06/2016				P								
+7252	Sweeney, Nola Rose	Nola	Rose	Sweeney	6588636822	0	0	F	09/05/2023	07/01/2024	3276	01/24/2018	E1		5	07/01/2023				FDC								
+7202	Syvak, Vladyslav	Vladyslav		Syvak	7915937278	0	11	M	09/05/2023	07/01/2024	8049	05/25/2006	E1		5	07/01/2022				F								
+2787	Tamaccio, Audrey Grace	Audrey	Grace	Tamaccio	7146917959	0	10	F	09/05/2023	07/01/2024	8049	03/08/2008	E1		5	09/03/2013				P								
+6653	Taylor, Kairi Semaj Lamont	Kairi	Semaj Lamont	Taylor	6349925394	0	1	M	09/05/2023	07/01/2024	3276	07/29/2016	E1		3	02/04/2022				FDC								
+6654	Taylor, Kyaira	Kyaira		Taylor	2793386774	0	2	F	09/05/2023	07/01/2024	3276	04/19/2015	E1		3	02/04/2022				FDC								
+5538	Thomas, Jeffone Tyreese	Jeffone	Tyreese	Thomas	7184526767	0	7	M	09/05/2023	07/01/2024	8049	07/14/2011	E1		3	09/04/2018				FDC								
+6334	Thomas, YeLih Skylar	YeLih	Skylar	Thomas	7837391632	0	2	F	09/05/2023	07/01/2024	3276	07/19/2016	E1		3	07/01/2021				FDC								
+6754	Tokarek, Cole Joseph	Cole	Joseph	Tokarek	2569748161	0	1	M	09/05/2023	07/01/2024	3276	01/04/2017	E1		5	09/06/2022				P								
+5961	Tokarek, Sloane Kathleen	Sloane	Kathleen	Tokarek	4636762614	0	3	F	09/05/2023	07/01/2024	3276	01/03/2015	E1		5	07/01/2020				P								
+3351	Tomberlain, Ryder Kenneth	Ryder	Kenneth	Tomberlain	1535053798	0	9	M	09/05/2023	07/01/2024	8049	07/30/2009	E1		5	09/02/2014				FDC								
+4812	Torres, Aaliyah Antionette	Aaliyah	Antionette	Torres	1828508829	0	10	F	09/05/2023	07/01/2024	8049	08/14/2008	E1		5	09/06/2016				FDC								
+6951	Torres, Eden	Eden		Torres	6986767447	0	1	F	09/05/2023	07/01/2024	3276	09/14/2016	E1		5	07/01/2022				FDC								
+6952	Torres, Evie	Evie		Torres	4567188969	0	1	F	09/05/2023	07/01/2024	3276	09/14/2016	E1		5	07/01/2022				FDC								
+7152	Trail, Desmond	Desmond		Trail	5075490581	0	10	M	09/05/2023	07/01/2024	8049	09/06/2006	E1		3	07/01/2022				FDC								
+7281	Traino, Alessio Jetmir	Alessio	Jetmir	Traino	1828335274	0	0	M	09/05/2023	07/01/2024	3276	01/18/2018	E1		5	07/01/2023				P								
+4040	Trull, Jack Donald	Jack	Donald	Trull	7780991709	0	8	M	09/05/2023	07/01/2024	8049	11/18/2009	E1		5	09/08/2015				FDC								
+4041	Trull, Natalie Lucille	Natalie	Lucille	Trull	7119669273	0	8	F	09/05/2023	07/01/2024	8049	11/18/2009	E1		5	09/08/2015				FDC								
+6014	Tulin, Dennis	Dennis		Tulin	7909411502	0	12	M	09/05/2023	07/01/2024	8049	10/03/2005	E1		5	07/01/2020				P								
+7151	Umuraliev, Ormon	Ormon		Umuraliev	9366318258	0	1	M	09/05/2023	07/01/2024	3276	08/31/2016	E1		2	07/01/2022				FDC								
+7262	Valentine, Kennedy	Kennedy		Valentine	5649893365	0	7	F	09/05/2023	07/01/2024	8049	10/29/2010	E1		6	07/01/2022				FDC								
+7261	Valentine, Marleigh	Marleigh		Valentine	7658113816	0	8	F	09/05/2023	07/01/2024	8049	09/18/2009	E1		6	07/01/2022				FDC								
+7282	Van Zalen, Benjamin	Benjamin		Van Zalen	9511984837	0	0	M	09/05/2023	07/01/2024	3276	07/28/2017	E1		5	07/01/2023				P								
+7306	Van Ziegler, Parker	Parker		Van Ziegler	6564649371	0	0	M	09/05/2023	07/01/2024	3276	06/02/2017	E1		6	07/01/2023				P								
+5120	Vance, Chloe	Chloe		Vance	7880016163	0	7	F	09/05/2023	07/01/2024	8049	09/18/2010	E1		3	09/05/2017				FDC								
+5119	Vance, Sean	Sean		Vance	9037301371	0	11	M	09/05/2023	07/01/2024	8049	04/07/2007	E1		3	09/05/2017				FDC								
+6414	Velazquez, Dominic Joseph	Dominic	Joseph	Velazquez	1533525641	0	11	M	09/05/2023	07/01/2024	8049	02/27/2007	E1		4	09/10/2021				FDC								
+6415	Velazquez, Holly	Holly		Velazquez	7734542336	0	7	F	09/05/2023	07/01/2024	8049	10/14/2010	E1		4	09/10/2021				FDC								
+6413	Velazquez, Lucas Alexander	Lucas	Alexander	Velazquez	3656425361	0	10	M	09/05/2023	07/01/2024	8049	03/20/2008	E1		4	09/10/2021				FDC								
+6359	Velez, Titan Jeremy	Titan	Jeremy	Velez	2651747386	0	11	M	09/05/2023	07/01/2024	8049	10/25/2006	E1		4	07/01/2021				FDC								
+5705	Veltri, Daphne Sharon	Daphne	Sharon	Veltri	7526469729	0	4	F	09/05/2023	07/01/2024	3276	03/21/2014	E1		5	09/03/2019				P								
+5765	Vilsmeier, Young George	Young	George	Vilsmeier	7020843352	0	8	M	09/05/2023	07/01/2024	8049	05/19/2010	E1		2	09/03/2019				P								
+3280	Vnenchak, Kyle Matthew	Kyle	Matthew	Vnenchak	9810525591	0	9	M	09/05/2023	07/01/2024	8049	10/20/2008	E1		5	09/02/2014				P								
+4741	Vnenchak, Nolan Philip	Nolan	Philip	Vnenchak	2383721573	0	7	M	09/05/2023	07/01/2024	8049	07/11/2011	E1		5	09/06/2016				P								
+4042	Wai, James Michael	James	Michael	Wai	8385381791	0	8	M	09/05/2023	07/01/2024	8049	11/30/2009	E1		3	09/08/2015				P								
+5704	Wainwright, Kate Savigny	Kate	Savigny	Wainwright	2819797423	0	4	F	09/05/2023	07/01/2024	3276	01/17/2014	E1		5	09/03/2019				P								
+4742	Wainwright, Steven Rhone	Steven	Rhone	Wainwright	1887739521	0	7	M	09/05/2023	07/01/2024	8049	11/28/2010	E1		5	09/06/2016				P								
+6418	Walker, Kala'Amor Yvette	Kala'Amor	Yvette	Walker	3763429395	0	2	F	09/05/2023	07/01/2024	3276	11/11/2015	E1		3	09/10/2021				FDC								
+5854	Walko, Dalton William	Dalton	William	Walko	5985448215	0	6	M	09/05/2023	07/01/2024	3276	01/20/2012	E1		6	09/03/2019				FDC								
+7266	Walko, Margaret Rose	Margaret	Rose	Walko	8554638581	0	0	F	09/05/2023	07/01/2024	3276	01/26/2018	E1		5	07/01/2023				P								
+1938	Walsh, Julia Shea	Julia	Shea	Walsh	1461129818	0	12	F	09/05/2023	07/01/2024	8049	05/24/2005	E1		5	09/06/2011				FDC								
+1939	Walsh, Thomas Jack	Thomas	Jack	Walsh	5851855134	0	12	M	09/05/2023	07/01/2024	8049	05/24/2005	E1		5	09/06/2011				FDC								
+4743	Walter-Tremblay, Skyler Jai	Skyler	Jai	Walter-Tremblay	1247643956	0	7	M	09/05/2023	07/01/2024	8049	08/13/2010	E1		5	09/06/2016				FDC								
+5962	Wang, Franklin Xiaoyang	Franklin	Xiaoyang	Wang	1819614786	0	3	M	09/05/2023	07/01/2024	3276	12/11/2014	E1		5	07/01/2020				P								
+6701	Wang, Yiting	Yiting		Wang	8478819983	0	11	F	09/05/2023	07/01/2024	8049	02/16/2007	E1		2	07/01/2021				FDC								
+7003	Ward, Alexander	Alexander		Ward	1771787554	0	2	M	09/05/2023	07/01/2024	3276	01/06/2016	E1		5	07/01/2022				P								
+6154	Warren, Jesse Hunter	Jesse	Hunter	Warren	5995463853	0	4	M	09/05/2023	07/01/2024	3276	10/23/2013	E1		6	11/09/2020				P								
+6104	Waters, Cire	Cire		Waters	2927348979	0	2	M	09/05/2023	07/01/2024	3276	03/25/2015	E1		3	07/01/2020				FDC								
+6105	Waters, Eryss	Eryss		Waters	8933248447	0	7	F	09/05/2023	07/01/2024	8049	12/19/2010	E1		3	09/08/2020				FDC								
+3427	Wearing, John Spencer	John	Spencer	Wearing	1204997535	0	11	M	09/05/2023	07/01/2024	8049	08/13/2007	E1		3	09/02/2014				P								
+5440	Wearing, Naomi Susan	Naomi	Susan	Wearing	2164141326	0	5	F	09/05/2023	07/01/2024	3276	07/11/2013	E1		3	09/04/2018				P								
+3282	Wehagen, Beckett Micah	Beckett	Micah	Wehagen	8372807698	0	9	M	09/05/2023	07/01/2024	8049	12/11/2008	E1		5	09/02/2014				P								
+2467	Wehagen, Noah Zachary	Noah	Zachary	Wehagen	5762285634	0	11	M	09/05/2023	07/01/2024	8049	04/05/2007	E1		5	09/04/2012				P								
+5703	Wehagen, Silas Hill	Silas	Hill	Wehagen	7972694842	0	4	M	09/05/2023	07/01/2024	3276	05/18/2014	E1		5	09/03/2019				P								
+2404	Weinik-Brewer, Oscar James	Oscar	James	Weinik-Brewer	7613650871	0	11	M	09/05/2023	07/01/2024	8049	10/30/2006	E1		5	09/02/2012				P								
+6851	Wheeler, Madelyn Grace	Madelyn	Grace	Wheeler	1479889938	0	1	F	09/05/2023	07/01/2024	3276	09/22/2016	E1		5	07/01/2022				P								
+7472	Whitaker, Alice Rose	Alice	Rose	Whitaker	9552758114	0	2	F	09/05/2023	07/01/2024	3276	05/19/2016	E1			07/01/2023				FDC								
+4744	White, Joseph John	Joseph	John	White	8584965963	0	7	M	09/05/2023	07/01/2024	8049	11/20/2010	E1		5	09/06/2016				P								
+2790	White, Riley Allison	Riley	Allison	White	9679621405	0	10	F	09/05/2023	07/01/2024	8049	01/31/2008	E1		5	09/03/2013				P								
+6357	Wicks, Elizabeth Susan	Elizabeth	Susan	Wicks	2745375415	0	2	F	09/05/2023	07/01/2024	3276	11/28/2015	E1		5	07/01/2021				P								
+5442	Wicks, Vivienne Jane	Vivienne	Jane	Wicks	2203427396	0	5	F	09/05/2023	07/01/2024	3276	03/17/2013	E1		5	09/04/2018				P								
+5032	Williams, Chloe Rose	Chloe	Rose	Williams	4659631737	0	6	F	09/05/2023	07/01/2024	3276	08/09/2011	E1		6	09/05/2017				P								
+4816	Williams, Jonathan Lang	Jonathan	Lang	Williams	6395368796	0	11	M	09/05/2023	07/01/2024	8049	11/11/2006	E1		5	09/06/2016				P								
+5117	Williams, Maya	Maya		Williams	1367582296	0	11	F	09/05/2023	07/01/2024	8049	06/15/2007	E1		6	09/05/2017				P								
+5513	Wilson, Annaliese Tamara	Annaliese	Tamara	Wilson	1356974899	0	11	F	09/05/2023	07/01/2024	8049	06/12/2007	E1		3	09/04/2018				P								
+5514	Wilson, Toni Akira	Toni	Akira	Wilson	8992248482	0	9	F	09/05/2023	07/01/2024	8049	11/08/2008	E1		3	09/04/2018				P								
+6317	Wolf-Gazonas, John George	John	George	Wolf-Gazonas	3677425883	0	2	M	09/05/2023	07/01/2024	3276	04/16/2016	E1		5	07/01/2021				P								
+5443	Wolf-Gazonas, Thomas John	Thomas	John	Wolf-Gazonas	3574757433	0	5	M	09/05/2023	07/01/2024	3276	07/13/2013	E1		5	09/04/2018				P								
+5998	Woods, Cormac Thomas	Cormac	Thomas	Woods	5936545512	0	3	M	09/05/2023	07/01/2024	3276	03/25/2015	E1		5	07/01/2020				P								
+7301	Woods, Lochlan James	Lochlan	James	Woods	7922869258	0	0	M	09/05/2023	07/01/2024	3276	12/07/2017	E1		5	07/01/2023				P								
+5444	Woods, Oliver Patrick	Oliver	Patrick	Woods	7676733715	0	5	M	09/05/2023	07/01/2024	3276	05/28/2013	E1		5	09/04/2018				P								
+6959	Woolerton, Carter	Carter		Woolerton	3173244575	0	2	M	09/05/2023	07/01/2024	3276	01/07/2016	E1		5	07/01/2022				FDC								
+6960	Woolerton, Mason	Mason		Woolerton	4922871411	0	6	M	09/05/2023	07/01/2024	3276	04/25/2012	E1		5	07/01/2022				FDC								
+4747	Worrell, Anna Marie	Anna	Marie	Worrell	5894682142	0	7	F	09/05/2023	07/01/2024	8049	02/24/2011	E1		5	09/06/2016				P								
+3283	Worrell, Nathaniel Paul	Nathaniel	Paul	Worrell	6606146992	0	9	M	09/05/2023	07/01/2024	8049	01/24/2009	E1		5	09/02/2014				P								
+5445	Wurst, Christian Elijah	Christian	Elijah	Wurst	6304761031	0	5	M	09/05/2023	07/01/2024	3276	10/30/2012	E1		5	09/04/2018				FDC								
+4044	Wurst, Olivia Elizabeth Ann	Olivia	Elizabeth Ann	Wurst	3416018761	0	8	F	09/05/2023	07/01/2024	8049	01/21/2010	E1		5	09/08/2015				FDC								
+6961	Yeager, Cecilia	Cecilia		Yeager	4562155922	0	4	F	09/05/2023	07/01/2024	3276	10/19/2013	E1		5	07/01/2022				FDC								
+5762	Yoon, Liam Samuel	Liam	Samuel	Yoon	1781509239	0	8	M	09/05/2023	07/01/2024	8049	01/12/2010	E1		2	09/03/2019				P								
+5761	Yoon, Nina Ann	Nina	Ann	Yoon	8747766964	0	11	F	09/05/2023	07/01/2024	8049	10/14/2006	E1		2	09/03/2019				P								
+5982	Yu, Rebecca	Rebecca		Yu	7386568355	0	3	F	09/05/2023	07/01/2024	3276	06/24/2015	E1		2	07/01/2020				P								
+7258	Yu, Samuel	Samuel		Yu	4234761613	0	0	M	09/05/2023	07/01/2024	3276	11/23/2017	E1		2	07/01/2023				P								
+6307	Zaveloff, Emmett Charles	Emmett	Charles	Zaveloff	8995211733	0	2	M	09/05/2023	07/01/2024	3276	09/01/2015	E1		5	07/01/2021				P								
+5702	Zaveloff, Zoe Jillian	Zoe	Jillian	Zaveloff	8123192525	0	4	F	09/05/2023	07/01/2024	3276	09/27/2013	E1		5	09/03/2019				P								
+1940	Zazulak, Ayden Michelle	Ayden	Michelle	Zazulak	4250449688	0	12	F	09/05/2023	07/01/2024	8049	03/23/2006	E1		5	09/06/2011				FDC								
+5033	Zazulak, David Andrew	David	Andrew	Zazulak	6387656893	0	6	M	09/05/2023	07/01/2024	3276	10/24/2011	E1		5	09/05/2017				FDC								
+5446	Zeccardi, Ellexandra Julianna	Ellexandra	Julianna	Zeccardi	4191802453	0	5	F	09/05/2023	07/01/2024	3276	09/13/2012	E1		5	09/04/2018				P								
+5963	Zeccardi, Luca Michael	Luca	Michael	Zeccardi	4881054465	0	3	M	09/05/2023	07/01/2024	3276	08/08/2014	E1		5	07/01/2020				P								
+5809	Zegestowsky, Ellie Skye	Ellie	Skye	Zegestowsky	2954375175	0	7	F	09/05/2023	07/01/2024	8049	04/12/2011	E1		5	09/03/2019				P								
+5808	Zegestowsky, Summer Emily	Summer	Emily	Zegestowsky	2599847265	0	5	F	09/05/2023	07/01/2024	3276	05/05/2013	E1		5	09/03/2019				P								
+5760	Zelnick, Leo Naaman	Leo	Naaman	Zelnick	3286269573	0	11	M	09/05/2023	07/01/2024	8049	01/04/2007	E1		5	09/03/2019				P								
+7264	Zhu, Samuel	Samuel		Zhu	6892381227	0	7	M	09/05/2023	07/01/2024	8049	11/10/2010	E1		6	07/01/2023				P								
+6329	Zimmerman, Ada Louise	Ada	Louise	Zimmerman	5282355418	0	2	F	09/05/2023	07/01/2024	3276	04/12/2016	E1		5	07/01/2021				P								
+5034	Zimmerman, Dean Gerald	Dean	Gerald	Zimmerman	9494424212	0	6	M	09/05/2023	07/01/2024	3276	01/08/2012	E1		5	09/05/2017				P								
+4748	Zyman, Henry A	Henry	A	Zyman	7921169597	0	7	M	09/05/2023	07/01/2024	8049	10/15/2010	E1		5	09/06/2016				P								
+3429	Zyman, Sophia Francesca	Sophia	Francesca	Zyman	3537833598	0	9	F	09/05/2023	07/01/2024	8049	06/19/2009	E1		5	09/02/2014				P								

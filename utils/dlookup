@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+search_district "$1" > /home/jackoc/temp.txt 
+
+cat /home/jackoc/temp.txt
+
+cat /home/jackoc/temp.txt| tr -d '\n' | xclip -selection c
+
+rm /home/jackoc/temp.txt

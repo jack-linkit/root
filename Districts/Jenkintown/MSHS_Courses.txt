@@ -1,0 +1,452 @@
+1	1	Lunch	0.00	0		8049
+6	9	Study Hall	0.00	0		8049
+7	106	English - ESL	1.00	0		8049
+8	109	English I	1.00	0		8049
+9	110	English II	1.00	0		8049
+10	111	English III	1.00	0		8049
+11	112	English IV	1.00	0		8049
+12	115	Language Arts -9	1.00	0		8049
+13	116	Language Arts -10	1.00	0		8049
+14	117	Language Arts - 11	1.00	0		8049
+15	118	Language Arts -12	1.00	0		8049
+16	120	AP Eng Lit & Comp	1.00	0		8049
+17	121	AP Eng Lang & Comp	1.00	0		8049
+18	122	Honors English III	1.00	0		8049
+19	123	Honors English IV	1.00	0		8049
+22	143	SAT Prep	0.50	0		8049
+26	173	Guided Study	1.00	0		8049
+27	175	Guided Study- 9-12	1.00	0		8049
+28	176	Guided Study Math	1.00	0		8049
+29	179	Guided Study Math (hy)	0.50	0		8049
+35	215	Pre-Algebra	0.00	0		8049
+36	230	Algebra I	1.00	0		8049
+37	231	Algebra II	1.00	0		8049
+39	240	Geometry	1.00	0		8049
+40	250	Pre-Calculus	1.00	0		8049
+42	252	Honors Calculus	1.00	0		8049
+44	266	Mathematics -11	1.00	0		8049
+45	267	Mathematics-12	1.00	0		8049
+46	268	Mathematics-9	1.00	0		8049
+201	990	Advisory 7	0.00	0		8049
+202	607	Art 7	0.00	0		8049
+203	608	Art 8	0.00	0		8049
+204	640	Vocal Experience 7	0.00	0		8049
+205	645	Vocal Experience 8	0.00	0		8049
+206	107	English 7	0.00	0		8049
+207	108	English 8	0.00	0		8049
+208	174	Guided Study - 7-8	0.00	0		8049
+209	717	Health 7	0.00	0		8049
+212	7000	Homeroom 7	0.00	0		8049
+213	8000	Homeroom 8	0.00	0		8049
+216	207	Pre-Algebra 1A	0.00	0		8049
+217	208	Pre-Algebra 1B	0.00	0		8049
+218	262	Mathematics - 7	0.00	0		8049
+219	263	Mathematics-8	0.00	0		8049
+220	639	MS  Band - 8	0.00	0		8049
+224	708	Phys Ed  7	0.00	0		8049
+225	709	Phys Ed 8	0.00	0		8049
+227	307	Science 7	0.00	0		8049
+228	308	Science 8	0.00	0		8049
+231	408	U S History 8	0.00	0		8049
+232	407	World Geogr 7	0.00	0		8049
+49	310	Biology I	1.00	0		8049
+50	311	Honors Biology II	1.00	0		8049
+51	330	Environmental Sci	1.00	0		8049
+52	331	Conceptual Physics	1.00	0		8049
+53	340	Chemistry	1.00	0		8049
+55	350	Physics	1.00	0		8049
+56	351	Honors Physics	1.00	0		8049
+57	352	AP Physics C	1.00	0		8049
+58	409	Western World	1.00	0		8049
+59	410	World Cultures	1.00	0		8049
+60	411	US History	1.00	0		8049
+62	419	AP US HIstory	1.00	0		8049
+63	420	Honors US History	1.00	0		8049
+65	430	Psychology	0.50	0		8049
+66	440	Sociology	0.50	0		8049
+70	501	French I	1.00	0		8049
+71	502	French II	1.00	0		8049
+72	503	French III	1.00	0		8049
+73	504	French IV	1.00	0		8049
+75	506	French V	1.00	0		8049
+76	510	Spanish 1	1.00	0		8049
+77	512	Spanish II	1.00	0		8049
+78	513	Spanish III	1.00	0		8049
+79	514	Spanish IV	1.00	0		8049
+80	515	Honors Spanish V	1.00	0		8049
+84	601	Art I (hy)	0.50	0		8049
+85	602	Art II (hy)	0.50	0		8049
+86	609	Art I	1.00	0		8049
+87	610	Art II	1.00	0		8049
+88	611	Art III	1.00	0		8049
+89	612	Art IV	1.00	0		8049
+100	642	Concert Choir	1.00	0		8049
+101	643	Honors Chorale	1.00	0		8049
+103	649	Honors Wind Ensemble	1.00	0		8049
+104	651	Wind Ensemble	1.00	0		8049
+105	652	Jazz Ensemble	0.50	0		8049
+106	655	Concert Choir (hy)	0.50	0		8049
+107	670	Architectural Des.	0.50	0		8049
+108	671	Computer Animation I	0.50	0		8049
+109	710	Phys Ed 9	0.50	0		8049
+110	711	Physical Educ	0.50	0		8049
+111	713	Team Sports	0.50	0		8049
+112	714	Weight Training	0.50	0		8049
+113	715	Lifetime Sports	0.50	0		8049
+114	716	Phys Ed 10	0.50	0		8049
+115	718	Health	0.50	0		8049
+121	960	Auto Technology	4.00	0	47.0604	8049
+122	961	Collision  Repair	4.00	0	47.0603	8049
+123	962	Commercial Art	4.00	0	50.0402	8049
+124	963	Construction	3.00	0	46.0201	8049
+125	964	Computer Network Administration	4.00	0	11.0901	8049
+126	965	Cosmetology	4.00	0	12.0401	8049
+127	966	Culinary Arts	4.00	0	12.0508	8049
+128	967	Electrical Technology	4.00	0	46.0399	8049
+130	969	Honors Allied Health	4.00	0	51.9999	8049
+131	972	Protective Serv	4.00	0	43.9999	8049
+132	973	Welding	4.00	0	48.0508	8049
+133	998	Transition	4.00	0		8049
+134	1000	Grad. Project	0.00	0		8049
+138	1010	Homeroom 10	0.00	0		8049
+139	1111	Homeroom 11	0.00	0		8049
+140	1212	Homeroom 12	0.00	0		8049
+147	5006	VHS: Psychology I	0.50	0		8049
+149	5017	VHS: Honors Astronomy Principles	1.00	0		8049
+150	5020	VHS: Honors Eastern/Western Thought	1.00	0		8049
+151	5037	VHS: AP Calc BC	1.00	0		8049
+154	5049	VHS: Number Theory	0.50	0		8049
+155	5051	VHS: Honors Anatomy/Phys	1.00	0		8049
+157	5063	VHS: Latin 1	1.00	0		8049
+158	5064	VHS: Contemporary Issues in American Law	0.50	0		8049
+162	5073	VHS: Honors Statistics	1.00	0		8049
+163	5076	VHS: Honors Bio Ethics	1.00	0		8049
+164	5077	VHS: Honors Oceanography	1.00	0		8049
+165	5078	VHS: Business/Law	0.50	0		8049
+166	5079	VHS: Honors Philosophy I	1.00	0		8049
+169	5082	VHS: Honors Ancient Rome	1.00	0		8049
+174	9000	Homeroom 9	0.00	0		8049
+317	425	Economics	0.50	0		8049
+318	426	Honors Economics	0.50	0		8049
+319	424	Honors Government	0.50	0		0
+320	423	Government	0.50	0		0
+336	598	Portfolio Prep (half year)	0.50	0		8049
+337	605	Art III (hy) 	0.50	0		8049
+349	0650	MS Band 7	0.00	0		8049
+352	5028	VHS: AP Calculus AB	1.00	0		0
+359	5093	VHS: Honors Animal Behavior & Zoology	1.00	0		0
+360	5094	VHS: Forensic Science	0.50	0		0
+324	212	Math Survey	1.00	0		8049
+327	151	Journalism	0.50	0		8049
+330	460	International Relations	0.50	0		8049
+333	625	Art Independent Study (hy)	0.50	0		8049
+339	265	Mathematics-10	1.00	0		8049
+340	614	Art Independent Study	1.00	0		8049
+358	5092	VHS: AP Statistics	1.00	0		0
+361	541	Teaching Assistant/Office Aid	1.00	0		0
+362	540	Teaching Assistant/Office Aid (hy)	0.50	0		0
+355	5026	VHS: Screenwriting 	0.50	0		0
+356	5023	VHS: American Popular Music	0.50	0		0
+367	5095	VHS: Sports and American Society	0.50	0		0
+370	192	Life Skills HS	1.00	0		0
+502	341	Chemistry in the Community	1.00	0		8049
+504	516	Spanish V	1.00	0		8049
+553	5030	VHS: The Human Body	0.50	0		8049
+557	5100	VHS: Programming in Visual Basic	0.50	0		8049
+601	606	Art IV (hy)	0.50	0		8049
+608	5102	VHS: Mythology	0.50	0		8049
+610	183	Study Skills 8	0.00	0		8049
+611	193	Study Skills 7	0.00	0		8049
+653	5150	VHS: Academic Writing	0.50	0		8049
+701	5103	VHS: Biotechnology	0.50	0		8049
+751	654	Wind Ensemble (hy)	0.50	0		8049
+801	160	Public Speaking	0.50	0		8049
+804	5003	VHS: Health	0.50	0		8049
+805	615	AP Studio Art: 2-D Design	1.00	0		8049
+806	616	AP Studio Art: Drawing	1.00	0		8049
+807	517	Independent Study Spanish Lang.	1.00	0		8049
+808	5005	VHS: AP English Lang	1.00	0		8049
+809	165	Independent Study Creative WR (hy)	0.50	0		8049
+811	119	Language Arts - 8	0.00	0		8049
+813	5104	VHS: Italian Language and Culture	0.50	0		8049
+814	5105	VHS: Creative Writing	0.50	0		8049
+817	5151	VHS: Mandarin Chinese Lang	0.50	0		8049
+904	5154	VHS: Poetry Writing	0.50	0		8049
+602	5101	VHS: Russian Lang & Culture	0.50	0		8049
+603	105	Language Arts	1.00	0		8049
+609	104	Language Arts - 7	0.00	0		8049
+802	507	AP French Lang	1.00	0		8049
+803	5120	VHS: AP Computer Science A	1.00	0		8049
+818	5152	VHS: AP BIO	1.00	0		8049
+901	5112	VHS: Horror Writers	0.50	0		8049
+1012	685	Digital Video	0.50	0		8049
+1015	687	Digital Media Adv Indep Study (hy)	0.50	0		8049
+1051	674	Introduction to Programming	0.50	0		8049
+1054	163	MS Creative Writing-Accelerated	0.00	0		8049
+1057	5163	VHS: International Business	0.50	0		8049
+1062	634	iLife 8	0.00	0		8049
+1101	195	Life Skills MS	0.00	0		8049
+1010	682	Presentation Design	0.50	0		8049
+1011	683	Digital Photography	0.50	0		8049
+1055	5161	VHS: Honors Genes and Disease	1.00	0		8049
+1059	630	Office 7	0.00	0		8049
+1153	5180	VHS: Sociology	0.50	0		8049
+951	660	MS Jazz Ensemble	0.00	0		8049
+1008	680	Digital Portfolio	0.50	0		8049
+1053	249	Statistics	1.00	0		8049
+1152	5170	VHS: AP Music Theory	1.00	0		8049
+1155	353	Independent Study-Cosmology	0.50	0		8049
+1052	155	Introduction to Cinema	0.50	0		8049
+1058	5164	VHS: Honors Advanced Topics In Chemistry	1.00	0		8049
+1006	3506	English Comp 101-MCCC	1.00	0		8049
+1013	684	Digital Photography II	0.50	0		8049
+1001	194	Life Skills HS (hy)	0.50	0		8049
+1003	644	Honors Chorale (hy)	0.50	0		8049
+1056	5162	VHS: German Language and Culture	0.50	0		8049
+1060	631	iWork 7	0.00	0		8049
+1061	633	Creative Suite 8	0.00	0		8049
+1151	166	Independent Study CreativeWR	1.00	0		8049
+1252	6001	Educere-Intro to Ind Sports	0.50	0		8049
+1304	5183	VHS: Pre-Calculus I	0.50	0		8049
+1309	5188	VHS: Honors Modern Middle East	1.00	0		8049
+1353	5155	VHS: Honors Math & Modern Logic	1.00	0		8049
+1551	4020	MAT 100: MCCC (Intermediate Algebra)	1.00	0		8049
+1201	170	Independent Study - MS	0.00	0		8049
+1306	255	Functional Math	1.00	0		8049
+1310	5189	VHS: Honors 101 Ways/Write a Short Story	1.00	0		8049
+1311	5190	VHS: CAD Programming	0.50	0		8049
+1552	4021	MGT 110: MCCC (Intro to Bus)	1.00	0		8049
+1701	161	Guided Study-Literature	1.00	0		8049
+1702	162	Guided Study-Literature (hy)	0.50	0		8049
+1703	167	Guided Study- Alg 1	1.00	0		8049
+1704	168	Guided Study- Alg 1 (hy)	0.50	0		8049
+1705	172	Guided Study-Biology	1.00	0		8049
+1706	178	Guided Study-Biology (hy)	0.50	0		8049
+1801	5165	VHS: Honors Psych of Crime	1.00	0		8049
+1851	975	Office Management	4.00	0	52.0401	8049
+1253	254	AP Calculus AB	1.00	0		8049
+1302	5181	VHS: Comp Sci & Engineering/Java	0.50	0		8049
+1303	5182	VHS: Honors Calculus	1.00	0		8049
+1307	585	VHS: MS Engineering	0.50	0		8049
+1312	5191	VHS: Evolution & The Nature of Science	0.50	0		8049
+1351	5035	VHS: Web Design	0.50	0		8049
+1451	5192	VHS: U.S. Government	0.50	0		8049
+1502	247	PreCalulus-AUDIT	1.00	0		8049
+1553	4022	ESW 137: MCCC (Intro to Tennis)	1.00	0		8049
+1601	5193	VHS: US History 1877-Present	0.50	0		8049
+1651	679	Information Technology	0.50	0		8049
+1653	521	AP Spanish Lang	1.00	0		8049
+1803	5168	VHS: AP European History	1.00	0		8049
+1804	5194	VHS: Personal Finance	0.50	0		8049
+1251	360	Biology I (hy)	0.50	0		8049
+1301	169	Guided Study Math 7-8	0.00	0		8049
+1305	5184	VHS: Honors Env Science	1.00	0		8049
+1308	586	VHS: Meteorology	0.50	0		8049
+1352	590	VHS: World Religions	0.50	0		8049
+1401	5007	VHS: Honors Psychology	1.00	0		8049
+1501	248	Statistics-AUDIT	1.00	0		8049
+1802	5167	VHS: Psychology of Crime	0.50	0		8049
+1805	5195	VHS: Fundamentals of Music Comp	0.50	0		8049
+1806	5197	VHS: Honors Climate Change	1.00	0		8049
+1901	5125	VHS: AP Chemistry	1.00	0		8049
+1951	5198	VHS: US Foreign Policy	0.50	0		8049
+1952	5199	VHS: Video Game Design	0.50	0		8049
+2003	3509	POL 124: MCCC (American Natl Gov)	1.00	0		8049
+2004	3510	ECO 122: MCCC (Microeconomics)	1.00	0		8049
+2005	3600	German 210: Temple (Intermediate German)	1.00	0		8049
+2006	3700	Chemistry 121: Com. College of Phila	1.00	0		8049
+2151	5201	VHS: Honors Art History	1.00	0		8049
+2153	5203	VHS: Business and Personal Law	0.50	0		8049
+2201	5204	VHS: Honors Economics	1.00	0		8049
+2251	500	World Language Exploratory	0.00	0		8049
+2252	290	MAT106: Math Applications (MCCC)	1.00	0		8049
+2253	4023	MGT121: Small Business Management (MCCC)	1.00	0		8049
+2352	5027	VHS: Honors Twentieth Century Women Auth	1.00	0		8049
+2402	657	BelleTones (hy)	0.25	0		8049
+2552	102	English 8- ESL	0.00	0		8049
+2553	101	English 7- ESL	0.00	0		8049
+2001	5200	VHS: Honors Criminology	1.00	0		8049
+2002	3508	Bio 120: MCCC	1.00	0		8049
+2101	153	Book Club 101	0.50	0		8049
+2152	5202	VHS: Nuclear Physics	0.50	0		8049
+2351	5153	VHS: Honors Biochemistry	1.00	0		8049
+2401	656	BelleTones	0.50	0		8049
+2403	658	BelleTones MS	0.00	0		8049
+2451	3800	Chemistry 110+111: PSU	1.00	0		8049
+2501	5206	VHS: PE-Personal Fitness	0.50	0		8049
+2551	103	English- ESL (hy)	0.50	0		8049
+2601	5207	VHS: Investing in the Stock Market	0.50	0		8049
+2602	5208	VHS: Honors Psychology of Crime	1.00	0		8049
+2603	5209	VHS: Honors Spanish Culture/20 Cent Lit	1.00	0		8049
+2604	5210	VHS: Honors Computer Science	1.00	0		8049
+2605	5211	VHS: AP Human Geography	1.00	0		8049
+2606	5212	VHS: Honors Epidemics	1.00	0		8049
+2607	5213	VHS: Engineering Principles	0.50	0		8049
+2651	465	Indep Study- Anthropology	0.50	0		8049
+2652	256	 AP Computer Science Principles	1.00	0		8049
+2701	124	Honors English II	1.00	0		8049
+2752	977	Veterinary Science	4.00	0	51.0808	8049
+2754	5205	VHS: Honors Constitutional Law	1.00	0		8049
+3103	5122	VHS: Intro Comp Sci Principles	0.50	0		8049
+3104	584	VHS: MS Business Foundations	0.50	0		8049
+3152	522	Spanish 1 - AUDIT	0.00	0		8049
+3251	S51044	Fourth Grade Language Arts	0.00	0		0
+3365	669	Game Design	0.50	0		8049
+3373	980	Networking and Cybersecurity	4.00	0	11.0901	8049
+2903	148	IS - World Lit	0.50	0		8049
+2951	661	Music Theory - Indep. Study	0.50	0		8049
+3101	5000	Homeroom MVP	0.00	0		8049
+3352	236	Algebra I (SS)	1.00	0		8049
+3354	242	Geometry (SS)	1.00	0		8049
+3356	361	Conceptual Physics (SS)	1.00	0		8049
+3404	719	Weight Training/Lifetime Sports	0.50	0		8049
+3451	981	Networking and Cybersecurity	4.00	0		8049
+3455	5215	VHS: Marketing	0.50	0		8049
+2753	5008	VHS: AP Psychology	1.00	0		8049
+2755	5086	VHS: A Look at Contemporary Israel	0.50	0		8049
+2757	5068	VHS: Music Listening and Critique	0.50	0		8049
+3151	520	Independent Study - French IV	1.00	0		8049
+3201	5220	VHS: French Language & Culture	0.50	0		8049
+3202	5225	VHS: Honors Differential Calculus	1.00	0		8049
+3351	635	STEAM Explorer	0.00	0		8049
+3353	237	Algebra II (SS)	1.00	0		8049
+3357	126	English 7 (SS)	0.00	0		8049
+3358	127	English 8 (SS)	0.00	0		8049
+3359	128	English I (SS)	1.00	0		8049
+3360	129	English II (SS)	1.00	0		8049
+3369	5240	VHS: Honors Shakespeare in Film	1.00	0		8049
+3374	ABCD123	Reportable Students	0.00	0		8049
+3401	199	Intro to Philosophy - IS	0.50	0		8049
+3102	232	Algebra II (hy)	0.50	0		8049
+3454	588	VHS: Creating Art History	0.50	0		8049
+2751	976	Business and Technology Professional	4.00	0	52.0401	8049
+2756	5088	VHS: AP World History	1.00	0		8049
+3051	5130	VHS: AP Environmental Science 	1.00	0		8049
+3364	239	Geometry (Accelerated)	1.00	0		8049
+3371	5071	VHS: English 12	0.50	0		8049
+3402	689	Introduction to Business	0.50	0		8049
+3452	587	VHS: MS The Teenage Brain	0.50	0		8049
+3453	5230	VHS: Honors Sustainability Engineering	1.00	0		8049
+3501	SLY1	Defense Against The Dark Arts	1.00	0		8049
+2902	5217	VHS: Essential Math for College & Care	0.50	0		8049
+3001	415	Honors World Cultures	1.00	0		8049
+3253	10046S	Fourth Grade Science & Social Studies	0.00	0		0
+3355	418	US History (SS)	1.00	0		8049
+3361	466	US History 8 (SS)	0.00	0		8049
+3362	216	Pre-Algebra (Accelerated)	0.00	0		8049
+3363	229	Algebra I (Accelerated)	1.00	0		8049
+3502	HOG1	Potions	1.00	0		8049
+3504	HOG3	Fantastic Beasts	0.00	0		8049
+2758	5111	VHS: Fantasy & Science Fiction	0.50	0		8049
+2759	5214	VHS: Peacemaking	0.50	0		8049
+2851	979	HVAC	4.00	0	47.0201	8049
+3405	720	Team Sports/Competitive Games	0.50	0		8049
+2801	271	Math - ESL	0.50	0		8049
+2901	5216	VHS: Statistics	0.50	0		8049
+2952	315	Eco-Schools	0.50	0		8049
+3203	5226	VHS: Business Math	0.50	0		8049
+3366	5057	VHS: Honors Java Programming	1.00	0		8049
+3367	5021	VHS: Entrepreneurship	0.50	0		8049
+3368	5062	VHS: Latin 2	1.00	0		8049
+3702	198	Intro to Philosophy - IS (hy)	0.50	0		8049
+3801	1300	Homeroom MHS	0.00	0		8049
+3751	974	Robotics & Automated Technology	4.00	0	15.0403	8049
+3802	629	Digital Media Arts	0.00	0		8049
+3651	STAR1	Intro to Lightsabers	0.00	0		3276
+3803	OBIWAN	Jedi Training	0.00	0		3276
+3601	662	Just the Guy MS	0.00	0		8049
+3653	2001	British Literature (AS)	1.00	0		8049
+3655	2500	Personal Finance (AS)	1.00	0		8049
+3701	173B	Guided Study B 	0.50	0		8049
+3551	659	Just the Guys	0.50	0		8049
+3654	3750	Chemistry II (AS)	1.00	0		8049
+3951	691	Entrepreneurship I	0.50	0		8049
+3952	450	Contemporary Issues	0.50	0		8049
+4101	197	ABA	0.00	0		8049
+4103	133	English I	1.00	0		8049
+4158	642A	Concert Choir A	0.50	0		8049
+3901	5250	VHS: Honors Java Fund -Sci & Engineering	1.00	0		8049
+4051	5060	VHS: American Sign Language I (ASL)	1.00	0		8049
+4052	5025	VHS: Honors Journalism	1.00	0		8049
+4053	5119	VHS: AP Computer Science Principles	1.00	0		8049
+4152	109S	English I	1.00	0		8049
+4154	111S	English III	1.00	0		8049
+4155	112S	English IV	1.00	0		8049
+4161	643B	Honors Chorale B	0.50	0		8049
+3902	5251	VHS: Preparing for College	0.50	0		8049
+4151	4014	EN 101 (Thought & Exp I): Arcadia U	1.00	0		8049
+4153	110S	English II	1.00	0		8049
+4156	231S	Algebra II	1.00	0		8049
+4157	173A	Guided Study A	0.50	0		8049
+4159	642B	Concert Choir B	0.50	0		8049
+4160	643A	Honors Chorale A	0.50	0		8049
+3953	243	Honors Geometry	1.00	0		8049
+4001	618	Computer Applications 7	0.00	0		8049
+4102	4009	MA 202 (Calculus II): Arcadia U	1.00	0		8049
+4162	230S	Algebra I	1.00	0		8049
+4301	542	MS Teaching Assistant	0.00	0		8049
+4352	523	Spanish Immersion	1.00	0		8049
+4402	173A1	Guided Study A1	0.50	0		8049
+4403	173A2	Guided Study A2	0.50	0		8049
+4404	173A3	Guided Study A3	0.50	0		8049
+4407	173A6	Guided Study A6	0.50	0		8049
+4409	173A8	Guided Study A8	0.50	0		8049
+4410	173A9	Guided Study A9	0.50	0		8049
+4411	173B1	Guided Study B1	0.50	0		8049
+4413	173B3	Guided Study B3	0.50	0		8049
+4414	173B4	Guided Study B4	0.50	0		8049
+4416	173B6	Guided Study B6	0.50	0		8049
+4417	173B7	Guided Study B7	0.50	0		8049
+4421	5241	VHS: Film and Literature	0.50	0		8049
+4501	SG123456789	Full SY Manual Course for Stored Grade	0.00	0		8049
+4505	4026	BI101 (General Biology I): Arcadia	1.00	0		8049
+4507	4028	EN219 (Banned Books): Arcadia	1.00	0		8049
+4512	3511	 HIS101 (Hist of WesternCiv): MCCC	1.00	0		8049
+4601	C2000	ENG101 (Eng Comp I): MCCC	1.00	0		8049
+4602	C1000	EN101 (Thought, Exp, Advocacy): Arcadia	1.00	0		8049
+4603	C1001	CJ160 (Crime & Punishment): Arcadia	1.00	0		8049
+4604	C1002	PY111 (Intro to Psych): Arcadia	1.00	0		8049
+4201	971	Design, Photography, and Illustration	4.00	0	50.0402	8049
+4251	5196	VHS: Honors Climate Science	1.00	0		8049
+4351	4024	IT 101 (Beg Italian): Arcadia U	1.00	0		8049
+4353	5114	VHS: Honors History of Photography	1.00	0		8049
+4401	173C	Guided Study C	0.50	0		8049
+4405	173A4	Guided Study A4	0.50	0		8049
+4406	173A5	Guided Study A5	0.50	0		8049
+4408	173A7	Guided Study A7	0.50	0		8049
+4412	173B2	Guided Study B2	0.50	0		8049
+4415	173B5	Guided Study B5	0.50	0		8049
+4418	173B8	Guided Study B8	0.50	0		8049
+4419	173B9	Guided Study B9	0.50	0		8049
+4420	5058	VHS: Python Programming	0.50	0		8049
+4422	5255	VHS: Portuguese I	1.00	0		8049
+4423	5265	VHS: Spanish IV	1.00	0		8049
+4451	982	Exercise Science & Rehabilitation	4.00	0	51.3101	8049
+4452	6005	MVP: Chinese I	1.00	0		8049
+4453	5115	VHS: Ghosts & Haunting in Literature	0.50	0		8049
+4454	5264	VHS: Spanish III	1.00	0		8049
+4455	231SB	Algebra II B	1.00	0		8049
+4456	409S	Social Studies 9	1.00	0		8049
+4502	316G	Eco-Schools	0.50	0		8049
+4504	4025	MA202 (Calc II): Arcadia	1.00	0		8049
+4506	4027	AH112 (Western Art): Arcadia	1.00	0		8049
+4508	4029	PL150 (Intro to Philosophy): Arcadia  	1.00	0		8049
+4509	4030	HA150 (Health Services): Arcadia	1.00	0		8049
+4510	3506N	ENG101 (Eng Comp I): MCCC	1.00	0		8049
+4511	4031	CIS177 (Intro to 3d Modeling): MCCC	1.00	0		8049
+4551	215S	Pre-Algebra	1.00	0		8049
+4610	C1008	BA201 (Financial Accounting): Arcadia	1.00	0		8049
+4612	C2101	MAT201 (Calc & Analytic Geom II): MCCC	1.00	0		8049
+4615	C2400	FRE101 (Elementary French I): MCCC	1.00	0		8049
+4611	C2100	MAT130 (Probability & Stats): MCCC	1.00	0		8049
+4616	C4000	Math2101-003 (Linear Algebra): Temple	1.00	0		8049
+4617	C4100	ADV2141 (Brand Strategy & Res): Temple	1.00	0		8049
+4619	C5000	STAT1110 601 (Intro Statistics): UPENN	1.00	0		8049
+4605	C1003	HS239 (US Foreign Policy): Arcadia	1.00	0		8049
+4606	C1004	CM101 (Intro to Media Studies): Arcadia	1.00	0		8049
+4607	C1005	MA221 (Linear Algebra): Arcadia	1.00	0		8049
+4609	C1007	HA150 (Intro Health Services): Arcadia	1.00	0		8049
+4614	C2300	HIS101 (Western Civilization I): MCCC	1.00	0		8049
+4613	C2200	BIO131 (Human Anatomy & Phys I): MCCC	1.00	0		8049
+4608	C1006	MA141 (Elementary Stats): Arcadia	1.00	0		8049
+4618	C3000	ECON102 (Intro to Microeconomics): PSU	1.00	0		8049

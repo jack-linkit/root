@@ -1,0 +1,111 @@
+239	K5F	Kindergarten Homeroom	0.00	0		3276
+247	K5F8	Kindergarten Physical Education	0.00	0		3276
+248	K5F9	Kindergarten Art	0.00	0		3276
+249	K5F10	Kindergraten Music	0.00	0		3276
+250	10001	1st Grade Homeroom	0.00	0		3276
+251	10011	First Grade Reading	0.00	0		3276
+252	10012	First Grade Writing	0.00	0		3276
+253	10013	First Grade Speaking and Listening	0.00	0		3276
+240	K5F1	Kindergarten Reading	0.00	0		3276
+241	K5F2	Kindergarten Writing	0.00	0		3276
+242	K5F3	Kindergarten Speaking and Listening	0.00	0		3276
+243	K5F4	Kindergarten Handwriting	0.00	0		3276
+244	K5F5	Kindergarten Math	0.00	0		3276
+245	K5F6	Kindergarten Social Studies	0.00	0		3276
+246	K5F7	Kindergarten Science	0.00	0		3276
+254	10014	First Grade Handwriting	0.00	0		3276
+255	10015	First Grade Math	0.00	0		3276
+256	10016	First Grade Social Studies	0.00	0		3276
+257	10017	First Grade Science	0.00	0		3276
+258	10018	First Grade Physical Education	0.00	0		3276
+259	10019	First Grade Art	0.00	0		3276
+260	10110	First Grade Music	0.00	0		3276
+261	10002	2nd Grade Homeroom	0.00	0		3276
+262	10021	Second Grade Reading	0.00	0		3276
+263	10022	Second Grade Writing	0.00	0		3276
+264	10023	Second Grade Speaking and Listening	0.00	0		3276
+265	10024	Second Grade Handwriting	0.00	0		3276
+266	10025	Second Grade Math	0.00	0		3276
+267	10026	Second Grade Social Studies	0.00	0		3276
+268	10027	Second Grade Science	0.00	0		3276
+269	10028	Second Grade Physical Education	0.00	0		3276
+270	10029	Second Grade Art	0.00	0		3276
+271	10210	Second Grade Music	0.00	0		3276
+272	10003	3rd Grade Homeroom	0.00	0		3276
+273	10031	Third Grade Reading	0.00	0		3276
+274	10032	Third Grade Writing	0.00	0		3276
+275	10033	Third Grade Speaking and Listening	0.00	0		3276
+276	10034	Third Grade Handwriting	0.00	0		3276
+277	10035	Third Grade Math	0.00	0		3276
+278	10036	Third Grade Social Studies	0.00	0		3276
+279	10037	Third Grade Science	0.00	0		3276
+280	10038	Third Grade Physical Education	0.00	0		3276
+281	10319	Third Grade Art	0.00	0		3276
+282	10310	Third Grade Music	0.00	0		3276
+283	10004	4th Grade Homeroom	0.00	0		3276
+284	10041	Fourth Grade English Language Arts	0.00	0		3276
+286	10044	Fourth Grade Band	0.00	0		3276
+287	10045	Fourth Grade Math	0.00	0		3276
+288	10046	Fourth Grade Social Studies 	0.00	0		3276
+289	10047	Fourth Grade Science	0.00	0		3276
+290	10048	Fourth Grade Physical Education	0.00	0		3276
+291	10049	Fourth Grade Art	0.00	0		3276
+292	10410	Fourth Grade Music	0.00	0		3276
+293	10005	5th Grade Homeroom	0.00	0		3276
+294	10051	Fifth Grade English Language Arts	0.00	0		3276
+295	10052	Fifth Grade Writing	0.00	0		3276
+296	10054	Fifth Grade Band	0.00	0		3276
+297	10055	Fifth Grade Math	0.00	0		3276
+298	10056	Fifth Grade Social Studies	0.00	0		3276
+299	10057	Fifth Grade Science	0.00	0		3276
+300	10058	Fifth Grade Physical Education	0.00	0		3276
+301	10059	Fifth Grade Art	0.00	0		3276
+302	10510	Fifth Grade Music	0.00	0		3276
+303	10006	6th Grade Homeroom	0.00	0		3276
+304	10061	Sixth Grade English Language Arts	0.00	0		3276
+305	10062	Sixth Grade Writing	0.00	0		3276
+306	10064	Sixth Grade Band	0.00	0		3276
+307	10065	Sixth Grade Math	0.00	0		3276
+308	10066	Sixth Grade Social Studies	0.00	0		3276
+309	10067	Sixth Grade Science	0.00	0		3276
+310	10068	Sixth Grade Physical Education	0.00	0		3276
+311	10069	Sixth Grade Art	0.00	0		3276
+312	10610	Sixth Grade Music	0.00	0		3276
+505	S006	Sixth Grade-Special Education	0.00	0		0
+1752	10051S	Fifth Grade English Language Arts	0.00	0		3276
+1754	10061S	Sixth Grade English Language Arts	0.00	0		3276
+1755	10062S	Sixth Grade Writing	0.00	0		3276
+1753	10052S	Fifth Grade Writing	0.00	0		3276
+1751	10045S	Fourth Grade Math	0.00	0		3276
+1756	10065S	Sixth Grade Math	0.00	0		3276
+2301	10041S	Fourth Grade English Language Arts	0.00	0		0
+2302	10042S	Fourth Grade Writing	0.00	0		0
+2051	10055S	Fifth Grade Math	0.00	0		3276
+3251	S51044	Fourth Grade Language Arts	0.00	0		0
+3301	E51033	Fifth Grade Language Arts	0.00	0		3276
+3302	10051E	Fifth Grade Language Arts	0.00	0		3276
+3252	10067S	Sixth Grade Science	0.00	0		3276
+3253	10046S	Fourth Grade Science & Social Studies	0.00	0		0
+3370	10061E	Sixth Grade Language Arts	0.00	0		3276
+3752	MVP400B	MVP - Mathematics 400B (2021)	0.00	0		3276
+3753	MVP400A	MVP - Mathematics 400A (2021)	0.00	0		3276
+3804	MVP500B	Mathematics 500B	0.00	0		3276
+3806	3	Lunch ES	0.00	0		3276
+3805	MVPM500B	MVP - Mathematics 500 B (2021)	0.00	0		3276
+3803	OBIWAN	Jedi Training	0.00	0		3276
+3807	5	Library	0.00	0		3276
+3852	23005	Second Grade Instructional Time	0.00	0		3276
+3854	23003	Kindergarten Instructional Time	0.00	0		3276
+3903	24950	FLES	0.00	0		3276
+3851	23004	First Grade Instructional Time	0.00	0		3276
+3855	KIT	Kindergarten Instructional Time	0.00	0		3276
+3853	23006	Third Grade Instructional Time	0.00	0		3276
+4513	23004S	First Grade Instructional Time	0.00	0		3276
+4514	23005S	Second Grade Instructional Time	0.00	0		3276
+4515	23003S	Kindergarten Instructional Time	0.00	0		3276
+4517	23006S	Third Grade Instructional Time	0.00	0		3276
+4552	13003	Kindergarten WIN	0.00	0		3276
+4553	13000	WIN	0.00	0		3276
+4554	12000	AM Recess	0.00	0		3276
+4503	23007	Fourth Grade Instructional Time	0.00	0		3276
+4516	23007S	Fourth Grade Instructional Time	0.00	0		3276
