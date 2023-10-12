@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
     int found = 0;
 
     // Open the file for reading
-    FILE *file = fopen("/home/jackoc/utils/districts.txt", "r");
+    FILE *file = fopen("/Users/jackoconnor/WorkRoot/utils/districts.txt", "r");
     if (file == NULL) {
         perror("Error opening file");
         return 1;

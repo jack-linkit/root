@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Initialize an empty string to store input
+input=""
+
+# Read input until "EOF" is entered
+while IFS= read -r line; do
+  if [ "$line" = "EOF" ]; then
+    break
+  fi
+  input="${input}${line}
+"
+done
+
+input=$(echo -n "$input")
+
+# Process the input as needed
+# For example, replace line breaks with commas and copy to the clipboard
+echo -n "$input" | tr '\n' ',' | pbcopy

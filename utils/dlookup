@@ -1,10 +1,10 @@
 #!/bin/bash
 
 
-search_district "$1" > /home/jackoc/temp.txt 
+search_district "$1" > ~/temp.txt 
 
-cat /home/jackoc/temp.txt
+cat ~/temp.txt
 
-cat /home/jackoc/temp.txt| tr -d '\n' | xclip -selection c
+cat ~/temp.txt| tr -d '\n' | pbcopy
 
-rm /home/jackoc/temp.txt
+rm ~/temp.txt
