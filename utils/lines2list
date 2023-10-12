@@ -16,4 +16,4 @@ input=$(echo -n "$input")
 
 # Process the input as needed
 # For example, replace line breaks with commas and copy to the clipboard
-echo -n "$input" | tr '\n' ',' | pbcopy
+echo -n "$input" | tr '\n' ',' | xclip -selection c 
