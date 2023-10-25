@@ -1,4 +1,4 @@
-#!/home/linuxbrew/.linuxbrew/bin/expect
+#!/usr/bin/expect
 
 spawn sftp jack@ftp.linkit.com
 expect "jack@ftp.linkit.com's password: "

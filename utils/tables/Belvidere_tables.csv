@@ -1,0 +1,181 @@
+Grade,Subject,Latest Results,22-23 Form A,22-23 Form B,22-23 Form C,23-24 Form A,23-24 Form B,23-24 Form C
+K,Language Arts,2023-10-13,16,16,18,16,0,0
+K,Math,2023-10-12,16,16,18,16,0,0
+1,Language Arts,2023-09-26,18,19,19,17,0,0
+1,Math,2023-09-27,18,19,19,21,0,0
+2,Language Arts,2023-10-09,22,23,22,17,0,0
+2,Math,2023-10-10,23,22,24,18,0,0
+3,Language Arts,2023-09-21,11,14,14,22,0,0
+3,Math,2023-09-22,12,13,14,24,0,0
+4,Language Arts,2023-09-22,21,21,20,17,0,0
+4,Math,2023-09-26,21,21,20,16,0,0
+5,Language Arts,2023-09-27,24,24,25,22,0,0
+5,Math,2023-09-26,27,25,25,21,0,0
+6,Language Arts,2023-09-28,37,37,36,25,0,0
+6,Math,2023-09-28,36,37,38,26,0,0
+7,Language Arts,2023-10-16,25,25,26,38,0,0
+7,Math,2023-10-11,26,25,28,39,0,0
+8,Language Arts,2023-09-26,24,25,21,22,0,0
+8,Math,2023-10-02,13,13,10,17,0,0
+6-8,Algebra I,2023-09-29,12,12,12,9,0,0
+9-12,Algebra I,2023-09-29,63,53,56,34,0,0
+9-12,Algebra II,2023-10-09,68,69,72,46,0,0
+9-12,English I,2023-10-05,81,77,82,68,0,0
+9-12,English II,2023-10-08,76,71,67,80,0,0
+9-12,English III,2023-10-16,81,80,78,59,0,0
+9-12,Geometry,2023-09-28,66,68,67,62,0,0
+
+School,Grade,Subject,Latest Results,22-23 Form A,22-23 Form B,22-23 Form C,23-24 Form A,23-24 Form B,23-24 Form C
+Belvidere High School,1,Math,2020-10-14,0,0,0,0,0,0
+Belvidere High School,2,Language Arts,2021-05-04,0,0,0,0,0,0
+Belvidere High School,2,Math,2021-05-11,0,0,0,0,0,0
+Belvidere High School,4,Language Arts,2022-04-27,0,0,0,0,0,0
+Belvidere High School,4,Math,2022-04-26,0,0,0,0,0,0
+Belvidere High School,5,Math,2022-09-27,3,0,0,0,0,0
+Belvidere High School,7,Math,2020-10-14,0,0,0,0,0,0
+Belvidere High School,8,Language Arts,2021-05-10,0,0,0,0,0,0
+Belvidere High School,8,Math,2021-09-29,0,0,0,0,0,0
+Belvidere High School,9-12,Algebra I,2023-09-29,63,53,56,34,0,0
+Belvidere High School,9-12,Algebra II,2023-10-09,68,69,72,46,0,0
+Belvidere High School,9-12,English I,2023-10-05,81,77,82,68,0,0
+Belvidere High School,9-12,English II,2023-10-08,76,71,67,80,0,0
+Belvidere High School,9-12,English III,2023-10-16,81,80,78,59,0,0
+Belvidere High School,9-12,Geometry,2023-09-28,66,68,67,62,0,0
+Harmony Township School,8,Language Arts,2021-06-15,0,0,0,0,0,0
+Harmony Township School,8,Math,2021-06-08,0,0,0,0,0,0
+Harmony Township School,6-8,Algebra I,2021-06-08,0,0,0,0,0,0
+Hope Township Elementary School,9-12,Algebra I,2021-05-28,0,0,0,0,0,0
+Oxford Street Elementary,K,Language Arts,2023-10-13,16,16,18,16,0,0
+Oxford Street Elementary,K,Math,2023-10-12,16,16,18,16,0,0
+Oxford Street Elementary,1,Language Arts,2023-09-26,18,19,19,17,0,0
+Oxford Street Elementary,1,Math,2023-09-27,18,19,19,21,0,0
+Oxford Street Elementary,2,Language Arts,2023-10-09,22,23,22,17,0,0
+Oxford Street Elementary,2,Math,2023-10-10,23,22,24,18,0,0
+Oxford Street Elementary,3,Language Arts,2023-09-21,11,14,14,22,0,0
+Oxford Street Elementary,3,Math,2023-09-22,12,13,14,24,0,0
+Oxford Street Elementary,4,Language Arts,2023-09-22,21,21,20,17,0,0
+Oxford Street Elementary,4,Math,2023-09-26,21,21,20,16,0,0
+Oxford Street Elementary,5,Language Arts,2023-09-27,24,24,25,22,0,0
+Oxford Street Elementary,5,Math,2023-09-26,24,25,25,21,0,0
+Oxford Street Elementary,6,Language Arts,2023-09-28,37,37,36,25,0,0
+Oxford Street Elementary,6,Math,2023-09-28,36,37,38,26,0,0
+Oxford Street Elementary,7,Language Arts,2023-10-16,25,25,26,38,0,0
+Oxford Street Elementary,7,Math,2023-10-11,26,25,28,39,0,0
+Oxford Street Elementary,8,Language Arts,2023-09-26,24,25,21,22,0,0
+Oxford Street Elementary,8,Math,2023-10-02,13,13,10,17,0,0
+Oxford Street Elementary,6-8,Algebra I,2023-09-29,12,12,12,9,0,0
+White Township Consolidated School,8,Language Arts,2021-05-26,0,0,0,0,0,0
+White Township Consolidated School,8,Math,2021-05-24,0,0,0,0,0,0
+White Township Consolidated School,6-8,Algebra I,2021-05-26,0,0,0,0,0,0
+
+School,Grade,Subject,Teacher,Class,23-24 Form A,23-24 Form B,23-24 Form C
+Belvidere High School,9-12,Algebra I,Benson, Kyle,CP Algebra 1 1 211,11,0,0
+Belvidere High School,9-12,Algebra I,Benson, Kyle,CP Algebra 1 2 211,11,0,0
+Belvidere High School,9-12,Algebra I,Black, Judy,Algebra 1B R 3 1007,6,0,0
+Belvidere High School,9-12,Algebra I,Black, Judy,Geometry R 1 1008,5,0,0
+Belvidere High School,9-12,Algebra I,McIntyre, Daniel,ERI Math 1 5701,1,0,0
+Belvidere High School,9-12,Algebra II,Benson, Kyle,Algebra 2 Honors 1 214,12,0,0
+Belvidere High School,9-12,Algebra II,Black, Judy,Algebra 2 R 1 1018,2,0,0
+Belvidere High School,9-12,Algebra II,Ricciardi, Christopher,CP Algebra 2 6,16,0,0
+Belvidere High School,9-12,Algebra II,Wisner, Seth,Algebra 2 3 216,4,0,0
+Belvidere High School,9-12,Algebra II,Wisner, Seth,CP Algebra 2 1 215,12,0,0
+Belvidere High School,9-12,English I,McHugh, Samantha,CP English 1 5,17,0,0
+Belvidere High School,9-12,English I,McLane Cassidy, Mary,English 10 R 1,2,0,0
+Belvidere High School,9-12,English I,McLane Cassidy, Mary,English 9 R 1 1001,2,0,0
+Belvidere High School,9-12,English I,Poyer, Megan,CP English 1 3 011,9,0,0
+Belvidere High School,9-12,English I,Poyer, Megan,English 1 Honors 1,18,0,0
+Belvidere High School,9-12,English I,Poyer, Megan,English 9_ 1,1,0,0
+Belvidere High School,9-12,English I,Smith, Laurie,English 9 2,9,0,0
+Belvidere High School,9-12,English I,Smith, Laurie,English 9 2 012,5,0,0
+Belvidere High School,9-12,English I,Smith, Laurie,English 9_ 1 012.1,5,0,0
+Belvidere High School,9-12,English II,McHugh, Samantha,CP English 2 (Dual) 1,17,0,0
+Belvidere High School,9-12,English II,McHugh, Samantha,CP English 2 (Dual) 3,14,0,0
+Belvidere High School,9-12,English II,Poirier, Stephanie,English 10 1 022,12,0,0
+Belvidere High School,9-12,English II,Poyer, Megan,AP English Language and Composition 1,11,0,0
+Belvidere High School,9-12,English II,Poyer, Megan,English 2 Honors (Dual) 2,19,0,0
+Belvidere High School,9-12,English II,Pryslak, Taylor,English 11 R 1,1,0,0
+Belvidere High School,9-12,English II,Pryslak, Taylor,English 12 R 1 1004,1,0,0
+Belvidere High School,9-12,English II,Smith, Laurie,English 10_ 1 022.1,5,0,0
+Belvidere High School,9-12,English III,Poirier, Stephanie,CP English 3 (Dual) 1 031,23,0,0
+Belvidere High School,9-12,English III,Poirier, Stephanie,CP English 3 (Dual) 2 031,13,0,0
+Belvidere High School,9-12,English III,Poirier, Stephanie,English 11_ 1 032.1,5,0,0
+Belvidere High School,9-12,English III,Poirier, Stephanie,English 3 Honors (Dual) 1 030,8,0,0
+Belvidere High School,9-12,English III,Smith, Laurie,English 11 1 032,10,0,0
+Belvidere High School,9-12,Geometry,Adamczyk, Jana,CP Geometry 1,10,0,0
+Belvidere High School,9-12,Geometry,Adamczyk, Jana,CP Geometry 1 221,1,0,0
+Belvidere High School,9-12,Geometry,Adamczyk, Jana,Geometry 4,12,0,0
+Belvidere High School,9-12,Geometry,Adamczyk, Jana,Geometry Honors 2 220,16,0,0
+Belvidere High School,9-12,Geometry,Benson, Kyle,CP Geometry 3 221,12,0,0
+Belvidere High School,9-12,Geometry,McLane Cassidy, Mary,Geometry 3,5,0,0
+Belvidere High School,9-12,Geometry,McLane Cassidy, Mary,Geometry 3 222,1,0,0
+Belvidere High School,9-12,Geometry,McLane Cassidy, Mary,Geometry_ 1,4,0,0
+Belvidere High School,9-12,Geometry,McLane Cassidy, Mary,Geometry_ 1 222.1,1,0,0
+Oxford Street Elementary,K,Language Arts,"Gomez, Theresa",English Language Arts: Grade K 1,1,0,0
+Oxford Street Elementary,K,Language Arts,"Gomez, Theresa",Homeroom 1 HR,15,0,0
+Oxford Street Elementary,K,Math,"Gomez, Theresa",Homeroom 1 HR,16,0,0
+Oxford Street Elementary,1,Language Arts,"Belet, Amy",English Language Arts: Grade 1 1 100100,17,0,0
+Oxford Street Elementary,1,Math,"Belet, Amy",Math: Grade 1* 1 100500,17,0,0
+Oxford Street Elementary,1,Math,"Stover, Sarah",MD Math 2,4,0,0
+Oxford Street Elementary,2,Language Arts,"Chironis, Domenica",RR Language Arts: Grade 1 2 & 3 1 300103,1,0,0
+Oxford Street Elementary,2,Language Arts,"Sucigan, Michelle",English Language Arts: Grade 2 1,16,0,0
+Oxford Street Elementary,2,Math,"Chironis, Domenica",RR Mathematics: Grade 1-3 1 300503,1,0,0
+Oxford Street Elementary,2,Math,"Sucigan, Michelle",Math: Grade 2* 1,17,0,0
+Oxford Street Elementary,3,Language Arts,"Chironis, Domenica",RR Language Arts: Grade 1 2 & 3 1 300103,2,0,0
+Oxford Street Elementary,3,Language Arts,"Smith, Meghan",Language Arts: Grade 3 1,20,0,0
+Oxford Street Elementary,3,Math,"Chironis, Domenica",RR Mathematics: Grade 1-3 1 300503,3,0,0
+Oxford Street Elementary,3,Math,"Smith, Meghan",Mathematics: Grade 3* 1,20,0,0
+Oxford Street Elementary,3,Math,"Stover, Sarah",MD Math 2,1,0,0
+Oxford Street Elementary,4,Language Arts,"Chironis, Domenica",RR Language Arts: Grade 4 and 5 1,4,0,0
+Oxford Street Elementary,4,Language Arts,"Chironis, Domenica",RR Language Arts: Grade 4 and 5 1 400103,1,0,0
+Oxford Street Elementary,4,Language Arts,"Hineline, Seth",Language Arts: Grade 4* 1 400101,12,0,0
+Oxford Street Elementary,4,Math,"Kornegay, Noelle",Mathematics: Grade 4 1,16,0,0
+Oxford Street Elementary,5,Language Arts,"Chironis, Domenica",RR Language Arts: Grade 4 and 5 1 400103,1,0,0
+Oxford Street Elementary,5,Language Arts,"Weber, Kristi",Language Arts: Grade 5* 1,21,0,0
+Oxford Street Elementary,5,Math,"Bonamo, Deborah",Mathematics: Grade 5* 1,19,0,0
+Oxford Street Elementary,5,Math,"Chironis, Domenica",RR Mathematics: Grade 4 and 5 1 500503,2,0,0
+Oxford Street Elementary,6,Language Arts,"McHugh, Samantha",Language Arts: Grade 6* 1,22,0,0
+Oxford Street Elementary,6,Language Arts,"Weber, Kristi",RR - Language Arts: Grade 6 1,3,0,0
+Oxford Street Elementary,6,Math,"Franceschino, Beth",Math: Grade 6* 1 600501,23,0,0
+Oxford Street Elementary,6,Math,"Smith, Theresa",RR-Math: Grade 6 1 600801,3,0,0
+Oxford Street Elementary,7,Language Arts,"McHugh, Samantha",Language Arts: Grade 7 1,20,0,0
+Oxford Street Elementary,7,Language Arts,"McHugh, Samantha",Language Arts: Grade 7 1 700101,1,0,0
+Oxford Street Elementary,7,Language Arts,"McIntyre, Daniel",ERI Language Arts 1 913,1,0,0
+Oxford Street Elementary,7,Language Arts,"Stover, Sarah",RR- Language Arts: Grade 7 1,7,0,0
+Oxford Street Elementary,7,Language Arts,"Weber, Kristi",Language Arts: Grade 7 2,9,0,0
+Oxford Street Elementary,7,Math,"Franceschino, Beth",Mathematics: Grade 7* 1 700501,21,0,0
+Oxford Street Elementary,7,Math,"Smith, Theresa",Mathematics: Accelerated Grade 7 1 700502,13,0,0
+Oxford Street Elementary,7,Math,"Stover, Sarah",RR-Math: Grade 7 1,5,0,0
+Oxford Street Elementary,8,Language Arts,"Feldman, Aaron",Language Arts: Grade 8 2 800101,10,0,0
+Oxford Street Elementary,8,Language Arts,"Stover, Sarah",RR - Language Arts: Grade 8 1,3,0,0
+Oxford Street Elementary,8,Language Arts,"Weber, Kristi",Language Arts: Grade 8 1,9,0,0
+Oxford Street Elementary,8,Math,"Smith, Theresa",Mathematics: Grade 8* 1 800501,13,0,0
+Oxford Street Elementary,8,Math,"Stover, Sarah",RR/Math: Grade 8 1,4,0,0
+Oxford Street Elementary,6-8,Algebra I,Franceschino, Beth,Algebra I: Grade 8 1 822201,9,0,0
+
+Grade,Subject,19-20 A,19-20 B,19-20 C,20-21 A,20-21 B,20-21 C,21-22 A,21-22 B,21-22 C,22-23 A,22-23 B,22-23 C,23-24 A,23-24 B,23-24 C
+K,Language Arts,0,0,0,19,18,18,19,19,19,16,16,18,16,0,0
+K,Math,0,0,11,19,19,19,19,19,18,16,16,18,16,0,0
+1,Language Arts,0,0,0,11,12,13,19,18,19,18,19,19,17,0,0
+1,Math,0,0,25,11,12,16,19,18,19,18,19,19,21,0,0
+2,Language Arts,0,0,0,26,24,23,14,16,16,22,23,22,17,0,0
+2,Math,0,0,31,26,16,25,13,15,17,23,22,24,18,0,0
+3,Language Arts,0,0,0,20,21,17,22,20,22,11,14,14,22,0,0
+3,Math,0,0,29,17,17,23,20,22,22,12,13,14,24,0,0
+4,Language Arts,0,0,0,30,28,30,21,23,22,21,21,20,17,0,0
+4,Math,0,0,21,29,30,29,26,26,25,21,21,20,16,0,0
+5,Language Arts,0,0,0,23,22,23,36,37,38,24,24,25,22,0,0
+5,Math,0,0,26,22,21,23,36,35,39,27,25,25,21,0,0
+6,Language Arts,0,0,0,26,24,47,26,27,27,37,37,36,25,0,0
+6,Math,0,0,25,26,27,24,26,27,25,36,37,38,26,0,0
+7,Language Arts,0,0,0,24,23,22,24,22,23,25,25,26,38,0,0
+7,Math,0,0,23,23,24,26,24,21,25,26,25,28,39,0,0
+8,Language Arts,0,0,0,47,40,87,27,30,27,24,25,21,22,0,0
+8,Math,0,0,66,38,23,43,21,18,17,13,13,10,17,0,0
+6-8,Algebra I,0,0,0,9,14,39,12,11,12,12,12,12,9,0,0
+9-12,Algebra I,0,0,175,52,45,45,51,58,40,63,53,56,34,0,0
+9-12,Algebra II,0,0,78,88,73,73,94,87,76,68,69,72,46,0,0
+9-12,English I,0,0,0,84,81,84,87,86,76,81,77,82,68,0,0
+9-12,English II,0,0,0,87,84,83,95,92,84,76,71,67,80,0,0
+9-12,English III,0,0,0,94,86,87,90,92,90,81,80,78,59,0,0
+9-12,Geometry,0,0,1,90,86,82,82,83,79,66,68,67,62,0,0
+

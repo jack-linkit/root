@@ -284,7 +284,7 @@
 6316	Halisi Stevens, Nia Elyse	Nia	Elyse	Halisi Stevens	3439499367	0	2	F	09/05/2023	07/01/2024	3276	09/18/2015	E1		3	07/01/2021				FDC								
 7468	Hartt, Forest	Forest		Hartt	2956905376	0	10	M	09/05/2023	07/01/2024	8049	12/16/2007	E1		6	07/01/2023				P								
 2474	Hatcher, Laila Sade	Laila	Sade	Hatcher	2201272778	0	11	F	09/05/2023	07/01/2024	8049	10/06/2006	E1		3	09/04/2012				FDC								
-7470	Hawkins, Caleb	Caleb		Hawkins	2015027939	0	5	M	09/05/2023	07/01/2024	3276	03/09/2013	E1			07/01/2023				FDC								
+7470	Hawkins, Caleb	Caleb		Hawkins	2015027939	0	5	M	09/05/2023	07/01/2024	3276	03/19/2013	E1			07/01/2023				FDC								
 7469	Hawkins, Kendal	Kendal		Hawkins	9267095064	0	3	F	09/05/2023	07/01/2024	3276	12/08/2014	E1			07/01/2023				FDC								
 6101	Heard, Aiden Michael Robert	Aiden	Michael Robert	Heard	9910993147	0	5	M	09/05/2023	07/01/2024	3276	06/18/2013	E1		1	07/01/2020				F								
 6103	Heard, Jayden Josiah Alexander	Jayden	Josiah Alexander	Heard	6163586964	0	3	M	09/05/2023	07/01/2024	3276	06/08/2014	E1		1	07/01/2020				FDC								
@@ -347,7 +347,7 @@
 7284	Korzeniowski, Ava	Ava		Korzeniowski	3795136865	0	0	F	09/05/2023	07/01/2024	3276	03/09/2018	E1		5	07/01/2023				P								
 6957	Korzeniowski, Joseph	Joseph		Korzeniowski	7969133525	0	7	M	09/05/2023	07/01/2024	8049	03/22/2011	E1		5	07/01/2022				P								
 6958	Korzeniowski, Lily	Lily		Korzeniowski	8915789989	0	1	F	09/05/2023	07/01/2024	3276	10/03/2016	E1		5	07/01/2022				P								
-2501	Kotasenski, Dawn Marie	Dawn	Marie	Kotasenski	8879593803	0	11	F	09/05/2023	07/01/2024	8049	10/26/2006	E1		5	09/04/2012				RDC								
+2501	Kotasenski, Dawn Marie	Dawn	Marie	Kotasenski	8879593803	0	11	F	09/05/2023	07/01/2024	8049	10/26/2006	E1		5	09/04/2012				R								
 2462	Kowalchuk, Paulina Mae	Paulina	Mae	Kowalchuk	1532757654	0	11	F	09/05/2023	07/01/2024	8049	04/01/2007	E1		5	09/04/2012				P								
 7269	Kripa, Brodi Besmir	Brodi	Besmir	Kripa	2788591799	0	4	M	09/05/2023	07/01/2024	3276	01/31/2014	E1		5	07/01/2022				P								
 5720	Kumaratne, Cora Banhi	Cora	Banhi	Kumaratne	1286749344	0	4	F	09/05/2023	07/01/2024	3276	09/17/2013	E1		2	09/03/2019				P								
@@ -377,7 +377,7 @@
 2767	Levy, Caitlyn Patricia	Caitlyn	Patricia	Levy	5369902003	0	10	F	09/05/2023	07/01/2024	8049	09/14/2007	E1		5	09/03/2013				P								
 5716	Licciardello, Carys Eve	Carys	Eve	Licciardello	4122717612	0	4	F	09/05/2023	07/01/2024	3276	10/01/2013	E1		5	09/03/2019				P								
 5715	Licciardello, Dominick John	Dominick	John	Licciardello	6491884759	0	4	M	09/05/2023	07/01/2024	3276	10/01/2013	E1		5	09/03/2019				P								
-5522	Lockette, Nicolena Josephine	Nicolena	Josephine	Lockette	3897745399	0	5	F	09/05/2023	07/01/2024	3276	03/23/2013	E1		6	09/04/2018				RDC								
+5522	Lockette, Nicolena Josephine	Nicolena	Josephine	Lockette	3897745399	0	5	F	09/05/2023	07/01/2024	3276	03/23/2013	E1		6	09/04/2018				R								
 4024	Lommer, Elisabeth Finley	Elisabeth	Finley	Lommer	1784817821	0	8	F	09/05/2023	07/01/2024	8049	01/20/2010	E1		5	09/08/2015				P								
 5420	Lommer, Katharina Finley	Katharina	Finley	Lommer	9119767692	0	5	F	09/05/2023	07/01/2024	3276	03/05/2013	E1		5	09/04/2018				P								
 6409	Long, Adelaide Maria	Adelaide	Maria	Long	6967579231	0	2	F	09/05/2023	07/01/2024	3276	07/31/2015	E1		5	07/01/2021				P								
@@ -594,7 +594,7 @@
 7051	Smith, Caiya	Caiya		Smith	9452865873	0	8	F	09/05/2023	07/01/2024	8049	10/12/2009	E1		6	07/01/2022				FDC								
 7052	Smith, Calin	Calin		Smith	1262494931	0	7	M	09/05/2023	07/01/2024	8049	05/19/2011	E1		6	07/01/2022				FDC								
 1934	Smith, Catherine Anne	Catherine	Anne	Smith	5757835249	0	12	F	09/05/2023	07/01/2024	8049	08/04/2006	E1		5	09/06/2011				P								
-7452	Smith, Riley	Riley		Smith	7387181756	0	0	F	09/05/2023	07/01/2024	3276	07/28/2018	E1		3	07/01/2023				FDC								
+7452	Smith, Riley	Riley		Smith	7387181756	0	0	F	09/05/2023	07/01/2024	3276	07/31/2018	E1		3	07/01/2023				FDC								
 7453	Smith, Sarah	Sarah		Smith	4794994982	0	4	F	09/05/2023	07/01/2024	3276	04/24/2014	E1		3	07/01/2023				FDC								
 6551	Snead, Ashtin Noah	Ashtin	Noah	Snead	8149136266	0	2	M	09/05/2023	07/01/2024	3276	05/23/2016	E1		6	11/05/2021				FDC								
 6508	Snead, Chase Ethan	Chase	Ethan	Snead	4143746956	0	3	M	09/05/2023	07/01/2024	3276	08/01/2014	E1		6	11/01/2021				FDC								
