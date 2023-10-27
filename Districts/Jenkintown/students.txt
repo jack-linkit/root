@@ -29,7 +29,7 @@
 2519	Beaudoin, Matthew Cortland	Matthew	Cortland	Beaudoin	3748286147	0	12	M	09/05/2023	07/01/2024	8049	09/22/2005	E1		5	09/04/2012				P								
 6153	Bebee, Logan	Logan		Bebee	8383879733	0	4	M	09/05/2023	07/01/2024	3276	05/22/2014	E1		3	11/04/2020				R								
 4702	Beck, Haley Jaimes	Haley	Jaimes	Beck	7939397311	0	7	F	09/05/2023	07/01/2024	8049	07/15/2010	E1		5	09/06/2016				P								
-6905	Beckmann, Aubrey	Aubrey		Beckmann	6833413193	0	1	F	09/05/2023	07/01/2024	3276	05/07/2017	E1		5	07/01/2022				FDC								
+6905	Beckmann, Aubrey	Aubrey		Beckmann	6833413193	0	1	F	09/05/2023	07/01/2024	3276	05/07/2017	E1		5	07/01/2022				RDC								
 5405	Bell, Madeline Grace	Madeline	Grace	Bell	3742523988	0	5	F	09/05/2023	07/01/2024	3276	06/24/2013	E1		5	09/04/2018				P								
 5136	Bellew, Maeve Maureen	Maeve	Maureen	Bellew	2366312865	0	12	F	09/05/2023	07/01/2024	8049	09/27/2005	E1		5	09/05/2017				P								
 5135	Bellew, Maxwell Vincent	Maxwell	Vincent	Bellew	1582453675	0	10	M	09/05/2023	07/01/2024	8049	12/19/2007	E1		5	09/05/2017				P								
@@ -57,6 +57,7 @@
 3256	Bowens, Jaelie Noelle	Jaelie	Noelle	Bowens	1247600572	0	9	F	09/05/2023	07/01/2024	8049	02/15/2009	E1		3	09/02/2014				FDC								
 5731	Boykins, Skyler Paige	Skyler	Paige	Boykins	5166964748	0	4	F	09/05/2023	07/01/2024	3276	08/11/2014	E1		3	09/03/2019				FDC								
 4504	Boyle, Aubrey Eleanor	Aubrey	Eleanor	Boyle	9979932937	0	10	F	09/05/2023	07/01/2024	8049	02/18/2008	E1		5	03/03/2016				P								
+4505	Boyle, Caeli Grace	Caeli	Grace	Boyle	3983854753	0	12	F	10/25/2023	07/01/2024	8049	05/30/2006	R3		5	03/03/2016				P								
 3416	Boyle, Grace Devlin	Grace	Devlin	Boyle	7543939487	0	9	F	09/05/2023	07/01/2024	8049	05/13/2009	E1		5	09/02/2014				P								
 4503	Boyle, Madeline Rose	Madeline	Rose	Boyle	4131677245	0	8	F	09/05/2023	07/01/2024	8049	06/09/2009	E1		5	03/03/2016				P								
 3420	Boyle, Riley Lynn	Riley	Lynn	Boyle	5277825045	0	10	F	09/05/2023	07/01/2024	8049	04/21/2008	E1		5	09/02/2014				P								
@@ -197,10 +198,10 @@
 4716	Duffey, Abigail Rose	Abigail	Rose	Duffey	3977691368	0	7	F	09/05/2023	07/01/2024	8049	02/03/2011	E1		5	09/06/2016				FDC								
 5956	Duffey, Brendan Oisin	Brendan	Oisin	Duffey	4198583463	0	3	M	09/05/2023	07/01/2024	3276	04/18/2015	E1		5	07/01/2020				FDC								
 7273	Duffey, Darragh	Darragh		Duffey	5287149182	0	0	M	09/05/2023	07/01/2024	3276	05/27/2018	E1		5	07/01/2023				FDC								
-2458	Duffey, Grayson Oran	Grayson	Oran	Duffey	8059970569	0	11	M	09/05/2023	07/01/2024	8049	12/29/2006	E1		5	09/04/2012				P								
-4014	Duffey, Greta June	Greta	June	Duffey	1612686214	0	8	F	09/05/2023	07/01/2024	8049	06/07/2009	E1		5	09/08/2015				P								
-6324	Duffey, Kaia Mae	Kaia	Mae	Duffey	2311811827	0	2	F	09/05/2023	07/01/2024	3276	01/20/2016	E1		5	07/01/2021				P								
-5411	Duffey, Nola Eden	Nola	Eden	Duffey	3597877125	0	5	F	09/05/2023	07/01/2024	3276	11/24/2012	E1		5	09/04/2018				P								
+2458	Duffey, Grayson Oran	Grayson	Oran	Duffey	8059970569	0	11	M	09/05/2023	07/01/2024	8049	12/29/2006	E1		5	09/04/2012				FDC								
+4014	Duffey, Greta June	Greta	June	Duffey	1612686214	0	8	F	09/05/2023	07/01/2024	8049	06/07/2009	E1		5	09/08/2015				FDC								
+6324	Duffey, Kaia Mae	Kaia	Mae	Duffey	2311811827	0	2	F	09/05/2023	07/01/2024	3276	01/20/2016	E1		5	07/01/2021				FDC								
+5411	Duffey, Nola Eden	Nola	Eden	Duffey	3597877125	0	5	F	09/05/2023	07/01/2024	3276	11/24/2012	E1		5	09/04/2018				FDC								
 4717	Duffey, Violet Jane	Violet	Jane	Duffey	1275928595	0	7	F	09/05/2023	07/01/2024	8049	09/06/2010	E1		5	09/06/2016				FDC								
 5412	Duffey, Vivian Rose	Vivian	Rose	Duffey	9672205775	0	5	F	09/05/2023	07/01/2024	3276	07/23/2013	E1		5	09/04/2018				FDC								
 5452	Dvalishvili, Margo	Margo		Dvalishvili	3567752669	0	5	F	09/05/2023	07/01/2024	3276	06/27/2013	E1		5	09/04/2018				FDC								
@@ -272,7 +273,7 @@
 5726	Graziani, Luna Ava	Luna	Ava	Graziani	6216158228	0	4	F	09/05/2023	07/01/2024	3276	07/16/2014	E1		4	09/03/2019				P								
 4019	Griffin, Scarlett Veronica	Scarlett	Veronica	Griffin	2479703355	0	8	F	09/05/2023	07/01/2024	8049	06/17/2010	E1		5	09/08/2015				FDC								
 5725	Grimshaw, Wesley James	Wesley	James	Grimshaw	2582959294	0	3	M	09/05/2023	07/01/2024	3276	06/22/2014	E1		5	09/03/2019				P								
-7471	Grosik, Isaac	Isaac		Grosik	8268964758	0	3	M	09/05/2023	07/01/2024	3276	11/20/2014	E1			07/01/2023				FDC								
+7471	Grosik, Isaac	Isaac		Grosik	8268964758	0	3	M	10/18/2023	07/01/2024	3276	11/20/2014	R11			07/01/2023				FDC								
 5520	Guerrero, Rocco	Rocco		Guerrero	3946744702	0	5	M	09/05/2023	07/01/2024	3276	04/23/2013	E1		4	09/04/2018				P								
 5521	Guerrero, Salvador	Salvador		Guerrero	5933104582	0	7	M	09/05/2023	07/01/2024	8049	08/10/2010	E1		4	09/04/2018				P								
 4840	Gunn, Joseph	Joseph		Gunn	9119480326	0	10	M	09/05/2023	07/01/2024	8049	04/20/2008	E1		5	09/06/2016				P								
@@ -435,7 +436,7 @@
 4823	McIntyre, Liam Anthony	Liam	Anthony	McIntyre	7528305642	0	8	M	09/05/2023	07/01/2024	8049	05/28/2010	E1		5	09/06/2016				P								
 3267	McKenna, Isabel Margolit	Isabel	Margolit	McKenna	4534605978	0	9	F	09/05/2023	07/01/2024	8049	05/16/2009	E1		6	09/02/2014				FDC								
 4059	McKenna, Jade	Jade		McKenna	5394007918	0	11	F	09/05/2023	07/01/2024	8049	01/18/2006	E1		5	09/08/2015				P								
-2465	McKenna, Luke Benjamin	Luke	Benjamin	McKenna	4378498626	0	11	M	09/05/2023	07/01/2024	8049	05/25/2007	E1		5	09/04/2012				FDC								
+2465	McKenna, Luke Benjamin	Luke	Benjamin	McKenna	4378498626	0	11	M	10/15/2023	07/01/2024	8049	05/25/2007	R11		5	09/04/2012				FDC								
 5505	McLaughlin, Clara Mae	Clara	Mae	McLaughlin	6791486414	0	5	F	09/05/2023	07/01/2024	3276	05/22/2013	E1		5	09/04/2018				P								
 7278	McLaughlin, James Edward	James	Edward	McLaughlin	2851811665	0	0	M	09/05/2023	07/01/2024	3276	01/18/2018	E1		5	07/01/2023				P								
 6358	McLaughlin, Juliet Zara	Juliet	Zara	McLaughlin	5115769964	0	2	F	09/05/2023	07/01/2024	3276	02/12/2016	E1		5	07/01/2021				P								
@@ -505,7 +506,7 @@
 7317	Pagan, Nathaniel	Nathaniel		Pagan	4273853671	0	4	M	09/05/2023	07/01/2024	3276	12/13/2013	E1		6	07/01/2022				FDC								
 6323	Pancoe, Adeline Jane	Adeline	Jane	Pancoe	9528466435	0	2	F	09/05/2023	07/01/2024	3276	02/22/2016	E1		5	07/01/2021				P								
 5431	Pancoe, Charles Daniel	Charles	Daniel	Pancoe	9728753438	0	5	M	09/05/2023	07/01/2024	3276	10/07/2012	E1		5	09/04/2018				P								
-7271	Parker, Alice Jane	Alice	Jane	Parker	6861353361	0	0	F	09/05/2023	07/01/2024	3276	11/20/2017	E1		5	07/01/2023				P								
+7271	Parker, Alice Jane	Alice	Jane	Parker	6861353361	0	0	F	09/05/2023	07/01/2024	3276	11/20/2017	E1		5	07/01/2023				F								
 4060	Patterson, Jayden Lee	Jayden	Lee	Patterson	3189744645	0	11	M	09/05/2023	07/01/2024	8049	05/20/2007	E1		6	09/08/2015				FDC								
 4061	Patterson, Jesse Malik Lee	Jesse	Malik Lee	Patterson	2662915048	0	12	M	09/05/2023	07/01/2024	8049	02/26/2006	E1		6	09/08/2015				FDC								
 6372	Pearson, Christopher Michael	Christopher	Michael	Pearson	9169569193	0	2	M	09/05/2023	07/01/2024	3276	02/21/2016	E1		3	07/01/2021				FDC								

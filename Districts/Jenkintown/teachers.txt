@@ -1,340 +1,342 @@
-115	"Knee, Patricia L"	Patricia	L	Knee	8049	2			kneel@jenkintown.org		4843178	1	Kneephs
-1	"Sosnovik, Troy"	Troy		Sosnovik	0	2			tsosnovik@mciu.org	tsosnovik	9999	0	
-51	"Bealer, Linda"	Linda		Bealer	0	2			lbealer@mciu.org		99999	0	
-52	"Nusbaum, Laura"	Laura		Nusbaum	0	2	Registrar/Data		nusbauml@jenkintown.org	nusbauml	270	2	
-53	"Bell, John J"	John	J	Bell	0	2	Network Specialist		bellj@jenkintown.org		6232	2	
-54	"Cummins, James J"	James	J	Cummins	0	1	Director of Technology		cumminsj@jtowndrakes.org	cumminsj	1054348	2	
-92	"Albuck, Stephanie N"	Stephanie	N	Albuck	8049	2			albucks@jenkintown.org		8564725	1	Albuckshs
-93	"Berkey, Natalie N"	Natalie	N	Berkey	8049	2			berkeys@jenkintown.org		1590918	1	berkeynhs
-94	"Gartner, Jacqueline L"	Jacqueline	L	Gartner	8049	1	Science Teacher	D204	gartnerj@jtowndrakes.org	Brooksj1263	7657435	1	Brooksjhs
-95	"Brophy, Bernard M"	Bernard	M	Brophy	8049	2	Technology Teacher	D215	brophym@jenkintown.org	brophym	3781853	1	Brophymhs
-96	"Burick, Jamie B"	Jamie	B	Burick	8049	2			burickj@jenkintown.org		8568671	1	Burickjhs
-97	"Cappella, Joseph"	Joseph		Cappella	8049	2			cappellj@jenkintown.org		2784585	1	Cappellajhs
-98	"Chittick, Daniel A"	Daniel	A	Chittick	8049	2			chitticd@jenkintown.org		3296326	1	Chittickdhs
-99	"Citron, Mark C"	Mark	C	Citron	8049	2			citronm@jenkintown.org		4306872	2	Citronmhs
-100	"Costner, Renate A"	Renate	A	Costner	8049	2	Physical Education/Health Teacher	F129	costnerr@jtowndrakes.org		1473159	1	Costnerrhs
-101	"Craven, Tamara E"	Tamara	E	Craven	8049	1	English Teacher	E206	cravent@jtowndrakes.org		1215374	1	Cravenths
-102	"Cunningham, Timothy J"	Timothy	J	Cunningham	8049	1	Social Studies Teacher	D211	cunningt@jtowndrakes.org		1769157	1	Cunninghamths
-103	"Davidson-Arms, Alyssa"	Alyssa		Davidson-Arms	8049	1	Choral Teacher	E207	davidsona@jtowndrakes.org		4696342	1	Davidsonahs
-104	"Detwiler, Richard G"	Richard	G	Detwiler	8049	2	World Language Teacher	D202	detwilr@jtowndrakes.org		2480305	1	Detwilerrhs
-105	"Dewees, Amy L"	Amy	L	Dewees	8049	1	Science Teacher	D213	deweesa@jtowndrakes.org		7912428	1	Deweesahs
-106	"Eyrich, Fred P"	Fred	P	Eyrich	8049	2	Instrumental Music Teacher	B118	eyrichf@jtowndrakes.org		7306323	1	Eyrichfhs
-107	"Fylypovych, Christine S"	Christine	S	Fylypovych	8049	2	World Language Teacher	D200	fylypovc@jtowndrakes.org		1690143	1	
-108	"Goldberg, Margaret"	Margaret		Goldberg	8049	2			goldbergm@jenkintown.org		9736152	2	Goldbergmhs
-109	"Guay, Edith"	Edith		Guay	8049	2	World Language Teacher	D203	guaye@jtowndrakes.org		9121535	1	Guayehs
-110	"Hackett, Shannon L"	Shannon	L	Hackett	8049	1	English Teacher	E205	hacketts@jtowndrakes.org		1231249	1	Hackettshs
-111	"Heath, Carol L"	Carol	L	Heath	8049	2			heathc@jenkintown.org		5980891	1	Heathchs
-112	"Hench, Richard"	Richard		Hench	8049	2			henchr@jenkintown.org		7659053	1	Henchrhs
-113	"Kafkalas, Christina M"	Christina	M	Kafkalas	8049	1	High School Guidance Counselor	D102	kafkalac@jtowndrakes.org	kafkalasc	4791656	1	kafkalac
-114	"Klemp, Karen S"	Karen	S	Klemp	8049	2			klempk@jenkintown.org	klempk	1828408	1	klempkhs
-117	"Medina, Susan E"	Susan	E	Medina	8049	1	Learning Support Teacher	D115	medinas@jtowndrakes.org	medinas	4716709	1	medinas
-118	"Roller, Thomas"	Thomas		Roller	0	1	MS/HS Principal		rollert@jenkintown.org	rollert	1651709	2	
-119	"Reid, Josette"	Josette		Reid	8049	2			reidj@jenkintown.org	sadowskajhs	4805061	1	Sadowskajhs
-120	"Saxman, Kelly L"	Kelly	L	Saxman	8049	1	Math Teacher	E111	saxmank@jtowndrakes.org		3497172	1	Saxmankhs
-121	"Slowik, Jason D"	Jason	D	Slowik	8049	1	Art Teacher	E208	slowikj@jtowndrakes.org		9782686	1	Slowikjhs
-122	"Spiegler, Andrew J"	Andrew	J	Spiegler	8049	1	English Teacher	D117	spieglera@jtowndrakes.org	spiegs	2981824	1	spieglerahs
-123	"Stetler, Richard"	Richard		Stetler	8049	2			stetlerr@jenkintown.org	stetlerradmin	5379786	1	Stetlerrhs
-124	"Stover, Mark R"	Mark	R	Stover	8049	2	Gifted Support Teacher		stoverm@jtowndrakes.org	stoverm	1354648	1	stoverhs
-125	"Pennell, Carl J"	Carl	J	Pennell	8049	2	Science Teacher	D214	pennellc@jtowndrakes.org		7130468	1	Tellychs
-126	"Tresnan, Patricia M"	Patricia	M	Tresnan	8049	1	Math Teacher	E114	tresnap@jtowndrakes.org		5070838	1	Tresnanphs
-127	"Vanmeter, Anne E"	Anne	E	Vanmeter	8049	1	Math/Science Teacher	E112	vanmetea@jtowndrakes.org		3946513	1	vanmeterhs
-151	"Wicks, Leah M"	Leah	M	Wicks	3276	1	2nd Grade Teacher	A001	wicksl@jtowndrakes.org 		3045428	1	wicksl
-152	"Burnett, Cynthia A"	Cynthia	A	Burnett	3276	2	2nd Grade Teacher	A104	burnettc@jtowndrakes.org		3236865	1	Burnettces
-153	"Cantz, Cathleen M"	Cathleen	M	Cantz	3276	1	1st Grade Teacher	A106	cantzc@jtowndrakes.org		1256026	1	Cantzces
-154	"Cormier, Pamela J"	Pamela	J	Cormier	3276	2		A106	cormierp@jenkintown.org		2823857	1	Cormierpes
-155	"DeMarco, Karen B"	Karen	B	DeMarco	3276	1	Elementary Guidance Counselor	A111	demarcok@jtowndrakes.org	demarcok	3840546	2	demarcok
-156	"Eyrich, Fred"	Fred		Eyrich	3276	2		B118	eyrichf@jenkintown.org		7306323	1	Eyrichfes
-157	"Flynn, Susanne M"	Susanne	M	Flynn	3276	1		A212	flynns@jtowndrakes.org	Flynns	5304307	1	Flynns
-158	"Goldberg, Jami L"	Jami	L	Goldberg	3276	1	Kindergarten Teacher	A208	goldbergj@jtowndrakes.org	goldbergj	5941568	1	goldbergj
-159	"Goldberg, Margaret H"	Margaret	H	Goldberg	3276	2	Speech Therapist	A212	goldberm@jenkintown.org	goldbergm	9736152	2	
-160	"Hagenkotter, Patricia A"	Patricia	A	Hagenkotter	3276	1	4th Grade Teacher	A200	hagenkop@jtowndrakes.org		7152013	1	Hagenkotterpes
-161	"Haring, Nancy A"	Nancy	A	Haring	3276	2		A100	haringn@jenkintown.org		2572627	1	Haringnes
-162	"Heise, Doris E"	Doris	E	Heise	3276	2		A112	heised@jenkintown.org	heised	8490149	1	
-163	"Jones, Donna M"	Donna	M	Jones	3276	2		A001	jonesd@jenkintown.org		2483029	1	Jonesdes
-164	"Kelman, Bonnye S"	Bonnye	S	Kelman	8049	1	Learning Support Teacher	D120	kelmanb@jtowndrakes.org	kelmanb	4652373	1	Kelmanbhs
-165	"Knox, Megan"	Megan		Knox	3276	2	Learning Support Teacher	A210	knoxm@jtowndrakes.org		8015825	1	
-166	"Leiter, Barbara"	Barbara		Leiter	3276	2		A004	leiterb@jenkintown.org		4682063	1	Leiterbes
-167	"Millili, Anna H"	Anna	H	Millili	3276	1	Kindergarten Teacher	B119	millilia@jtowndrakes.org		5924145	1	Milliliaes
-168	"Morretta, Teresa M"	Teresa	M	Morretta	3276	2	6th Grade Teacher	A206	morrettat@jtowndrakes.org		7256058	1	Morrettates
-169	"Moulton, Elizabeth"	Elizabeth		Moulton	3276	2	Elementary Learning Support Teacher	A204	moultonl@jtowndrakes.org	moultone	9812579	1	Moultonees
-170	"Paone, Marybeth"	Marybeth		Paone	3276	2	1st Grade Teacher	A105	paonem@jtowndrakes.org		4123953	1	paonem
-171	"Purcaro, Keith L"	Keith	L	Purcaro	3276	2	Elementary School Principal		purcarok@jenkintow.org		7935836	1	purcarok
-172	"Reid, Josette"	Josette		Reid	3276	1	Sixth Grade Teacher	A115	reidj@jtowndrakes.org	sadowskaj	4805061	1	Sadowskajes
-173	"Rosen, Melissa L"	Melissa	L	Rosen	3276	1	5th Grade Teacher	A207	rosenm@jtowndrakes.org		4060573	1	Rosenm
-174	"Schwarz, Patti"	Patti		Schwarz	3276	2		A103	schwarzp@jenkintown.org		5357345	1	Schwarzpes
-175	"Seitz, David"	David		Seitz	3276	2		A204	seitzd@jenkintown.org		8472538	1	Seitzdes
-176	"Sterman-Soroko, Paulette P"	Paulette	P	Sterman-Soroko	3276	2		A200	stermanp@jenkintown.org		5126408	1	sorokopes
-177	"Stover, Mark"	Mark		Stover	3276	2		A107		stoverm1	1354648	1	mark.stover
-178	"Vafiadis, George K"	George	K	Vafiadis	8049	1	Physical Education Teacher		vafiadisg@jtowndrakes.org		7094283	1	Vafiadisges
-179	"Welch, Kathleen"	Kathleen		Welch	3276	2	Kindergarten Teacher	B120	welchk@jtowndrakes.org		1628792	1	
-180	"White, Dana C"	Dana	C	White	3276	1	6th Grade Teacher	A205	whited@jtowndrakes.org		1715462	1	Whitedes
-182	"Bilbee, Carolynn A"	Carolynn	A	Bilbee	8049	2			bilbeec@jenkintown.org		5185346	1	Bilbeecms
-183	"Gartner, Jacqueline"	Jacqueline		Gartner	8049	2			gartnerj@jenkintown.org		7657435	1	
-196	"Leiter, Barbara"	Barbara		Leiter	8049	2			leiterb@jenkintown.org		4682063	1	Leiterbms
-197	"Lynch, Rosemary B"	Rosemary	B	Lynch	8049	2	Social Worker	D105	lynchr@jenkintown.org	lynchr	9380543	2	lynchr
-198	"Minni, Elisa Z"	Elisa	Z	Minni	8049	2	Learning Support Teacher	D116	minnie@jtowndrakes.org	minnie	2764321	1	Minniems
-199	"McLoughlin, Rebecca M"	Rebecca	M	McLoughlin	8049	1	Middle School Guidance Counselor	D103	mcloughlinr@jtowndrakes.org	morrisr	9465064	1	Morrisrms
-207	"Weinberg, Michelle S"	Michelle	S	Weinberg	8049	2	Social Worker	D104	weinbergm@jenkintown.org	weinbergm	8153239	2	
-208	"Gallagher, Liz"	Liz		Gallagher	8049	2	Intern			gallagherl	1111	2	
-209	"Oakes, Erin"	Erin		Oakes	8049	2				oakese	2222	2	
-210	"Casanova, Marielle"	Marielle		Casanova	8049	2				casanovam	3333	2	
-211	"Hughes, Susan"	Susan		Hughes	0	2	Secretary to Superintendant		hughess@jenkintown.org	hughess	8582	2	
-212	"Chesney, Susan B"	Susan	B	Chesney	0	2	Human Resources Manager		chesneys@jenkintown.org		1308	2	
-213	"Wade, Timothy"	Timothy		Wade	0	2	Superintendent		wadet@jenkintown.org	wadet	6184191	2	
-214	"Bauman, Carole"	Carole		Bauman	8049	2	MS/HS Secretary		baumanc@jenkintown.org	baumanc	2230	2	
-215	"Lucas, Mary"	Mary		Lucas	3276	2	ES Secretary		lucasm@jenkintown.org	lucasm	3575	2	
-216	"Citron, Mark C."	Mark	C.	Citron	8049	2	Assistant to Principal/Athletic Director		citronm@jenkintown.org	Citronm	4306872	2	
-217	"Drennen, Judy"	Judy		Drennen	0	2	Special Education Secretary		drennenj@jenkintown.org	drennenj	9154	2	
-218	"Draus, Anne C"	Anne	C	Draus	0	2	Tech Support		adraus@mciu.org	adraus	999998	2	adraus
-251	"Reid, Susan"	Susan		Reid	0	2	School Nurse		Reids@jenkintown.org	grahams	1762819	2	
-252	"Lunch, Lunch"	Lunch		Lunch	8049	1					99999	1	
-351	"Pauley, Brook"	Brook		Pauley	8049	1	guidance intern		pauleyb@jenkintown.org	pauleyb	1234	0	
-352	"Schick, Krista"	Krista		Schick	8049	2	guidance intern		schickk@jenkintown.org	schickk	12345	0	
-401	"Gabage, Margie"	Margie		Gabage	0	2	Lunch Staff			gabagem	999999	3	
-402	"Looney, Mimi"	Mimi		Looney	3276	2	Library/Instructional Asst		looneym@jenkintown.org	looneym	777777	2	
-403	"Glennon, Michele"	Michele		Glennon	0	1	Director of Special Ed/Pupil Services		glennonm@jtowndrakes.org	glennonm	3602949	2	
-405	"Mulvaney, Elise"	Elise		Mulvaney	0	2	Elementary Secretary		mulvaneye@jenkintown.org	mulvaneye	333333	2	
-406	"Derr, Patricia C"	Patricia	C	Derr	0	2	School Psychologist	D101	derrp@jtowndrakes.org	derrp	3905439	2	
-408	"Kuchler, Tricia"	Tricia		Kuchler	0	2	School Psychologist Intern		kuchlert@jenkintown.org	kuchlert	222222	0	
-409	"Kender, Nicole"	Nicole		Kender	3276	2	Elementary Guidance Intern			kendern	123456	0	
-451	"Toye, Jill"	Jill		Toye	8049	1	High School Librarian		toyej@jtowndrakes.org	toyej	9350903	1	toyejhs
-452	"Roller, Thomas A"	Thomas	A	Roller	8049	1	MS/HS Principal		rollert@jtowndrakes.org		1651709	2	
-453	"MCELROY, Cristin L"	Cristin	L	MCELROY	8049	2					3826016	0	
-455	"DEVERS, ROBERT"	ROBERT		DEVERS	8049	2					6867045	0	
-456	"Mulligan, Carol"	Carol		Mulligan	3276	2			ptkids@aol.com		3250723	0	
-458	"CUOZZO, LAURIE J"	LAURIE	J	CUOZZO	3276	2					1851248	0	
-459	"Kelman, Bonnye"	Bonnye		Kelman	3276	2					4652373	2	
-460	"Imberman, Pauline"	Pauline		Imberman	3276	1	Occupational Therapist (Consultant)		imbermanp@jtowndrakes.org		6162694	2	
-461	"Dubenko, Zorian B"	Zorian	B	Dubenko	0	2	Business Manager		dubenkoz@jtowndrakes.org	zorian	9596163	2	
-501	"Instructor, Dual Enrollment"	Dual Enrollment		Instructor	8049	1			instructord@jenkintown.org		8888888	1	kafkalac_dual
-502	"Teacher, Subcontracted"	Subcontracted		Teacher	8049	1	VHS Teacher		flynns@jtowndrakes.org		9999999	1	teachersub
-551	"Oh, Yura"	Yura		Oh	8049	2			ohy@jenkintown.org		6362854	1	ohjhs
-601	"Cleary, Amy M"	Amy	M	Cleary	8049	2			clearya@jenkintown.org		4348493	1	clearya
-602	"Geary, Ashley E"	Ashley	E	Geary	8049	1	Student Assistance Counselor	D100	sabola@jtowndrakes.org	sabola	2604684	2	sabola
-603	"Pauley, Kait"	Kait		Pauley	0	2					1234	0	
-604	"Rothman, Joy"	Joy		Rothman	0	2	guidance intern			rothmanj	321	0	
-605	"Ginder, Kait"	Kait		Ginder	8049	1	Guidance Intern			ginderk	654	0	
-606	"Rothman, Joy"	Joy		Rothman	8049	2	guidance intern			rothmanj1	987	0	
-651	"Di Paulo, Christine K"	Christine	K	Di Paulo	8049	2			dipauloc@jenkintown.org		1217252	1	dipauloc
-652	"Hamilton, Paul A"	Paul	A	Hamilton	8049	1	Social Studies Teacher	D201	hamiltonp@jtowndrakes.org		3169287	1	hamiltonp
-653	"Lite, Samantha M"	Samantha	M	Lite	8049	2			lites@jenkintown.org		5028747	1	litesclose
-654	"Cox, Matthew A"	Matthew	A	Cox	3276	1	Physical Education/Health Teacher	A117	coxm@jtowndrakes.org		8954381	1	coxm
-655	"Herr, Margaret"	Margaret		Herr	3276	1	6th Grade Teacher	A202	herrm@jtowndrakes.org		5179294	1	herrm
-656	"Askin, Jenna E"	Jenna	E	Askin	3276	1	4th Grade Teacher	A102	askinj@jtowndrakes.org		8041052	1	askinj
-657	"Wiseman, Nicole M"	Nicole	M	Wiseman	3276	2			wisemann@jenkintown.org		7838201	1	wiseman
-701	"Matthews, Katie"	Katie		Matthews	8049	2			matthewsk@jenkintown.org	matthewsk	5678	2	
-702	"Gonzalez, Carlo"	Carlo		Gonzalez	8049	2			gonzalezc@jenkintown.org	gonzalezc	7890	0	
-751	"defaultLast, defaultFirst"	defaultFirst		defaultLast	0	2				ptadmin	default	0	
-801	"Devlin, Arlene"	Arlene		Devlin	0	2	Business Manager Secretary		devlina@jenkintown.org	devlina	123456	2	
-851	"Imberman, Pauline"	Pauline		Imberman	0	1				imbermanp	6789	0	
-901	"BLI, admin"	admin		BLI	0	2				bliadmin	BLI123	0	
-951	"Ozga, Jacqueline G"	Jacqueline	G	Ozga	3276	1	2nd Grade Teacher	A004	ozgaj@jtowndrakes.org	ozgaj	1059584	1	ozgaj
-952	"Lynch, Amy R"	Amy	R	Lynch	3276	2	Fifth Grade Teacher	A100	lyncha@jtowndrakes.org		9072919	1	lyncha
-953	"Costello, Christina"	Christina		Costello	8049	2				costelloc	84638405	0	
-954	"Smith, Molly"	Molly		Smith	8049	2				smithm	89473047	0	
-1001	"O'Brien, Christopher P"	Christopher	P	O'Brien	0	1	Athletic Director/Trainer		obrienc@jtowndrakes.org	obrienc	3101287	2	
-1002	"Ashmore, Katelyn M"	Katelyn	M	Ashmore	3276	2			ashmorek@jenkintown.org		190723691	2	
-1051	"Oliver, Mary-Virginia"	Mary-Virginia		Oliver	3276	2	Learning Supoort Aide		oliverm@jenkintown.org		150448902	2	
-1052	"Bogdanoff, Judith"	Judith		Bogdanoff	3276	2	Learning Support Aide		bogdanoj@jenkintown.org		174447753	2	
-1053	"Miller, Patricia A"	Patricia	A	Miller	8049	2	Instructional Aide		millerp@jenkintown.org		181441107	2	
-1054	"Looney, Hermina A"	Hermina	A	Looney	3276	2	Library Aide		looneym@jenkintown.org		193444668	2	
-1055	"Landis, Jayne O"	Jayne	O	Landis	8049	2	Instructional Aide		landisj@jtowndrakes.org		182480596	2	
-1056	"McBrien, Kara"	Kara		McBrien	8049	2	Instructional Aide		mcbrienk@jenkintown.org		189502551	2	
-1057	"Mueller, Lisa"	Lisa		Mueller	8049	1	Instructional Aide		muellerl@jtowndrakes.org	muellerl	195623155	1	
-1058	"Mulvaney, Elise P"	Elise	P	Mulvaney	3276	1			mulvanee@jenkintown.org	emulvaney	139460388	2	
-1059	"Parisi, Suellen"	Suellen		Parisi	3276	1	Instructional Aide		parisis@jenkintown.org	parisis	343502859	2	
-1060	"Tomzack, Alexandra L"	Alexandra	L	Tomzack	3276	2	Special Education Teacher	A003	tomzacka@jtowndrakes.org		9740241	1	
-1101	"Ashenbrenner, Luke T"	Luke	T	Ashenbrenner	8049	1	Math Teacher	E110	ashenbrennerl@jtowndrakes.org	ashenbrennerl	2873674	1	ashenbrennerlhs
-1102	"Admin, MCIU_JSD"	MCIU_JSD		Admin	0	2			powerschool@mciu.org	mciuadmintest	1605999	2	
-1151	"StudyHall, Teacher"	Teacher		StudyHall	8049	2					STH9	1	
-1201	"Smith, Theo"	Theo		Smith	0	2	MCIU Data Support Specialist		tsmith@mciu.org	tsmith	999999999	2	
-1251	"Fantuzzo, Emily"	Emily		Fantuzzo	3276	2			fantuzzoe@jenkintown.org		8703569	1	
-1252	"Hetrick, Elizabeth A"	Elizabeth	A	Hetrick	8049	1	School Nurse		hetricke@jtowndrakes.org	hetricke	9212062	2	
-1253	"Owen, Megan M"	Megan	M	Owen	3276	1	5th Grade Teacher	A203	owenm@jtowndrakes.org		8629892	1	owenm
-1254	"McNamara, Kristen S"	Kristen	S	McNamara	3276	1	Elementary Librarian/Media Specialist	A112	mcnamarak@jtowndrakes.org	mcnamarak	5938618	1	
-1255	"Durkin, Leslie A"	Leslie	A	Durkin	3276	1	2nd Grade Teacher	A103	durkinl@jtowndrakes.org		4897574	1	rizzol
-1256	"Budner, Jennifer J"	Jennifer	J	Budner	3276	2	1st Grade Teacher	A107	budnerj@jtowndrakes.org		7516106	1	budnerjes
-1257	"Smith, Devon M"	Devon	M	Smith	3276	2	Teacher		smithd@jenkintown.org		9859626	1	smithd
-1258	"Rodoff, Kenneth"	Kenneth		Rodoff	8049	1	K-12 Technology Integration Coach		rodoffk@jtowndrakes.org	rodoffk	6026507	2	rodoffk
-1259	"Zetts, Andrew C"	Andrew	C	Zetts	8049	2	Social Studies Teacher	D212	zettsa@jenkintown.org		8087987	1	zettsa
-1260	"Davidson-Arms, Alyssa"	Alyssa		Davidson-Arms	3276	1			davidsona@jtowndrakes.org		4696342	1	davidsonaes
-1309	"Weinberg, Michelle"	Michelle		Weinberg	0	2					8153239	0	
-1361	"temp, sub"	sub		temp	8049	1				temp	7306	0	
-1411	"Agger, Elizabeth A"	Elizabeth	A	Agger	3276	2			aggere@jenkintown.org		7346032	1	aggere
-1461	"Brueckman, Harry"	Harry		Brueckman	0	2					1813463	0	
-1462	"Gans, Meredith A"	Meredith	A	Gans	0	2					1936451	0	
-1463	"Schrader, Ann T"	Ann	T	Schrader	0	2					1793458	0	
-1464	"Sumerix, Mary M"	Mary	M	Sumerix	0	2					1783284	0	
-1465	"Hertneck, Cheryl"	Cheryl		Hertneck	0	2					0	0	
-1466	"Bell, Christine S"	Christine	S	Bell	0	2					1442248	0	
-1511	"O'Neill, Delores"	Delores		O'Neill	8049	2				oneilld	9375830084	2	
-1561	"Gramiak, Steve"	Steve		Gramiak	8049	2					395739	0	
-1562	"Gramiak, Steve"	Steve		Gramiak	0	2					395739	2	
-1611	"Lynch, Rosemary B"	Rosemary	B	Lynch	3276	2	Social Worker	D105	lynchr@jenkintown.org	lynchr	9380543	2	lynchr
-1661	"Smith, Theo"	Theo		Smith	8049	2	MCIU Data Support Specialist		tsmith@mciu.org	tsmith	999999999	2	
-1711	"Smith, Theo"	Theo		Smith	3276	2	MCIU Data Support Specialist		tsmith@mciu.org	tsmith	999999999	2	
-1761	"MacFarland, Bridget"	Bridget		MacFarland	3276	2			macfarlanb@jenkintown.org		4764501	1	macfarlandb
-1763	"Gillard, Eileen E"	Eileen	E	Gillard	3276	2			gillarde@jenkintown.org		1865669	2	
-1764	"Kleiman, Heidi L"	Heidi	L	Kleiman	3276	2			kleimanh@jenkintown.org		2037019	2	
-1765	"Som, Anuradha Rai"	Anuradha	Rai	Som	3276	2			somr@jenkintown.org		2149667	2	
-1811	"Intern, 2"	2		Intern	8049	1				Intern2	8654	0	
-1812	"Intern, 1"	1		Intern	8049	1				Intern	57575	0	
-1861	"Teacher, Subcontracted"	Subcontracted		Teacher	3276	1	VHS Teacher		flynns@jtowndrakes.org		9999999	1	teachersub
-1863	"Teacher, Subcontracted"	Subcontracted		Teacher	9999	1	VHS Teacher		flynns@jtowndrakes.org		9999999	1	teachersub
-1864	"Teacher, Subcontracted"	Subcontracted		Teacher	0	1	VHS Teacher		flynns@jtowndrakes.org		9999999	1	teachersub
-1911	"Laverty, Allison B"	Allison	B	Laverty	8049	1	MS/HS Secretary			lavertya	950849	2	
-1961	"Seweryn, Natalie R"	Natalie	R	Seweryn	3276	2	World Language Teacher	A114	sewerynn@jtowndrakes.org	sewerynn	2904782	1	sewerynn
-2011	"Holcomb, Wendy"	Wendy		Holcomb	3276	1	Elementary Music Teacher	A006	holcombb@jtowndrakes.org		1483579	1	holcombb
-2061	"Zetts, Cassandra M"	Cassandra	M	Zetts	8049	2	Social Studies Teacher		zettsc@jtowndrakes.org		9142892	1	czettshs
-2062	"Leonard, Jennifer Y"	Jennifer	Y	Leonard	3276	2	Elementary Art Teacher	A006	leonardj@jenkintown.org		5490893	1	leonardjes
-2063	"McNamara, Robert R"	Robert	R	McNamara	8049	1	English Teacher	D118	mcnamarar@jtowndrakes.org		6289571	1	mcnamararhs
-2111	"Gitler, Kristen O"	Kristen	O	Gitler	3276	2	Physical Therapist		gitlerk@jenkintown.org		9431364	0	
-2161	"Juliani, Abigail R"	Abigail	R	Juliani	3276	2	Personal Care Aide		juliania@jenkintown.org		188708095	0	
-2211	"Morris, Alicia"	Alicia		Morris	8049	2				morrisa	76968	0	
-2212	"Omensetter, Caitlyn"	Caitlyn		Omensetter	8049	2				omensetterc	38493403	0	
-2261	"Weber, Monica"	Monica		Weber	0	2	Data Support Specialist		mweber@mciu.org	mweber	56756756	2	
-2262	"Francois, Shela"	Shela		Francois	3276	2	Personal Care Aide				172745021	2	
-2311	"Healy, Lauren M"	Lauren	M	Healy	3276	2	Personal Care Aide		healyl@jenkintown.org		207568007	2	
-2361	"Admin, Tech"	Tech		Admin	0	1	PowerSchool Technical Admin - MCIU			techadmin	87512	2	
-2362	"Ewer, Jeanie"	Jeanie		Ewer	0	2				ewerj	123	2	
-2363	"Takacs, Jill A"	Jill	A	Takacs	0	1	Superintendent		takacsj@jtowndrakes.org	takacsj	5807825	2	takacsj
-2364	"Shields, Patrick"	Patrick		Shields	8049	2				shieldsp	9876	0	
-2365	"Lafferty, Dana"	Dana		Lafferty	8049	2				laffertyd	749302	0	
-2366	"Pierre-Louis, Jessica"	Jessica		Pierre-Louis	0	2					234567890	0	
-2367	"Pierre-Louis, Jessica"	Jessica		Pierre-Louis	8049	2				Pierre-Louisj	567123	0	
-2411	"Kelly, Ann E"	Ann	E	Kelly	8049	1	Digital Media Arts Teacher	E113	kellya@jtowndrakes.org	kellya	2517973	1	kellya
-2461	"Stover, Mark"	Mark		Stover	8049	2		A107		stoverm1	1354648	1	mark.stover
-2511	"Intern1, Guidance"	Guidance		Intern1	8049	1				Intern1	uqngpagj	2	Intern1
-2512	"Kane, Karen M"	Karen	M	Kane	3276	1	First Grade	A110	kanek@jtowndrakes.org		5738027	1	kanek
-2561	"Fitzgerald, Mary"	Mary		Fitzgerald	3276	1				fitzgeraldm	12345	0	
-2562	"Casey, Jenny"	Jenny		Casey	8049	2				caseyj	123987	0	
-2612	"Page, Gloria"	Gloria		Page	3276	2				pageg	2434567	2	
-2661	"Report Card, Online"	Online		Report Card	0	1				mbaplugin	report card	0	
-2662	"Hart, Pamula"	Pamula		Hart	3276	2	Elementary Principal		hartp@jtowndrakes.org	hart	5380613	2	
-2663	"Rodoff, Kenneth"	Kenneth		Rodoff	3276	1	K-12 Technology Integration Coach		rodoffk@jtowndrakes.org	rodoffk	6026507	2	rodoffk
-2665	"Seweryn, Natalie R"	Natalie	R	Seweryn	8049	2	World Language Teacher	A114	sewerynn@jtowndrakes.org	sewerynn	2904782	1	sewerynn
-2666	"Profit, Theresa M"	Theresa	M	Profit	3276	1	Learning Support Teacher		profitt@jtowndrakes.org	profitt	5726147	1	newsped
-2667	"Zachmann, Colleen"	Colleen		Zachmann	3276	2	Elementary Art Teacher	A006	zachmannc@jtowndrakes.org		2054798	1	zachmannc
-2668	"Valane, Lauren"	Lauren		Valane	0	2	School Psychologist		valanel@jtowndrakes.org	valanel	2478015	2	
-2711	"May, Samantha"	Samantha		May	3276	1	Speech Pathologist	A204	mays@jtowndrakes.org	moscas	6387628	2	
-2761	"Lamoreux, Vincenza"	Vincenza		Lamoreux	8049	1				lamoreuxv	Intern	0	
-2762	"Zhan, Emily"	Emily		Zhan	8049	1				zhane	Intern2	0	
-2811	"Heinerici, Courtney"	Courtney		Heinerici	0	2	Admin Specialist/Data Coordinator/Grants		heinericic@jtowndrakes.org	heinericic	11091	2	baiac
-2812	"Level, Data"	Data		Level	0	1				leveldata	654321	0	
-2861	"Mulvaney, Elise"	Elise		Mulvaney	3276	2	Elementary Secretary		mulvaneye@jenkintown.org	mulvaneye	333333	2	
-2862	"Mulvaney, Elise"	Elise		Mulvaney	8049	2	Elementary Secretary		mulvaneye@jenkintown.org	mulvaneye	333333	2	
-2863	"MBA, MBA"	MBA		MBA	0	1				MBA	MBA	0	
-2911	"Maluk, Holly P"	Holly	P	Maluk	8049	1	Social Studies Teacher		malukh@jtowndrakes.org		2646892	1	malukh
-2912	"Santangelo, Andrew"	Andrew		Santangelo	8049	2			santangeloa@jtowndrakes.org		8142985	1	santangeloa
-2913	"Farrell, Adam L"	Adam	L	Farrell	3276	2	Art Teacher	A006	farrella@jtowndrakes.org		1756525	1	farrella
-2914	"Struck, Sarah E"	Sarah	E	Struck	3276	1	3rd Grade Teacher	A204	strucks@jtowndrakes.org		1381376	1	strucks
-2915	"Vogel, Hannah"	Hannah		Vogel	3276	2					7170452	1	vogelh
-2916	"Martin, Amanda M"	Amanda	M	Martin	3276	2	Teacher		Martina@jtowndrakes.org 		1464046	1	martina
-2917	"Knyaz, Miroslava"	Miroslava		Knyaz	8049	2					917	2	
-2918	"Knyaz, Miroslava"	Miroslava		Knyaz	0	1			knyazm@jtowndrakes.org 	knyazm	697	2	
-2919	"Heinerici, Courtney"	Courtney		Heinerici	9991	2	Admin Specialist/Data Coordinator/Grants		heinericic@jtowndrakes.org	heinericic	11091	2	baiac
-2920	"Laverty, Allison B"	Allison	B	Laverty	9999	1	MS/HS Secretary			lavertya	950849	2	
-2921	"Laverty, Allison B"	Allison	B	Laverty	9991	1	MS/HS Secretary			lavertya	950849	2	
-2922	"Heinerici, Courtney"	Courtney		Heinerici	8049	2	Admin Specialist/Data Coordinator/Grants		heinericic@jtowndrakes.org	heinericic	11091	1	baiac
-2923	"Bangor, Neil John"	Neil	John	Bangor	0	1	Security Staff		bangorn@jtowndrakes.org	bangorn	SS5857208	2	
-2961	"Security, Staff"	Staff		Security	0	1				security	INVEST1	0	
-2962	"Security, Staff"	Staff		Security	3276	1				security	INVEST1	0	
-2963	"Security, Staff"	Staff		Security	8049	1				security	INVEST1	0	
-2964	"Sassaman, Casey"	Casey		Sassaman	0	2	School Psychologist	Guidance	sassamanc@jtowndrakes.org		4092942	1	
-2965	"Sassaman, Casey"	Casey		Sassaman	3276	2	School Psychologist	Guidance	sassamanc@jtowndrakes.org		4092942	2	
-2966	"Heinerici, Courtney"	Courtney		Heinerici	7598	2	Admin Specialist/Data Coordinator/Grants		heinericic@jtowndrakes.org	heinericic	11091	2	baiac
-2967	"Reed, Kristin"	Kristin		Reed	0	1			reedk@jtowndrakes.org	reedk	8583	2	
-3011	"Taicher, Corinne"	Corinne		Taicher	0	2	LTS		Taicherc@jtowndrakes.org		4925076	4	taicherc
-3012	"Taicher, Corinne"	Corinne		Taicher	8049	2	LTS		Taicherc@jtowndrakes.org		4925076	1	taicherc
-3061	"Knox, Megan"	Megan		Knox	8049	2	Learning Support Teacher	A210	knoxm@jtowndrakes.org		8015825	1	
-3111	"Sassaman, Casey"	Casey		Sassaman	8049	2	School Psychologist	Guidance	sassamanc@jtowndrakes.org		4092942	2	
-3112	"Cash, Diane"	Diane		Cash	3276	1	Kindergarten Teacher		cashd@jtowndrakes.org		6191564	1	cashd
-3114	"Simons, India"	India		Simons	3276	1	Special Education Teacher		simonsi@jtowndrakes.org	simonsi	4145625	1	simonsi
-3116	"Merriman, Sinead"	Sinead		Merriman	3276	2	TEMP LTS		merrimans@jtowndrakes.org		9635258	1	merrimans
-3118	"Chanoff, Mindy"	Mindy		Chanoff	3276	2	LTS Second Grade (Less than a year)		chanoffm@jtowndrakes.org		4859786	1	chanoffm
-3119	"Opferman, Heather L"	Heather	L	Opferman	3276	2			Opfermanh@jtowndrakes.org		3708613	1	Opfermanh
-3121	"Stein, Heather"	Heather		Stein	3276	2			steinh@jtowndrakes.org		5413438	1	steinh
-3122	"Jutzi, Jennifer"	Jennifer		Jutzi	3276	1	Kindergarten		jutzij@jtowndrakes.org		1452075	1	jutzij
-3123	"Wozniak, Timothy"	Timothy		Wozniak	3276	1	6th Grade Teacher		wozniact@jtowndrakes.org		8490327	1	wozniakt
-3124	"Sender, Catherine"	Catherine		Sender	3276	2	4th Grade Teacher		senderk@jtowndrakes.org 		7489046	1	senderk
-3125	"Nickerson, Michael"	Michael		Nickerson	0	1	Facilities Manager		nickersonm@jtowndrakes.org		9129269	2	
-3126	"Gaittins, Gywenn"	Gywenn		Gaittins	0	2			gaittinsg@jtowndrakes.org	Gaittinsg	8675309	2	
-3161	"Ovington, Karen L"	Karen	L	Ovington	0	1	Business Manager		ovingtonk@jtowndrakes.org	ovingtonk	3961486	2	
-3162	"Heinerici, Courtney"	Courtney		Heinerici	3276	2	Admin Specialist/Data Coordinator/Grants		heinericic@jtowndrakes.org	heinericic	11091	1	baiac
-3211	"Hause, Patricia"	Patricia		Hause	0	1			hausep@jtowndrakes.org	hausep	13579	2	
-3212	"Barnett, Jenny"	Jenny		Barnett	0	2			barnettj@jtowndrakes.org		123	0	
-3214	"Mina Pena, Luisa Fernanda"	Luisa	Fernanda	Mina Pena	8049	2	Spanish Teacher		minal@jtowndrakes.org		4394564	1	
-3262	"Doyal, Bethany Frances"	Bethany	Frances	Doyal	8049	2	Computer Science Teacher		doyalb@jtowndrakes.org		5809317	1	Doyalb
-3311	"Tomzack, Alexandra L"	Alexandra	L	Tomzack	8049	2	Special Education Teacher	A003	tomzacka@jtowndrakes.org		9740241	1	
-3312	"McHugh, Laura"	Laura		McHugh	0	2	Nurse		mchughl@jtowndrakes.org		6151028	2	
-3313	"Arbelo, Juan"	Juan		Arbelo	0	2	Security Staff		arbeloj@jtowndrakes.org 		SS3015209	2	
-3361	"Benfield, Jason"	Jason		Benfield	0	2	Principal		benfieldj@jtowndrakes.org	benfieldj	8475085	2	
-3362	"Flynn, Susanne M"	Susanne	M	Flynn	8049	1		A212	flynns@jtowndrakes.org	Flynns	5304307	1	Flynns
-3363	"Morris, Sarah Elizabeth"	Sarah	Elizabeth	Morris	8049	2	Spanish/FLES Teacher		morriss@jtowndrakes.org		8213025	1	
-3364	"Coopersmith, Brittany Nicole"	Brittany	Nicole	Coopersmith	8049	1	Science Teacher		coopersmithb@jtowndrakes.org		7123102	1	coopersmithb
-3365	"Morris, Sarah Elizabeth"	Sarah	Elizabeth	Morris	3276	2	Spanish/FLES Teacher		morriss@jtowndrakes.org		8213025	1	
-3366	"Garcia Ortiz, Jenna Leigh"	Jenna	Leigh	Garcia Ortiz	8049	2			garciaj@jtowndrakes.org	garciaj	7549406	1	garciaj
-3367	"Garcia Ortiz, Jenna Leigh"	Jenna	Leigh	Garcia Ortiz	3276	2			garciaj@jtowndrakes.org	garciaj	7549406	1	garciaj
-3411	"Madeira, Kaitlin Wallace"	Kaitlin	Wallace	Madeira	3276	1	ES Art Teacher		Madeirak@jtowndrakes.org		7083138	1	madeirak
-3412	"Inter, Nurse"	Nurse		Inter	0	1				InternRN	INTERNRN	2	
-3461	"Taylor, Carmen"	Carmen		Taylor	3276	1				taylorc	6821305	2	
-3467	"Stevenson Price, Sarah"	Sarah		Stevenson Price	3276	2	Instructional Assistant		stevenson-prices@jtowndrakes.org 	stevensonprices	Assistant 2	2	
-3468	"Wagner, Karen Marie"	Karen	Marie	Wagner	3276	1	Instructional Assistant		wagnerk@jtowndrakes.org 	wagnerk	Assistant 3	2	
-3469	"Gallen, Susan T"	Susan	T	Gallen	3276	2	Instructional Aide		gallens@jenkintown.org		1834600	2	
-3470	"Woodard, Tina"	Tina		Woodard	3276	1	Instructional Assistant		woodardt@jtowndrakes.org 	woodardt	Assistant 5	2	
-3471	"Eyrich, Melanie S"	Melanie	S	Eyrich	8049	2	Instructional Assistant		eyrichm@jtowndrakes.org	eyrichm	Assitant1	2	
-3472	"McBrien, Kara"	Kara		McBrien	8049	2	Instructional Aid				Assistant 4	2	
-3474	"Tippy, Kerri"	Kerri		Tippy	8049	1			tippyk@jtowndrakes.org	tippyk	Assistant 6	2	
-3475	"Parisi, Suellen"	Suellen		Parisi	8049	1	Instructional Aide		parisis@jenkintown.org	parisis	343502859	2	
-3476	"Brown, Matthew L"	Matthew	L	Brown	0	1	Security Staff		brownm@jtowndrakes.org		5239015	2	
-3477	"Salvino, Susan"	Susan		Salvino	3276	2	LTS		salvinos@jtowndrakes.org		101010	1	ssalvino
-3512	"Barrett, Samantha A"	Samantha	A	Barrett	8049	1	Physical Education Instructor		basiles@jtowndrakes.org		7063862	1	basiles
-3561	"Pesce, Annemarie"	Annemarie		Pesce	3276	1	LTS		pescea@jtowndrakes.org		7280138	1	pescea
-3611	"Chepress, Alyssa"	Alyssa		Chepress	3276	2	Long Term Sub		chepressa@jtowndrakes.org		3760192	1	achepress
-3661	"Fitzgerald, William H"	William	H	Fitzgerald	3276	2	Long Term Sub		fitzgeraldb@jtowndrakes.org		4158321	1	fitzgeraldb
-3711	"Staff, Form A"	Form	A	Staff	0	1				Forms123	Staff123	0	
-3712	"Staff, Form A"	Form	A	Staff	3276	1				Forms123	Staff123	0	
-3713	"Staff, Form A"	Form	A	Staff	8049	1				Forms123	Staff123	0	
-3714	"Staff, Form A"	Form	A	Staff	9999	1				Forms123	Staff123	0	
-3715	"Staff, Form A"	Form	A	Staff	7598	1				Forms123	Staff123	0	
-3716	"Staff, Form A"	Form	A	Staff	9991	1				Forms123	Staff123	0	
-3717	"Jahnke, Christopher"	Christopher		Jahnke	0	1	ES Principal		jahnkec@jtowndrakes.org	CJahnke	3853829	2	
-3718	"Jahnke, Christopher"	Christopher		Jahnke	3276	1	ES Principal		jahnkec@jtowndrakes.org	CJahnke	3853829	2	
-3720	"Wyche, Brandon"	Brandon		Wyche	3276	1			wycheb@jtowndrakes.org	BWyche	4636961	1	BWyche
-3721	"Wyche, Brandon"	Brandon		Wyche	8049	1			wycheb@jtowndrakes.org	BWyche	4636961	1	BWyche
-3722	"Kugelman, Louis"	Louis		Kugelman	3276	1			Kugelmanl@jtowndrakes.org		1496783	1	LKugelman
-3723	"Kugelman, Louis"	Louis		Kugelman	8049	1			Kugelmanl@jtowndrakes.org		1496783	1	LKugelman
-3724	"Thomas, Amanda"	Amanda		Thomas	3276	1			tlove004@aol.com		Amanda Thomas	2	AThomas
-3725	"Thatcher, Sarah"	Sarah		Thatcher	8049	1			thatchers@jtowndrakes.org		7515034	1	SThatcher
-3726	"Shoemaker, Andrew"	Andrew		Shoemaker	8049	1			shoemakera@jtowndrakes.org		1250972	1	AShoemaker
-3728	"Sanchez, Asiana"	Asiana		Sanchez	8049	1			asianarae14@gmail.com		0	2	ASanchez
-3729	"Milliken, Katherine"	Katherine		Milliken	8049	1			millikenk@jtowndrakes.org		9894287	1	KMilliken
-3730	"test, test"	test		test	3276	1				TEST222	888888	1	TEST222
-3733	"Mazza, Laura Christine"	Laura	Christine	Mazza	3276	1			mazzal@jtowndrakes.org	mazzaladmin	2978768	1	LMazza
-3734	"Mazza, Laura Christine"	Laura	Christine	Mazza	8049	1			mazzal@jtowndrakes.org	mazzaladmin	2978768	1	LMazza
-3762	"Oliver, Thomas"	Thomas		Oliver	8049	1			olivert@jtowndrakes.org		9283426	1	TOliver
-3811	"test, test"	test		test	0	1				TEST222	888888	1	TEST222
-3812	"test, test"	test		test	8049	1				TEST222	888888	1	TEST222
-3814	"Flanagan, Carrie"	Carrie		Flanagan	3276	1	Teacher		flanaganc@jtowndrakes.org		6891875	1	CFlanagan
-3815	"Howard, Brenton"	Brenton		Howard	3276	1			howardb@jtowndrakes.org		8217934	1	BHoward
-3817	"McGarry, Delaney"	Delaney		McGarry	0	1			dmcgarry@arcadia.edu		8888888	0	
-3861	"Page, Danielle"	Danielle		Page	0	1	Child care employee PT		Scootergirl7816@yahoo.com		1	2	
-3862	"Laverty, Allison B"	Allison	B	Laverty	0	1	MS/HS Secretary			lavertya	950849	2	
-3863	"Profit, Theresa M"	Theresa	M	Profit	8049	1	Learning Support Teacher		profitt@jtowndrakes.org	profitt	5726147	1	newsped
-3865	"Butler, Lisa"	Lisa		Butler	3276	1	Elementary School FT Special Education T		butlerl@jtowndrakes.org		2169092	1	lbutler
-3961	"Instructor, Dual Enrollment"	Dual Enrollment		Instructor	3276	1			instructord@jenkintown.org		8888888	1	kafkalac_dual
-3962	"Instructor, Dual Enrollment"	Dual Enrollment		Instructor	9999	1			instructord@jenkintown.org		8888888	1	kafkalac_dual
-3963	"Instructor, Dual Enrollment"	Dual Enrollment		Instructor	9991	1			instructord@jenkintown.org		8888888	1	kafkalac_dual
-3964	"Instructor, Dual Enrollment"	Dual Enrollment		Instructor	0	1			instructord@jenkintown.org		8888888	1	kafkalac_dual
-3966	"Lamplugh, Catherine"	Catherine		Lamplugh	8049	1	Spanish Teacher		lamplughc@jtowndrakes.org		1748425	1	clamplugh
-4011	"Nitkiewicz, Melanie"	Melanie		Nitkiewicz	8049	1	French Teacher		nitkiewiczm@jtowndrakes.org		7607483	1	mnitkiewicz
-4012	"Nitkiewicz, Melanie"	Melanie		Nitkiewicz	3276	1	French Teacher		nitkiewiczm@jtowndrakes.org		7607483	1	mnitkiewicz
-4013	"Lorraine, Sarah"	Sarah		Lorraine	3276	1	School Psychologist		lorraines@jtowndrakes.org	slorraine	4198304	2	
-4014	"Hennelly, Maggie"	Maggie		Hennelly	3276	1	Kindergarten Teacher		hennellym@jtowndrakes.org		2561725	1	mhennelly
-4016	"Johnson, Christina"	Christina		Johnson	8049	1	Special Education Teacher		johnsonc@jtowndrakes.org	cjohnson1	6368561	1	cjohnson
-4017	"Hawkins, Hykeem"	Hykeem		Hawkins	0	1	Security			hhawkins	SEC001	2	
-4018	"Brock, Laura"	Laura		Brock	3276	1	Third Grade Teacher - Sub		brockl@jtowndrakes.org	lbrock	3207931	1	lbrock
-4019	"Oliver, Thomas"	Thomas		Oliver	3276	1			olivert@jtowndrakes.org		9283426	1	TOliver
-4020	"Palmer, Jaynilyn"	Jaynilyn		Palmer	8049	1	Counselor Intern			jpalmer	Intern1	2	
-4062	"Lipshutz, Abbe"	Abbe		Lipshutz	3276	1	Long Term Sub		ipshutza@jtowndrakes.org		7349826	1	alipshutz
-4063	"Bowers, Maggie"	Maggie		Bowers	0	1	Sub School Nurse			mbowers	7	2	
+ID	LASTFIRST	FIRST_NAME	MIDDLE_NAME	LAST_NAME	SCHOOLID	STATUS	TITLE	HOMEROOM	EMAIL_ADDR	LOGINID	TEACHERNUMBER	Staffstatus	TeacherLoginID	StateID
+115	Knee, Patricia L	Patricia	L	Knee	8049	2			kneel@jenkintown.org		4843178	1	Kneephs	
+1	Sosnovik, Troy	Troy		Sosnovik	0	2			tsosnovik@mciu.org	tsosnovik	9999	0		
+51	Bealer, Linda	Linda		Bealer	0	2			lbealer@mciu.org		99999	0		
+52	Nusbaum, Laura	Laura		Nusbaum	0	2	Registrar/Data		nusbauml@jenkintown.org	nusbauml	0270	2		
+53	Bell, John J	John	J	Bell	0	2	Network Specialist		bellj@jenkintown.org		6232	2		
+54	Cummins, James J	James	J	Cummins	0	1	Director of Technology		cumminsj@jtowndrakes.org	cumminsj	1054348	2		
+92	Albuck, Stephanie N	Stephanie	N	Albuck	8049	2			albucks@jenkintown.org		8564725	1	Albuckshs	
+93	Berkey, Natalie N	Natalie	N	Berkey	8049	2			berkeys@jenkintown.org		1590918	1	berkeynhs	
+94	Gartner, Jacqueline L	Jacqueline	L	Gartner	8049	1	Science Teacher	D204	gartnerj@jtowndrakes.org	Brooksj1263	7657435	1	Brooksjhs	
+95	Brophy, Bernard M	Bernard	M	Brophy	8049	2	Technology Teacher	D215	brophym@jenkintown.org	brophym	3781853	1	Brophymhs	
+96	Burick, Jamie B	Jamie	B	Burick	8049	2			burickj@jenkintown.org		8568671	1	Burickjhs	
+97	Cappella, Joseph	Joseph		Cappella	8049	2			cappellj@jenkintown.org		2784585	1	Cappellajhs	
+98	Chittick, Daniel A	Daniel	A	Chittick	8049	2			chitticd@jenkintown.org		3296326	1	Chittickdhs	
+99	Citron, Mark C	Mark	C	Citron	8049	2			citronm@jenkintown.org		4306872	2	Citronmhs	
+100	Costner, Renate A	Renate	A	Costner	8049	2	Physical Education/Health Teacher	F129	costnerr@jtowndrakes.org		1473159	1	Costnerrhs	
+101	Craven, Tamara E	Tamara	E	Craven	8049	1	English Teacher	E206	cravent@jtowndrakes.org		1215374	1	Cravenths	
+102	Cunningham, Timothy J	Timothy	J	Cunningham	8049	1	Social Studies Teacher	D211	cunningt@jtowndrakes.org		1769157	1	Cunninghamths	
+103	Davidson-Arms, Alyssa	Alyssa		Davidson-Arms	8049	1	Choral Teacher	E207	davidsona@jtowndrakes.org		4696342	1	Davidsonahs	
+104	Detwiler, Richard G	Richard	G	Detwiler	8049	2	World Language Teacher	D202	detwilr@jtowndrakes.org		2480305	1	Detwilerrhs	
+105	Dewees, Amy L	Amy	L	Dewees	8049	1	Science Teacher	D213	deweesa@jtowndrakes.org		7912428	1	Deweesahs	
+106	Eyrich, Fred P	Fred	P	Eyrich	8049	2	Instrumental Music Teacher	B118	eyrichf@jtowndrakes.org		7306323	1	Eyrichfhs	
+107	Fylypovych, Christine S	Christine	S	Fylypovych	8049	2	World Language Teacher	D200	fylypovc@jtowndrakes.org		1690143	1		
+108	Goldberg, Margaret	Margaret		Goldberg	8049	2			goldbergm@jenkintown.org		9736152	2	Goldbergmhs	
+109	Guay, Edith	Edith		Guay	8049	2	World Language Teacher	D203	guaye@jtowndrakes.org		9121535	1	Guayehs	
+110	Hackett, Shannon L	Shannon	L	Hackett	8049	1	English Teacher	E205	hacketts@jtowndrakes.org		1231249	1	Hackettshs	
+111	Heath, Carol L	Carol	L	Heath	8049	2			heathc@jenkintown.org		5980891	1	Heathchs	
+112	Hench, Richard	Richard		Hench	8049	2			henchr@jenkintown.org		7659053	1	Henchrhs	
+113	Kafkalas, Christina M	Christina	M	Kafkalas	8049	1	High School Guidance Counselor	D102	kafkalac@jtowndrakes.org	kafkalasc	4791656	1	kafkalac	
+114	Klemp, Karen S	Karen	S	Klemp	8049	2			klempk@jenkintown.org	klempk	1828408	1	klempkhs	
+117	Medina, Susan E	Susan	E	Medina	8049	1	Learning Support Teacher	D115	medinas@jtowndrakes.org	medinas	4716709	1	medinas	
+118	Roller, Thomas	Thomas		Roller	0	1	MS/HS Principal		rollert@jenkintown.org	rollert	1651709	2		
+119	Reid, Josette	Josette		Reid	8049	2			reidj@jenkintown.org	sadowskajhs	4805061	1	Sadowskajhs	
+120	Saxman, Kelly L	Kelly	L	Saxman	8049	1	Math Teacher	E111	saxmank@jtowndrakes.org		3497172	1	Saxmankhs	
+121	Slowik, Jason D	Jason	D	Slowik	8049	1	Art Teacher	E208	slowikj@jtowndrakes.org		9782686	1	Slowikjhs	
+122	Spiegler, Andrew J	Andrew	J	Spiegler	8049	1	English Teacher	D117	spieglera@jtowndrakes.org	spiegs	2981824	1	spieglerahs	
+123	Stetler, Richard	Richard		Stetler	8049	2			stetlerr@jenkintown.org	stetlerradmin	5379786	1	Stetlerrhs	
+124	Stover, Mark R	Mark	R	Stover	8049	2	Gifted Support Teacher		stoverm@jtowndrakes.org	stoverm	1354648	1	stoverhs	
+125	Pennell, Carl J	Carl	J	Pennell	8049	2	Science Teacher	D214	pennellc@jtowndrakes.org		7130468	1	Tellychs	
+126	Tresnan, Patricia M	Patricia	M	Tresnan	8049	1	Math Teacher	E114	tresnap@jtowndrakes.org		5070838	1	Tresnanphs	
+127	Vanmeter, Anne E	Anne	E	Vanmeter	8049	1	Math/Science Teacher	E112	vanmetea@jtowndrakes.org		3946513	1	vanmeterhs	
+151	Wicks, Leah M	Leah	M	Wicks	3276	1	2nd Grade Teacher	A001	wicksl@jtowndrakes.org 		3045428	1	wicksl	
+152	Burnett, Cynthia A	Cynthia	A	Burnett	3276	2	2nd Grade Teacher	A104	burnettc@jtowndrakes.org		3236865	1	Burnettces	
+153	Cantz, Cathleen M	Cathleen	M	Cantz	3276	1	1st Grade Teacher	A106	cantzc@jtowndrakes.org		1256026	1	Cantzces	
+154	Cormier, Pamela J	Pamela	J	Cormier	3276	2		A106	cormierp@jenkintown.org		2823857	1	Cormierpes	
+155	DeMarco, Karen B	Karen	B	DeMarco	3276	1	Elementary Guidance Counselor	A111	demarcok@jtowndrakes.org	demarcok	3840546	2	demarcok	
+156	Eyrich, Fred	Fred		Eyrich	3276	2		B118	eyrichf@jenkintown.org		7306323	1	Eyrichfes	
+157	Flynn, Susanne M	Susanne	M	Flynn	3276	1		A212	flynns@jtowndrakes.org	Flynns	5304307	1	Flynns	
+158	Goldberg, Jami L	Jami	L	Goldberg	3276	1	Kindergarten Teacher	A208	goldbergj@jtowndrakes.org	goldbergj	5941568	1	goldbergj	
+159	Goldberg, Margaret H	Margaret	H	Goldberg	3276	2	Speech Therapist	A212	goldberm@jenkintown.org	goldbergm	9736152	2		
+160	Hagenkotter, Patricia A	Patricia	A	Hagenkotter	3276	1	4th Grade Teacher	A200	hagenkop@jtowndrakes.org		7152013	1	Hagenkotterpes	
+161	Haring, Nancy A	Nancy	A	Haring	3276	2		A100	haringn@jenkintown.org		2572627	1	Haringnes	
+162	Heise, Doris E	Doris	E	Heise	3276	2		A112	heised@jenkintown.org	heised	8490149	1		
+163	Jones, Donna M	Donna	M	Jones	3276	2		A001	jonesd@jenkintown.org		2483029	1	Jonesdes	
+164	Kelman, Bonnye S	Bonnye	S	Kelman	8049	1	Learning Support Teacher	D120	kelmanb@jtowndrakes.org	kelmanb	4652373	1	Kelmanbhs	
+165	Knox, Megan	Megan		Knox	3276	2	Learning Support Teacher	A210	knoxm@jtowndrakes.org		8015825	1		
+166	Leiter, Barbara	Barbara		Leiter	3276	2		A004	leiterb@jenkintown.org		4682063	1	Leiterbes	
+167	Millili, Anna H	Anna	H	Millili	3276	1	Kindergarten Teacher	B119	millilia@jtowndrakes.org		5924145	1	Milliliaes	
+168	Morretta, Teresa M	Teresa	M	Morretta	3276	2	6th Grade Teacher	A206	morrettat@jtowndrakes.org		7256058	1	Morrettates	
+169	Moulton, Elizabeth	Elizabeth		Moulton	3276	2	Elementary Learning Support Teacher	A204	moultonl@jtowndrakes.org	moultone	9812579	1	Moultonees	
+170	Paone, Marybeth	Marybeth		Paone	3276	2	1st Grade Teacher	A105	paonem@jtowndrakes.org		4123953	1	paonem	
+171	Purcaro, Keith L	Keith	L	Purcaro	3276	2	Elementary School Principal		purcarok@jenkintow.org		7935836	1	purcarok	
+172	Reid, Josette	Josette		Reid	3276	1	Sixth Grade Teacher	A115	reidj@jtowndrakes.org	sadowskaj	4805061	1	Sadowskajes	
+173	Rosen, Melissa L	Melissa	L	Rosen	3276	1	5th Grade Teacher	A207	rosenm@jtowndrakes.org		4060573	1	Rosenm	
+174	Schwarz, Patti	Patti		Schwarz	3276	2		A103	schwarzp@jenkintown.org		5357345	1	Schwarzpes	
+175	Seitz, David	David		Seitz	3276	2		A204	seitzd@jenkintown.org		8472538	1	Seitzdes	
+176	Sterman-Soroko, Paulette P	Paulette	P	Sterman-Soroko	3276	2		A200	stermanp@jenkintown.org		5126408	1	sorokopes	
+177	Stover, Mark	Mark		Stover	3276	2		A107		stoverm1	1354648	1	mark.stover	
+178	Vafiadis, George K	George	K	Vafiadis	8049	1	Physical Education Teacher		vafiadisg@jtowndrakes.org		7094283	1	Vafiadisges	
+179	Welch, Kathleen	Kathleen		Welch	3276	2	Kindergarten Teacher	B120	welchk@jtowndrakes.org		1628792	1		
+180	White, Dana C	Dana	C	White	3276	1	6th Grade Teacher	A205	whited@jtowndrakes.org		1715462	1	Whitedes	
+182	Bilbee, Carolynn A	Carolynn	A	Bilbee	8049	2			bilbeec@jenkintown.org		5185346	1	Bilbeecms	
+183	Gartner, Jacqueline	Jacqueline		Gartner	8049	2			gartnerj@jenkintown.org		7657435	1		
+196	Leiter, Barbara	Barbara		Leiter	8049	2			leiterb@jenkintown.org		4682063	1	Leiterbms	
+197	Lynch, Rosemary B	Rosemary	B	Lynch	8049	2	Social Worker	D105	lynchr@jenkintown.org	lynchr	9380543	2	lynchr	
+198	Minni, Elisa Z	Elisa	Z	Minni	8049	2	Learning Support Teacher	D116	minnie@jtowndrakes.org	minnie	2764321	1	Minniems	
+199	McLoughlin, Rebecca M	Rebecca	M	McLoughlin	8049	1	Middle School Guidance Counselor	D103	mcloughlinr@jtowndrakes.org	morrisr	9465064	1	Morrisrms	
+207	Weinberg, Michelle S	Michelle	S	Weinberg	8049	2	Social Worker	D104	weinbergm@jenkintown.org	weinbergm	8153239	2		
+208	Gallagher, Liz	Liz		Gallagher	8049	2	Intern			gallagherl	1111	2		
+209	Oakes, Erin	Erin		Oakes	8049	2				oakese	2222	2		
+210	Casanova, Marielle	Marielle		Casanova	8049	2				casanovam	3333	2		
+211	Hughes, Susan	Susan		Hughes	0	2	Secretary to Superintendant		hughess@jenkintown.org	hughess	8582	2		
+212	Chesney, Susan B	Susan	B	Chesney	0	2	Human Resources Manager		chesneys@jenkintown.org		1308	2		
+213	Wade, Timothy	Timothy		Wade	0	2	Superintendent		wadet@jenkintown.org	wadet	6184191	2		
+214	Bauman, Carole	Carole		Bauman	8049	2	MS/HS Secretary		baumanc@jenkintown.org	baumanc	2230	2		
+215	Lucas, Mary	Mary		Lucas	3276	2	ES Secretary		lucasm@jenkintown.org	lucasm	3575	2		
+216	Citron, Mark C.	Mark	C.	Citron	8049	2	Assistant to Principal/Athletic Director		citronm@jenkintown.org	Citronm	4306872	2		
+217	Drennen, Judy	Judy		Drennen	0	2	Special Education Secretary		drennenj@jenkintown.org	drennenj	9154	2		
+218	Draus, Anne C	Anne	C	Draus	0	2	Tech Support		adraus@mciu.org	adraus	999998	2	adraus	
+251	Reid, Susan	Susan		Reid	0	2	School Nurse		Reids@jenkintown.org	grahams	1762819	2		
+252	Lunch, Lunch	Lunch		Lunch	8049	1					99999	1		
+351	Pauley, Brook	Brook		Pauley	8049	1	guidance intern		pauleyb@jenkintown.org	pauleyb	1234	0		
+352	Schick, Krista	Krista		Schick	8049	2	guidance intern		schickk@jenkintown.org	schickk	12345	0		
+401	Gabage, Margie	Margie		Gabage	0	2	Lunch Staff			gabagem	999999	3		
+402	Looney, Mimi	Mimi		Looney	3276	2	Library/Instructional Asst		looneym@jenkintown.org	looneym	777777	2		
+403	Glennon, Michele	Michele		Glennon	0	1	Director of Special Ed/Pupil Services		glennonm@jtowndrakes.org	glennonm	3602949	2		
+405	Mulvaney, Elise	Elise		Mulvaney	0	2	Elementary Secretary		mulvaneye@jenkintown.org	mulvaneye	333333	2		
+406	Derr, Patricia C	Patricia	C	Derr	0	2	School Psychologist	D101	derrp@jtowndrakes.org	derrp	3905439	2		
+408	Kuchler, Tricia	Tricia		Kuchler	0	2	School Psychologist Intern		kuchlert@jenkintown.org	kuchlert	222222	0		
+409	Kender, Nicole	Nicole		Kender	3276	2	Elementary Guidance Intern			kendern	123456	0		
+451	Toye, Jill	Jill		Toye	8049	1	High School Librarian		toyej@jtowndrakes.org	toyej	9350903	1	toyejhs	
+452	Roller, Thomas A	Thomas	A	Roller	8049	1	MS/HS Principal		rollert@jtowndrakes.org		1651709	2		
+453	MCELROY, Cristin L	Cristin	L	MCELROY	8049	2					3826016	0		
+455	DEVERS, ROBERT	ROBERT		DEVERS	8049	2					6867045	0		
+456	Mulligan, Carol	Carol		Mulligan	3276	2			ptkids@aol.com		3250723	0		
+458	CUOZZO, LAURIE J	LAURIE	J	CUOZZO	3276	2					1851248	0		
+459	Kelman, Bonnye	Bonnye		Kelman	3276	2					4652373	2		
+460	Imberman, Pauline	Pauline		Imberman	3276	1	Occupational Therapist (Consultant)		imbermanp@jtowndrakes.org		6162694	2		
+461	Dubenko, Zorian B	Zorian	B	Dubenko	0	2	Business Manager		dubenkoz@jtowndrakes.org	zorian	9596163	2		
+501	Instructor, Dual Enrollment	Dual Enrollment		Instructor	8049	1			instructord@jenkintown.org		8888888	1	kafkalac_dual	
+502	Teacher, Subcontracted	Subcontracted		Teacher	8049	1	VHS Teacher		flynns@jtowndrakes.org		9999999	1	teachersub	
+551	Oh, Yura	Yura		Oh	8049	2			ohy@jenkintown.org		6362854	1	ohjhs	
+601	Cleary, Amy M	Amy	M	Cleary	8049	2			clearya@jenkintown.org		4348493	1	clearya	
+602	Geary, Ashley E	Ashley	E	Geary	8049	1	Student Assistance Counselor	D100	sabola@jtowndrakes.org	sabola	2604684	2	sabola	
+603	Pauley, Kait	Kait		Pauley	0	2					1234	0		
+604	Rothman, Joy	Joy		Rothman	0	2	guidance intern			rothmanj	321	0		
+605	Ginder, Kait	Kait		Ginder	8049	1	Guidance Intern			ginderk	654	0		
+606	Rothman, Joy	Joy		Rothman	8049	2	guidance intern			rothmanj1	987	0		
+651	Di Paulo, Christine K	Christine	K	Di Paulo	8049	2			dipauloc@jenkintown.org		1217252	1	dipauloc	
+652	Hamilton, Paul A	Paul	A	Hamilton	8049	1	Social Studies Teacher	D201	hamiltonp@jtowndrakes.org		3169287	1	hamiltonp	
+653	Lite, Samantha M	Samantha	M	Lite	8049	2			lites@jenkintown.org		5028747	1	litesclose	
+654	Cox, Matthew A	Matthew	A	Cox	3276	1	Physical Education/Health Teacher	A117	coxm@jtowndrakes.org		8954381	1	coxm	
+655	Herr, Margaret	Margaret		Herr	3276	1	6th Grade Teacher	A202	herrm@jtowndrakes.org		5179294	1	herrm	
+656	Askin, Jenna E	Jenna	E	Askin	3276	1	4th Grade Teacher	A102	askinj@jtowndrakes.org		8041052	1	askinj	
+657	Wiseman, Nicole M	Nicole	M	Wiseman	3276	2			wisemann@jenkintown.org		7838201	1	wiseman	
+701	Matthews, Katie	Katie		Matthews	8049	2			matthewsk@jenkintown.org	matthewsk	5678	2		
+702	Gonzalez, Carlo	Carlo		Gonzalez	8049	2			gonzalezc@jenkintown.org	gonzalezc	7890	0		
+751	defaultLast, defaultFirst	defaultFirst		defaultLast	0	2				ptadmin	default	0		
+801	Devlin, Arlene	Arlene		Devlin	0	2	Business Manager Secretary		devlina@jenkintown.org	devlina	123456	2		
+851	Imberman, Pauline	Pauline		Imberman	0	1				imbermanp	6789	0		
+901	BLI, admin	admin		BLI	0	2				bliadmin	BLI123	0		
+951	Ozga, Jacqueline G	Jacqueline	G	Ozga	3276	1	2nd Grade Teacher	A004	ozgaj@jtowndrakes.org	ozgaj	1059584	1	ozgaj	
+952	Lynch, Amy R	Amy	R	Lynch	3276	2	Fifth Grade Teacher	A100	lyncha@jtowndrakes.org		9072919	1	lyncha	
+953	Costello, Christina	Christina		Costello	8049	2				costelloc	84638405	0		
+954	Smith, Molly	Molly		Smith	8049	2				smithm	89473047	0		
+1001	O'Brien, Christopher P	Christopher	P	O'Brien	0	1	Athletic Director/Trainer		obrienc@jtowndrakes.org	obrienc	3101287	2		
+1002	Ashmore, Katelyn M	Katelyn	M	Ashmore	3276	2			ashmorek@jenkintown.org		190723691	2		
+1051	Oliver, Mary-Virginia	Mary-Virginia		Oliver	3276	2	Learning Supoort Aide		oliverm@jenkintown.org		150448902	2		
+1052	Bogdanoff, Judith	Judith		Bogdanoff	3276	2	Learning Support Aide		bogdanoj@jenkintown.org		174447753	2		
+1053	Miller, Patricia A	Patricia	A	Miller	8049	2	Instructional Aide		millerp@jenkintown.org		181441107	2		
+1054	Looney, Hermina A	Hermina	A	Looney	3276	2	Library Aide		looneym@jenkintown.org		193444668	2		
+1055	Landis, Jayne O	Jayne	O	Landis	8049	2	Instructional Aide		landisj@jtowndrakes.org		182480596	2		
+1056	McBrien, Kara	Kara		McBrien	8049	2	Instructional Aide		mcbrienk@jenkintown.org		189502551	2		
+1057	Mueller, Lisa	Lisa		Mueller	8049	1	Instructional Aide		muellerl@jtowndrakes.org	muellerl	195623155	1		
+1058	Mulvaney, Elise P	Elise	P	Mulvaney	3276	1			mulvanee@jenkintown.org	emulvaney	139460388	2		
+1059	Parisi, Suellen	Suellen		Parisi	3276	1	Instructional Aide		parisis@jenkintown.org	parisis	343502859	2		
+1060	Tomzack, Alexandra L	Alexandra	L	Tomzack	3276	2	Special Education Teacher	A003	tomzacka@jtowndrakes.org		9740241	1		
+1101	Ashenbrenner, Luke T	Luke	T	Ashenbrenner	8049	1	Math Teacher	E110	ashenbrennerl@jtowndrakes.org	ashenbrennerl	2873674	1	ashenbrennerlhs	
+1102	Admin, MCIU_JSD	MCIU_JSD		Admin	0	2			powerschool@mciu.org	mciuadmintest	1605999	2		
+1151	StudyHall, Teacher	Teacher		StudyHall	8049	2					STH9	1		
+1201	Smith, Theo	Theo		Smith	0	2	MCIU Data Support Specialist		tsmith@mciu.org	tsmith	999999999	2		
+1251	Fantuzzo, Emily	Emily		Fantuzzo	3276	2			fantuzzoe@jenkintown.org		8703569	1		
+1252	Hetrick, Elizabeth A	Elizabeth	A	Hetrick	0	1	School Nurse		hetricke@jtowndrakes.org	hetricke	9212062	2		
+1253	Owen, Megan M	Megan	M	Owen	3276	1	5th Grade Teacher	A203	owenm@jtowndrakes.org		8629892	1	owenm	
+1254	McNamara, Kristen S	Kristen	S	McNamara	3276	1	Elementary Librarian/Media Specialist	A112	mcnamarak@jtowndrakes.org	mcnamarak	5938618	1		
+1255	Durkin, Leslie A	Leslie	A	Durkin	3276	1	2nd Grade Teacher	A103	durkinl@jtowndrakes.org		4897574	1	rizzol	
+1256	Budner, Jennifer J	Jennifer	J	Budner	3276	2	1st Grade Teacher	A107	budnerj@jtowndrakes.org		7516106	1	budnerjes	
+1257	Smith, Devon M	Devon	M	Smith	3276	2	Teacher		smithd@jenkintown.org		9859626	1	smithd	
+1258	Rodoff, Kenneth	Kenneth		Rodoff	8049	1	K-12 Technology Integration Coach		rodoffk@jtowndrakes.org	rodoffk	6026507	2	rodoffk	
+1259	Zetts, Andrew C	Andrew	C	Zetts	8049	2	Social Studies Teacher	D212	zettsa@jenkintown.org		8087987	1	zettsa	
+1260	Davidson-Arms, Alyssa	Alyssa		Davidson-Arms	3276	1			davidsona@jtowndrakes.org		4696342	1	davidsonaes	
+1309	Weinberg, Michelle	Michelle		Weinberg	0	2					8153239	0		
+1361	temp, sub	sub		temp	8049	1				temp	7306	0		
+1411	Agger, Elizabeth A	Elizabeth	A	Agger	3276	2			aggere@jenkintown.org		7346032	1	aggere	
+1461	Brueckman, Harry	Harry		Brueckman	0	2					1813463	0		
+1462	Gans, Meredith A	Meredith	A	Gans	0	2					1936451	0		
+1463	Schrader, Ann T	Ann	T	Schrader	0	2					1793458	0		
+1464	Sumerix, Mary M	Mary	M	Sumerix	0	2					1783284	0		
+1465	Hertneck, Cheryl	Cheryl		Hertneck	0	2					0000000	0		
+1466	Bell, Christine S	Christine	S	Bell	0	2					1442248	0		
+1511	O'Neill, Delores	Delores		O'Neill	8049	2				oneilld	9375830084	2		
+1561	Gramiak, Steve	Steve		Gramiak	8049	2					395739	0		
+1562	Gramiak, Steve	Steve		Gramiak	0	2					395739	2		
+1611	Lynch, Rosemary B	Rosemary	B	Lynch	3276	2	Social Worker	D105	lynchr@jenkintown.org	lynchr	9380543	2	lynchr	
+1661	Smith, Theo	Theo		Smith	8049	2	MCIU Data Support Specialist		tsmith@mciu.org	tsmith	999999999	2		
+1711	Smith, Theo	Theo		Smith	3276	2	MCIU Data Support Specialist		tsmith@mciu.org	tsmith	999999999	2		
+1761	MacFarland, Bridget	Bridget		MacFarland	3276	2			macfarlanb@jenkintown.org		4764501	1	macfarlandb	
+1763	Gillard, Eileen E	Eileen	E	Gillard	3276	2			gillarde@jenkintown.org		1865669	2		
+1764	Kleiman, Heidi L	Heidi	L	Kleiman	3276	2			kleimanh@jenkintown.org		2037019	2		
+1765	Som, Anuradha Rai	Anuradha	Rai	Som	3276	2			somr@jenkintown.org		2149667	2		
+1811	Intern, 2	2		Intern	8049	1				Intern2	8654	0		
+1812	Intern, 1	1		Intern	8049	1				Intern	57575	0		
+1861	Teacher, Subcontracted	Subcontracted		Teacher	3276	1	VHS Teacher		flynns@jtowndrakes.org		9999999	1	teachersub	
+1863	Teacher, Subcontracted	Subcontracted		Teacher	9999	1	VHS Teacher		flynns@jtowndrakes.org		9999999	1	teachersub	
+1864	Teacher, Subcontracted	Subcontracted		Teacher	0	1	VHS Teacher		flynns@jtowndrakes.org		9999999	1	teachersub	
+1911	Laverty, Allison B	Allison	B	Laverty	8049	1	MS/HS Secretary			lavertya	950849	2		
+1961	Seweryn, Natalie R	Natalie	R	Seweryn	3276	2	World Language Teacher	A114	sewerynn@jtowndrakes.org	sewerynn	2904782	1	sewerynn	
+2011	Holcomb, Wendy	Wendy		Holcomb	3276	1	Elementary Music Teacher	A006	holcombb@jtowndrakes.org		1483579	1	holcombb	
+2061	Zetts, Cassandra M	Cassandra	M	Zetts	8049	2	Social Studies Teacher		zettsc@jtowndrakes.org		9142892	1	czettshs	
+2062	Leonard, Jennifer Y	Jennifer	Y	Leonard	3276	2	Elementary Art Teacher	A006	leonardj@jenkintown.org		5490893	1	leonardjes	
+2063	McNamara, Robert R	Robert	R	McNamara	8049	1	English Teacher	D118	mcnamarar@jtowndrakes.org		6289571	1	mcnamararhs	
+2111	Gitler, Kristen O	Kristen	O	Gitler	3276	2	Physical Therapist		gitlerk@jenkintown.org		9431364	0		
+2161	Juliani, Abigail R	Abigail	R	Juliani	3276	2	Personal Care Aide		juliania@jenkintown.org		188708095	0		
+2211	Morris, Alicia	Alicia		Morris	8049	2				morrisa	76968	0		
+2212	Omensetter, Caitlyn	Caitlyn		Omensetter	8049	2				omensetterc	38493403	0		
+2261	Weber, Monica	Monica		Weber	0	2	Data Support Specialist		mweber@mciu.org	mweber	56756756	2		
+2262	Francois, Shela	Shela		Francois	3276	2	Personal Care Aide				172745021	2		
+2311	Healy, Lauren M	Lauren	M	Healy	3276	2	Personal Care Aide		healyl@jenkintown.org		207568007	2		
+2361	Admin, Tech	Tech		Admin	0	1	PowerSchool Technical Admin - MCIU			techadmin	87512	2		
+2362	Ewer, Jeanie	Jeanie		Ewer	0	2				ewerj	123	2		
+2363	Takacs, Jill A	Jill	A	Takacs	0	1	Superintendent		takacsj@jtowndrakes.org	takacsj	5807825	2	takacsj	
+2364	Shields, Patrick	Patrick		Shields	8049	2				shieldsp	9876	0		
+2365	Lafferty, Dana	Dana		Lafferty	8049	2				laffertyd	749302	0		
+2366	Pierre-Louis, Jessica	Jessica		Pierre-Louis	0	2					234567890	0		
+2367	Pierre-Louis, Jessica	Jessica		Pierre-Louis	8049	2				Pierre-Louisj	567123	0		
+2411	Kelly, Ann E	Ann	E	Kelly	8049	1	Digital Media Arts Teacher	E113	kellya@jtowndrakes.org	kellya	2517973	1	kellya	
+2461	Stover, Mark	Mark		Stover	8049	2		A107		stoverm1	1354648	1	mark.stover	
+2511	Intern1, Guidance	Guidance		Intern1	8049	1				Intern1	uqngpagj	2	Intern1	
+2512	Kane, Karen M	Karen	M	Kane	3276	1	First Grade	A110	kanek@jtowndrakes.org		5738027	1	kanek	
+2561	Fitzgerald, Mary	Mary		Fitzgerald	3276	1				fitzgeraldm	12345	0		
+2562	Casey, Jenny	Jenny		Casey	8049	2				caseyj	123987	0		
+2612	Page, Gloria	Gloria		Page	3276	2				pageg	2434567	2		
+2661	Report Card, Online	Online		Report Card	0	1				mbaplugin	report card	0		
+2662	Hart, Pamula	Pamula		Hart	3276	2	Elementary Principal		hartp@jtowndrakes.org	hart	5380613	2		
+2663	Rodoff, Kenneth	Kenneth		Rodoff	3276	1	K-12 Technology Integration Coach		rodoffk@jtowndrakes.org	rodoffk	6026507	2	rodoffk	
+2665	Seweryn, Natalie R	Natalie	R	Seweryn	8049	2	World Language Teacher	A114	sewerynn@jtowndrakes.org	sewerynn	2904782	1	sewerynn	
+2666	Profit, Theresa M	Theresa	M	Profit	3276	1	Learning Support Teacher		profitt@jtowndrakes.org	profitt	5726147	1	newsped	
+2667	Zachmann, Colleen	Colleen		Zachmann	3276	2	Elementary Art Teacher	A006	zachmannc@jtowndrakes.org		2054798	1	zachmannc	
+2668	Valane, Lauren	Lauren		Valane	0	2	School Psychologist		valanel@jtowndrakes.org	valanel	2478015	2		
+2711	May, Samantha	Samantha		May	3276	1	Speech Pathologist	A204	mays@jtowndrakes.org	moscas	6387628	2		
+2761	Lamoreux, Vincenza	Vincenza		Lamoreux	8049	1				lamoreuxv	Intern	0		
+2762	Zhan, Emily	Emily		Zhan	8049	1				zhane	Intern2	0		
+2811	Heinerici, Courtney	Courtney		Heinerici	0	2	Admin Specialist/Data Coordinator/Grants		heinericic@jtowndrakes.org	heinericic	011091	2	baiac	
+2812	Level, Data	Data		Level	0	1				leveldata	654321	0		
+2861	Mulvaney, Elise	Elise		Mulvaney	3276	2	Elementary Secretary		mulvaneye@jenkintown.org	mulvaneye	333333	2		
+2862	Mulvaney, Elise	Elise		Mulvaney	8049	2	Elementary Secretary		mulvaneye@jenkintown.org	mulvaneye	333333	2		
+2863	MBA, MBA	MBA		MBA	0	1				MBA	MBA	0		
+2911	Maluk, Holly P	Holly	P	Maluk	8049	1	Social Studies Teacher		malukh@jtowndrakes.org		2646892	1	malukh	
+2912	Santangelo, Andrew	Andrew		Santangelo	8049	2			santangeloa@jtowndrakes.org		8142985	1	santangeloa	
+2913	Farrell, Adam L	Adam	L	Farrell	3276	2	Art Teacher	A006	farrella@jtowndrakes.org		1756525	1	farrella	
+2914	Struck, Sarah E	Sarah	E	Struck	3276	1	3rd Grade Teacher	A204	strucks@jtowndrakes.org		1381376	1	strucks	
+2915	Vogel, Hannah	Hannah		Vogel	3276	2					7170452	1	vogelh	
+2916	Martin, Amanda M	Amanda	M	Martin	3276	2	Teacher		Martina@jtowndrakes.org 		1464046	1	martina	
+2917	Knyaz, Miroslava	Miroslava		Knyaz	8049	2					917	2		
+2918	Knyaz, Miroslava	Miroslava		Knyaz	0	1			knyazm@jtowndrakes.org 	knyazm	697	2		
+2919	Heinerici, Courtney	Courtney		Heinerici	9991	2	Admin Specialist/Data Coordinator/Grants		heinericic@jtowndrakes.org	heinericic	011091	2	baiac	
+2920	Laverty, Allison B	Allison	B	Laverty	9999	1	MS/HS Secretary			lavertya	950849	2		
+2921	Laverty, Allison B	Allison	B	Laverty	9991	1	MS/HS Secretary			lavertya	950849	2		
+2922	Heinerici, Courtney	Courtney		Heinerici	8049	2	Admin Specialist/Data Coordinator/Grants		heinericic@jtowndrakes.org	heinericic	011091	1	baiac	
+2923	Bangor, Neil John	Neil	John	Bangor	0	1	Security Staff		bangorn@jtowndrakes.org	bangorn	SS5857208	2		
+2961	Security, Staff	Staff		Security	0	1				security	INVEST1	0		
+2962	Security, Staff	Staff		Security	3276	1				security	INVEST1	0		
+2963	Security, Staff	Staff		Security	8049	1				security	INVEST1	0		
+2964	Sassaman, Casey	Casey		Sassaman	0	2	School Psychologist	Guidance	sassamanc@jtowndrakes.org		4092942	1		
+2965	Sassaman, Casey	Casey		Sassaman	3276	2	School Psychologist	Guidance	sassamanc@jtowndrakes.org		4092942	2		
+2966	Heinerici, Courtney	Courtney		Heinerici	7598	2	Admin Specialist/Data Coordinator/Grants		heinericic@jtowndrakes.org	heinericic	011091	2	baiac	
+2967	Reed, Kristin	Kristin		Reed	0	1			reedk@jtowndrakes.org	reedk	8583	2		
+3011	Taicher, Corinne	Corinne		Taicher	0	2	LTS		Taicherc@jtowndrakes.org		4925076	4	taicherc	
+3012	Taicher, Corinne	Corinne		Taicher	8049	2	LTS		Taicherc@jtowndrakes.org		4925076	1	taicherc	
+3061	Knox, Megan	Megan		Knox	8049	2	Learning Support Teacher	A210	knoxm@jtowndrakes.org		8015825	1		
+3111	Sassaman, Casey	Casey		Sassaman	8049	2	School Psychologist	Guidance	sassamanc@jtowndrakes.org		4092942	2		
+3112	Cash, Diane	Diane		Cash	3276	1	Kindergarten Teacher		cashd@jtowndrakes.org		6191564	1	cashd	
+3114	Simons, India	India		Simons	3276	1	Special Education Teacher		simonsi@jtowndrakes.org	simonsi	4145625	1	simonsi	
+3116	Merriman, Sinead	Sinead		Merriman	3276	2	TEMP LTS		merrimans@jtowndrakes.org		9635258	1	merrimans	
+3118	Chanoff, Mindy	Mindy		Chanoff	3276	2	LTS Second Grade (Less than a year)		chanoffm@jtowndrakes.org		4859786	1	chanoffm	
+3119	Opferman, Heather L	Heather	L	Opferman	3276	2			Opfermanh@jtowndrakes.org		3708613	1	Opfermanh	
+3121	Stein, Heather	Heather		Stein	3276	2			steinh@jtowndrakes.org		5413438	1	steinh	
+3122	Jutzi, Jennifer	Jennifer		Jutzi	3276	1	Kindergarten		jutzij@jtowndrakes.org		1452075	1	jutzij	
+3123	Wozniak, Timothy	Timothy		Wozniak	3276	1	6th Grade Teacher		wozniact@jtowndrakes.org		8490327	1	wozniakt	
+3124	Sender, Catherine	Catherine		Sender	3276	2	4th Grade Teacher		senderk@jtowndrakes.org 		7489046	1	senderk	
+3125	Nickerson, Michael	Michael		Nickerson	0	1	Facilities Manager		nickersonm@jtowndrakes.org		9129269	2		
+3126	Gaittins, Gywenn	Gywenn		Gaittins	0	2			gaittinsg@jtowndrakes.org	Gaittinsg	8675309	2		
+3161	Ovington, Karen L	Karen	L	Ovington	0	1	Business Manager		ovingtonk@jtowndrakes.org	ovingtonk	3961486	2		
+3162	Heinerici, Courtney	Courtney		Heinerici	3276	2	Admin Specialist/Data Coordinator/Grants		heinericic@jtowndrakes.org	heinericic	011091	1	baiac	
+3211	Hause, Patricia	Patricia		Hause	0	1			hausep@jtowndrakes.org	hausep	13579	2		
+3212	Barnett, Jenny	Jenny		Barnett	0	2			barnettj@jtowndrakes.org		0123	0		
+3214	Mina Pena, Luisa Fernanda	Luisa	Fernanda	Mina Pena	8049	2	Spanish Teacher		minal@jtowndrakes.org		4394564	1		
+3262	Doyal, Bethany Frances	Bethany	Frances	Doyal	8049	2	Computer Science Teacher		doyalb@jtowndrakes.org		5809317	1	Doyalb	
+3311	Tomzack, Alexandra L	Alexandra	L	Tomzack	8049	2	Special Education Teacher	A003	tomzacka@jtowndrakes.org		9740241	1		
+3312	McHugh, Laura	Laura		McHugh	0	2	Nurse		mchughl@jtowndrakes.org		6151028	2		
+3313	Arbelo, Juan	Juan		Arbelo	0	2	Security Staff		arbeloj@jtowndrakes.org 		SS3015209	2		
+3361	Benfield, Jason	Jason		Benfield	0	2	Principal		benfieldj@jtowndrakes.org	benfieldj	8475085	2		
+3362	Flynn, Susanne M	Susanne	M	Flynn	8049	1		A212	flynns@jtowndrakes.org	Flynns	5304307	1	Flynns	
+3363	Morris, Sarah Elizabeth	Sarah	Elizabeth	Morris	8049	2	Spanish/FLES Teacher		morriss@jtowndrakes.org		8213025	1		
+3364	Coopersmith, Brittany Nicole	Brittany	Nicole	Coopersmith	8049	1	Science Teacher		coopersmithb@jtowndrakes.org		7123102	1	coopersmithb	
+3365	Morris, Sarah Elizabeth	Sarah	Elizabeth	Morris	3276	2	Spanish/FLES Teacher		morriss@jtowndrakes.org		8213025	1		
+3366	Garcia Ortiz, Jenna Leigh	Jenna	Leigh	Garcia Ortiz	8049	2			garciaj@jtowndrakes.org	garciaj	7549406	1	garciaj	
+3367	Garcia Ortiz, Jenna Leigh	Jenna	Leigh	Garcia Ortiz	3276	2			garciaj@jtowndrakes.org	garciaj	7549406	1	garciaj	
+3411	Madeira, Kaitlin Wallace	Kaitlin	Wallace	Madeira	3276	1	ES Art Teacher		Madeirak@jtowndrakes.org		7083138	1	madeirak	
+3412	Inter, Nurse	Nurse		Inter	0	1				InternRN	INTERNRN	2		
+3461	Taylor, Carmen	Carmen		Taylor	3276	1				taylorc	6821305	2		
+3467	Stevenson Price, Sarah	Sarah		Stevenson Price	3276	2	Instructional Assistant		stevenson-prices@jtowndrakes.org 	stevensonprices	Assistant 2	2		
+3468	Wagner, Karen Marie	Karen	Marie	Wagner	3276	1	Instructional Assistant		wagnerk@jtowndrakes.org 	wagnerk	Assistant 3	2		
+3469	Gallen, Susan T	Susan	T	Gallen	3276	2	Instructional Aide		gallens@jenkintown.org		1834600	2		
+3470	Woodard, Tina	Tina		Woodard	3276	1	Instructional Assistant		woodardt@jtowndrakes.org 	woodardt	Assistant 5	2		
+3471	Eyrich, Melanie S	Melanie	S	Eyrich	8049	2	Instructional Assistant		eyrichm@jtowndrakes.org	eyrichm	Assitant1	2		
+3472	McBrien, Kara	Kara		McBrien	8049	2	Instructional Aid				Assistant 4	2		
+3474	Tippy, Kerri	Kerri		Tippy	8049	1			tippyk@jtowndrakes.org	tippyk	Assistant 6	2		
+3475	Parisi, Suellen	Suellen		Parisi	8049	1	Instructional Aide		parisis@jenkintown.org	parisis	343502859	2		
+3476	Brown, Matthew L	Matthew	L	Brown	0	1	Security Staff		brownm@jtowndrakes.org		5239015	2		
+3477	Salvino, Susan	Susan		Salvino	3276	2	LTS		salvinos@jtowndrakes.org		101010	1	ssalvino	
+3512	Barrett, Samantha A	Samantha	A	Barrett	8049	1	Physical Education Instructor		basiles@jtowndrakes.org		7063862	1	basiles	
+3561	Pesce, Annemarie	Annemarie		Pesce	3276	1	LTS		pescea@jtowndrakes.org		7280138	1	pescea	
+3611	Chepress, Alyssa	Alyssa		Chepress	3276	2	Long Term Sub		chepressa@jtowndrakes.org		3760192	1	achepress	
+3661	Fitzgerald, William H	William	H	Fitzgerald	3276	2	Long Term Sub		fitzgeraldb@jtowndrakes.org		4158321	1	fitzgeraldb	
+3711	Staff, Form A	Form	A	Staff	0	1				Forms123	Staff123	0		
+3712	Staff, Form A	Form	A	Staff	3276	1				Forms123	Staff123	0		
+3713	Staff, Form A	Form	A	Staff	8049	1				Forms123	Staff123	0		
+3714	Staff, Form A	Form	A	Staff	9999	1				Forms123	Staff123	0		
+3715	Staff, Form A	Form	A	Staff	7598	1				Forms123	Staff123	0		
+3716	Staff, Form A	Form	A	Staff	9991	1				Forms123	Staff123	0		
+3717	Jahnke, Christopher	Christopher		Jahnke	0	1	ES Principal		jahnkec@jtowndrakes.org	CJahnke	3853829	2		
+3718	Jahnke, Christopher	Christopher		Jahnke	3276	1	ES Principal		jahnkec@jtowndrakes.org	CJahnke	3853829	2		
+3720	Wyche, Brandon	Brandon		Wyche	3276	1			wycheb@jtowndrakes.org	BWyche	4636961	1	BWyche	
+3721	Wyche, Brandon	Brandon		Wyche	8049	1			wycheb@jtowndrakes.org	BWyche	4636961	1	BWyche	
+3722	Kugelman, Louis	Louis		Kugelman	3276	1			Kugelmanl@jtowndrakes.org		1496783	1	LKugelman	
+3723	Kugelman, Louis	Louis		Kugelman	8049	1			Kugelmanl@jtowndrakes.org		1496783	1	LKugelman	
+3724	Thomas, Amanda	Amanda		Thomas	3276	1			tlove004@aol.com		Amanda Thomas	2	AThomas	
+3725	Thatcher, Sarah	Sarah		Thatcher	8049	1			thatchers@jtowndrakes.org		7515034	1	SThatcher	
+3726	Shoemaker, Andrew	Andrew		Shoemaker	8049	1			shoemakera@jtowndrakes.org		1250972	1	AShoemaker	
+3728	Sanchez, Asiana	Asiana		Sanchez	8049	1			asianarae14@gmail.com		0000	2	ASanchez	
+3729	Milliken, Katherine	Katherine		Milliken	8049	1			millikenk@jtowndrakes.org		9894287	1	KMilliken	
+3730	test, test	test		test	3276	1				TEST222	888888	1	TEST222	
+3733	Mazza, Laura Christine	Laura	Christine	Mazza	3276	1			mazzal@jtowndrakes.org	mazzaladmin	2978768	1	LMazza	
+3734	Mazza, Laura Christine	Laura	Christine	Mazza	8049	1			mazzal@jtowndrakes.org	mazzaladmin	2978768	1	LMazza	
+3762	Oliver, Thomas	Thomas		Oliver	8049	1			olivert@jtowndrakes.org		9283426	1	TOliver	
+3811	test, test	test		test	0	1				TEST222	888888	1	TEST222	
+3812	test, test	test		test	8049	1				TEST222	888888	1	TEST222	
+3814	Flanagan, Carrie	Carrie		Flanagan	3276	1	Teacher		flanaganc@jtowndrakes.org		6891875	1	CFlanagan	
+3815	Howard, Brenton	Brenton		Howard	3276	1			howardb@jtowndrakes.org		8217934	1	BHoward	
+3817	McGarry, Delaney	Delaney		McGarry	0	1			dmcgarry@arcadia.edu		8888888	0		
+3861	Page, Danielle	Danielle		Page	0	1	Child care employee PT		Scootergirl7816@yahoo.com		0000001	2		
+3862	Laverty, Allison B	Allison	B	Laverty	0	1	MS/HS Secretary			lavertya	950849	2		
+3863	Profit, Theresa M	Theresa	M	Profit	8049	1	Learning Support Teacher		profitt@jtowndrakes.org	profitt	5726147	1	newsped	
+3865	Butler, Lisa	Lisa		Butler	3276	1	Elementary School FT Special Education T		butlerl@jtowndrakes.org		2169092	1	lbutler	
+3961	Instructor, Dual Enrollment	Dual Enrollment		Instructor	3276	1			instructord@jenkintown.org		8888888	1	kafkalac_dual	
+3962	Instructor, Dual Enrollment	Dual Enrollment		Instructor	9999	1			instructord@jenkintown.org		8888888	1	kafkalac_dual	
+3963	Instructor, Dual Enrollment	Dual Enrollment		Instructor	9991	1			instructord@jenkintown.org		8888888	1	kafkalac_dual	
+3964	Instructor, Dual Enrollment	Dual Enrollment		Instructor	0	1			instructord@jenkintown.org		8888888	1	kafkalac_dual	
+3966	Lamplugh, Catherine	Catherine		Lamplugh	8049	1	Spanish Teacher		lamplughc@jtowndrakes.org		1748425	1	clamplugh	
+4011	Nitkiewicz, Melanie	Melanie		Nitkiewicz	8049	1	French Teacher		nitkiewiczm@jtowndrakes.org		7607483	1	mnitkiewicz	
+4012	Nitkiewicz, Melanie	Melanie		Nitkiewicz	3276	1	French Teacher		nitkiewiczm@jtowndrakes.org		7607483	1	mnitkiewicz	
+4013	Lorraine, Sarah	Sarah		Lorraine	3276	1	School Psychologist		lorraines@jtowndrakes.org	slorraine	4198304	2		
+4014	Hennelly, Maggie	Maggie		Hennelly	3276	1	Kindergarten Teacher		hennellym@jtowndrakes.org		2561725	1	mhennelly	
+4016	Johnson, Christina	Christina		Johnson	8049	1	Special Education Teacher		johnsonc@jtowndrakes.org	cjohnson1	6368561	1	cjohnson	
+4017	Hawkins, Hykeem	Hykeem		Hawkins	0	1	Security			hhawkins	SEC001	2		
+4018	Brock, Laura	Laura		Brock	3276	1	Third Grade Teacher - Sub		brockl@jtowndrakes.org	lbrock	3207931	1	lbrock	
+4019	Oliver, Thomas	Thomas		Oliver	3276	1			olivert@jtowndrakes.org		9283426	1	TOliver	
+4020	Palmer, Jaynilyn	Jaynilyn		Palmer	8049	1	Counselor Intern			jpalmer	Intern1	2		
+4062	Lipshutz, Abbe	Abbe		Lipshutz	3276	1	Long Term Sub		ipshutza@jtowndrakes.org		7349826	1	alipshutz	
+4063	Bowers, Maggie	Maggie		Bowers	0	1	Sub School Nurse			mbowers	0007	2		
+4064	Jackson-Sydnor, Britnee	Britnee		Jackson-Sydnor	8049	1	Instructional Assistant			bjacksonsydnor	IA001	1		

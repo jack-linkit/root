@@ -448,5 +448,6 @@
 4609	C1007	HA150 (Intro Health Services): Arcadia	1.00	0		8049
 4614	C2300	HIS101 (Western Civilization I): MCCC	1.00	0		8049
 4613	C2200	BIO131 (Human Anatomy & Phys I): MCCC	1.00	0		8049
+4620	C2001	FYE101 (First Year Exp): MCCC	1.00	0		8049
 4608	C1006	MA141 (Elementary Stats): Arcadia	1.00	0		8049
 4618	C3000	ECON102 (Intro to Microeconomics): PSU	1.00	0		8049

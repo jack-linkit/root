@@ -739,7 +739,7 @@ group by sc.Name, g.Name, sub.Name, u.FullName, c.Name
 
 -- MS Alg I
 insert into @classbm
-select sc.Name, g.Name, 'Algebra I', u.FullName, c.Name,
+select sc.Name, g.Name, 'Algebra I', CONCAT('"', u.FullName, '"'), c.Name,
 sum(case when vt.Name like '%Form A%' then 1 else 0 end),
 sum(case when vt.Name like '%Form B%' then 1 else 0 end),
 sum(case when vt.Name like '%Form C%' then 1 else 0 end)
@@ -757,7 +757,7 @@ group by sc.Name, g.Name, sub.Name, u.FullName, c.Name
 
 -- MS Alg II
 insert into @classbm
-select sc.Name, g.Name, 'Algebra II', u.FullName, c.Name,
+select sc.Name, g.Name, 'Algebra II', CONCAT('"', u.FullName, '"'), c.Name,
 sum(case when vt.Name like '%Form A%' then 1 else 0 end),
 sum(case when vt.Name like '%Form B%' then 1 else 0 end),
 sum(case when vt.Name like '%Form C%' then 1 else 0 end)
@@ -775,7 +775,7 @@ group by sc.Name, g.Name, sub.Name, u.FullName, c.Name
 
 -- MS Geo
 insert into @classbm
-select sc.Name, g.Name, 'Geometry', u.FullName, c.Name,
+select sc.Name, g.Name, 'Geometry', CONCAT('"', u.FullName, '"'), c.Name,
 sum(case when vt.Name like '%Form A%' then 1 else 0 end),
 sum(case when vt.Name like '%Form B%' then 1 else 0 end),
 sum(case when vt.Name like '%Form C%' then 1 else 0 end)
@@ -793,7 +793,7 @@ group by sc.Name, g.Name, sub.Name, u.FullName, c.Name
 
 -- HS Alg I
 insert into @classbm
-select sc.Name, g.Name, 'Algebra I', u.FullName, c.Name,
+select sc.Name, g.Name, 'Algebra I', CONCAT('"', u.FullName, '"'), c.Name,
 sum(case when vt.Name like '%Form A%' then 1 else 0 end),
 sum(case when vt.Name like '%Form B%' then 1 else 0 end),
 sum(case when vt.Name like '%Form C%' then 1 else 0 end)
@@ -811,7 +811,7 @@ group by sc.Name, g.Name, sub.Name, u.FullName, c.Name
 
 -- HS Alg II
 insert into @classbm
-select sc.Name, g.Name, 'Algebra II', u.FullName, c.Name,
+select sc.Name, g.Name, 'Algebra II', CONCAT('"', u.FullName, '"'), c.Name,
 sum(case when vt.Name like '%Form A%' then 1 else 0 end),
 sum(case when vt.Name like '%Form B%' then 1 else 0 end),
 sum(case when vt.Name like '%Form C%' then 1 else 0 end)
@@ -829,7 +829,7 @@ group by sc.Name, g.Name, sub.Name, u.FullName, c.Name
 
 -- HS Geo
 insert into @classbm
-select sc.Name, g.Name, 'Geometry', u.FullName, c.Name,
+select sc.Name, g.Name, 'Geometry', CONCAT('"', u.FullName, '"'), c.Name,
 sum(case when vt.Name like '%Form A%' then 1 else 0 end),
 sum(case when vt.Name like '%Form B%' then 1 else 0 end),
 sum(case when vt.Name like '%Form C%' then 1 else 0 end)
@@ -847,7 +847,7 @@ group by sc.Name, g.Name, sub.Name, u.FullName, c.Name
 
 -- HS Eng I
 insert into @classbm
-select sc.Name, g.Name, 'English I', u.FullName, c.Name,
+select sc.Name, g.Name, 'English I', CONCAT('"', u.FullName, '"'), c.Name,
 sum(case when vt.Name like '%Form A%' then 1 else 0 end),
 sum(case when vt.Name like '%Form B%' then 1 else 0 end),
 sum(case when vt.Name like '%Form C%' then 1 else 0 end)
@@ -865,7 +865,7 @@ group by sc.Name, g.Name, sub.Name, u.FullName, c.Name
 
 -- HS Eng II
 insert into @classbm
-select sc.Name, g.Name, 'English II', u.FullName, c.Name,
+select sc.Name, g.Name, 'English II', CONCAT('"', u.FullName, '"'), c.Name,
 sum(case when vt.Name like '%Form A%' then 1 else 0 end),
 sum(case when vt.Name like '%Form B%' then 1 else 0 end),
 sum(case when vt.Name like '%Form C%' then 1 else 0 end)
@@ -883,7 +883,7 @@ group by sc.Name, g.Name, sub.Name, u.FullName, c.Name
 
 -- HS Eng III
 insert into @classbm
-select sc.Name, g.Name, 'English III', u.FullName, c.Name,
+select sc.Name, g.Name, 'English III', CONCAT('"', u.FullName, '"'), c.Name,
 sum(case when vt.Name like '%Form A%' then 1 else 0 end),
 sum(case when vt.Name like '%Form B%' then 1 else 0 end),
 sum(case when vt.Name like '%Form C%' then 1 else 0 end)
